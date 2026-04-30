@@ -1,0 +1,1070 @@
+﻿<Manifest
+  Version="1.0.0"
+  IsLibrary="true">
+  <Libraries />
+  <Pou
+    Name="radToDeg_SRSS"
+    Moniker="radToDeg_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="angleRad"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="radToDeg_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="SunriseSunsetTime"
+    Moniker="SunriseSunsetTime.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="FunctionBlock"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="true">
+    <Variable
+      Name="Latitude_SRSS"
+      Comment="Latitude (degrees)"
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="Longitude_SRSS"
+      Comment="Longitude (degrees)"
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="UTCZoneHour_SRSS"
+      Comment="UTC Time zone hour"
+      DataType="INT"
+      Kind="VarInput" />
+    <Variable
+      Name="DateIn_SRSS"
+      Comment="Date used for sunrise and sunset calculation"
+      DataType="DATE_SRSS"
+      Kind="VarInput" />
+    <Variable
+      Name="En_SRSS"
+      Comment="Enable sunrise sunset time calculation"
+      DataType="BOOL"
+      Kind="VarInput" />
+    <Variable
+      Name="LocalTimeSunrise_SRSS"
+      Comment="Local time sunrise"
+      DataType="TIME_SRSS"
+      Kind="VarOutput" />
+    <Variable
+      Name="SunriseDate_SRSS"
+      Comment="Date of sunrise time calculated"
+      DataType="DATE_SRSS"
+      Kind="VarOutput" />
+    <Variable
+      Name="LocalTimeSunset_SRSS"
+      Comment="Local time sunset"
+      DataType="TIME_SRSS"
+      Kind="VarOutput" />
+    <Variable
+      Name="SunsetDate_SRSS"
+      Comment="Date of sunrise time calculated"
+      DataType="DATE_SRSS"
+      Kind="VarOutput" />
+    <Variable
+      Name="Error_SRSS"
+      Comment="Calculation error"
+      DataType="UINT"
+      Kind="VarOutput" />
+    <Variable
+      Name="dateJD"
+      Comment="Date in Julian format"
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="utcTimeRealSunrise"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="latitudeReal"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="longitudeReal"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="timeTest"
+      Comment=""
+      DataType="TIME"
+      Kind="Var" />
+    <Variable
+      Name="utcTimeRealSunset"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+  </Pou>
+  <Pou
+    Name="degToRad_SRSS"
+    Moniker="degToRad_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="angleDeg"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="degToRad_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="minToHours_SRSS"
+    Moniker="minToHours_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="floatHour"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="minutes"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="minToHours_SRSS"
+      Comment=""
+      DataType="INT"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="floor_SRSS"
+    Moniker="floor_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="tmp"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="VarIn"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="floor_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="minToMinutes_SRSS"
+    Moniker="minToMinutes_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="floatHour"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="hours"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="floatMinute"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="floatSec"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="seconds"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="tmp"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="minutes"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="minToMinutes_SRSS"
+      Comment=""
+      DataType="INT"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="minToSeconds_SRSS"
+    Moniker="minToSeconds_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="floatHour"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="hours"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="floatSec"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="floatMinute"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="minuteInt"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="tmp"
+      Comment=""
+      DataType="INT"
+      Kind="Var" />
+    <Variable
+      Name="minutes"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="minToSeconds_SRSS"
+      Comment=""
+      DataType="INT"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="gregorianToJD_SRSS"
+    Moniker="gregorianToJD_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="a"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="b"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="tmp"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="tmp2"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="yearReal"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="monthReal"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="dayReal"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="gregorianToJD_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcTimeJulianCent_SRSS"
+    Moniker="calcTimeJulianCent_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="jd"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcTimeJulianCent_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="julianCentToJD_SRSS"
+    Moniker="julianCentToJD_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="julianCentToJD_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcGeomMeanLongSun_SRSS"
+    Moniker="calcGeomMeanLongSun_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="tmp"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcGeomMeanLongSun_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcGeomAnomalySun_SRSS"
+    Moniker="calcGeomAnomalySun_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcGeomAnomalySun_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcEccentricityEarthOrbit_SRSS"
+    Moniker="calcEccentricityEarthOrbit_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcEccentricityEarthOrbit_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunEqOfCenter_SRSS"
+    Moniker="calcSunEqOfCenter_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="m"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="mrad"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sinm"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sin2m"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sin3m"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunEqOfCenter_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunTrueLong_SRSS"
+    Moniker="calcSunTrueLong_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="I0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="c"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunTrueLong_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunApparentLong_SRSS"
+    Moniker="calcSunApparentLong_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="o"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="omega"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunApparentLong_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcMeanObliquityOfEcliptic_SRSS"
+    Moniker="calcMeanObliquityOfEcliptic_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="seconds"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcMeanObliquityOfEcliptic_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcObliquityCorrection_SRSS"
+    Moniker="calcObliquityCorrection_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="e0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="omega"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcObliquityCorrection_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunDeclination_SRSS"
+    Moniker="calcSunDeclination_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="ee"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="lambda"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sintt"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunDeclination_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcEquationOfTime_SRSS"
+    Moniker="calcEquationOfTime_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="epsilon"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="l0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="ee"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="m"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="y"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sin2l0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sinm"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="cos2l0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sin4l0"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sin2m"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="Etime"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcEquationOfTime_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcHourAngleSunrise_SRSS"
+    Moniker="calcHourAngleSunrise_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="latRad"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sdRad"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="HAarg"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="lat"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="solarDec"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcHourAngleSunrise_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcHourAngleSunset_SRSS"
+    Moniker="calcHourAngleSunset_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="latRad"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="sdRad"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="HA"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="lat"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="solarDec"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcHourAngleSunset_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSolNoonUTC_SRSS"
+    Moniker="calcSolNoonUTC_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="tnoon"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="eqTime"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="solNoonUTCtmp"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="newt"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="longitude"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSolNoonUTC_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunriseUTC_SRSS"
+    Moniker="calcSunriseUTC_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="noonmin"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="tnoon"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="eqTime"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="solarDec"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="hourAngle"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="delta"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="timeDiff"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="newt"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="timeUTCtmp"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="JD"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="latitude"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="longitude"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunriseUTC_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+  <Pou
+    Name="calcSunsetUTC_SRSS"
+    Moniker="calcSunsetUTC_SRSS.stf"
+    Language="ST"
+    IsIec61499="false"
+    Kind="Function"
+    Password="E4BDBA2BEF6CC4DC"
+    GenerateDebugInfo="false"
+    GeneratingMonitoringSymbols="true"
+    UserEdited="false"
+    Deprecated="false"
+    IsVisible="false">
+    <Variable
+      Name="t"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="noonmin"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="tnoon"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="eqTime"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="solarDec"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="hourAngle"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="delta"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="timeDiff"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="newt"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="timeUTCtmp"
+      Comment=""
+      DataType="REAL"
+      Kind="Var" />
+    <Variable
+      Name="JD"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="latitude"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="longitude"
+      Comment=""
+      DataType="REAL"
+      Kind="VarInput" />
+    <Variable
+      Name="calcSunsetUTC_SRSS"
+      Comment=""
+      DataType="REAL"
+      Kind="VarOutput" />
+  </Pou>
+</Manifest>

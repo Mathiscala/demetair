@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest Version="1.1.0">
+  <Variables>
+    <Variable Name="DateIn_SRSS" Comment="Date used for sunrise and sunset calculation" DataType="DATE_SRSS" Kind="VarInput">
+      <Variable Name="Day" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarInput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Month" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarInput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Year" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarInput" Access="ReadWrite" Min="" Max="" />
+    </Variable>
+    <Variable Name="dateJD" Comment="Date in Julian format" DataType="REAL" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="En_SRSS" Comment="Enable sunrise sunset time calculation" DataType="BOOL" Kind="VarInput" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Min="" Max="" />
+    <Variable Name="Error_SRSS" Comment="Calculation error" DataType="UINT" Kind="VarOutput" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Min="" Max="" />
+    <Variable Name="Latitude_SRSS" Comment="Latitude (degrees)" DataType="REAL" Kind="VarInput" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="latitudeReal" Comment="" DataType="REAL" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="LocalTimeSunrise_SRSS" Comment="Local time sunrise" DataType="TIME_SRSS" Kind="VarOutput">
+      <Variable Name="Hours" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Minutes" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Seconds" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+    </Variable>
+    <Variable Name="LocalTimeSunset_SRSS" Comment="Local time sunset" DataType="TIME_SRSS" Kind="VarOutput">
+      <Variable Name="Hours" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Minutes" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Seconds" DataType="INT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+    </Variable>
+    <Variable Name="Longitude_SRSS" Comment="Longitude (degrees)" DataType="REAL" Kind="VarInput" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="longitudeReal" Comment="" DataType="REAL" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="SunriseDate_SRSS" Comment="Date of sunrise time calculated" DataType="DATE_SRSS" Kind="VarOutput">
+      <Variable Name="Day" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Month" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Year" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+    </Variable>
+    <Variable Name="SunsetDate_SRSS" Comment="Date of sunrise time calculated" DataType="DATE_SRSS" Kind="VarOutput">
+      <Variable Name="Day" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Month" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+      <Variable Name="Year" DataType="UINT" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Comment="" Kind="VarOutput" Access="ReadWrite" Min="" Max="" />
+    </Variable>
+    <Variable Name="timeTest" Comment="" DataType="TIME" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Min="" Max="" />
+    <Variable Name="utcTimeRealSunrise" Comment="" DataType="REAL" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="utcTimeRealSunset" Comment="" DataType="REAL" Kind="Var" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="NoUnits" Access="ReadWrite" Decimals="1" Min="" Max="" />
+    <Variable Name="UTCZoneHour_SRSS" Comment="UTC Time zone hour" DataType="INT" Kind="VarInput" IO="false" Protocol="false" UI="false" Default="false" LogPV="false" IsRetained="false" Alarm="false" UoM="Hours" Access="ReadWrite" Min="" Max="" />
+  </Variables>
+</Manifest>

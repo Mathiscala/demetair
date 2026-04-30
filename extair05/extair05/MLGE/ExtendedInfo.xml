@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectElements>
+  <AcfElementGuid Guid="015e5f7b-7a02-4a92-bc1e-cc693f950ea6">
+    <File>CurrDateTime_TZ.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0249197a-2dc2-41a6-837c-06201576088c">
+    <File>DEAD_BAND.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="02e09bd1-da10-4cf9-803b-de1c611ed3f9">
+    <File>Range_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="03a0932e-c400-46d4-b057-6b267b969f6b">
+    <File>PressToTemp_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="04d159e3-bea4-44c8-92c7-d1e22f845fb3">
+    <File>calcEquationOfTime_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="056236fc-f9d0-4288-8ef0-78590bd9f075">
+    <File>ImpExpMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="07ddf356-a475-4d47-ad7e-585eef19ed9e">
+    <File>ComStatus_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="091b10ed-5545-4179-bf35-9a863c95f323">
+    <File>CelToFahr_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="09a8db5e-64c6-49fb-b57f-7c873253c7c9">
+    <File>And5Com.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0a3ef9ba-3879-4f2f-b083-56e8c0ab2514">
+    <File>CelToFahrDelta_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0adf0593-de38-44a0-982d-c20dd3e23e65">
+    <File>TZ_Mng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0ba6fbe6-6c1d-4988-aea6-47438dbbc66c">
+    <File>RFTrig.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0c2d7df7-033a-4b12-9ae9-53b62a40ff45">
+    <File>ouvertureRegistre.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0c7a549e-7718-4910-b788-e5fcece106c2">
+    <File>Blackout_3.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0f5d2d71-e56d-4bb6-8dfe-c1ca7c0a71b2">
+    <File>Grad_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="0fdea332-7e93-4138-a608-fbae10d31447">
+    <File>Grad_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="10852e80-7d47-4609-a62d-12eaaabebe5c">
+    <File>ExpFilterPID.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="11a53c8d-dd64-4bd9-85e8-472fc839e8e3">
+    <File>Range.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="155e4c7b-8169-4d95-8bd4-8da30208bd1c">
+    <File>minToMinutes_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="156c463c-7956-4e75-8921-7514ac5f2969">
+    <File>radToDeg_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="15ac5b5a-ee3b-41f1-b1ee-472164cc4af2">
+    <File>PressToTemp_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="1a69bdf7-4f70-4d75-93a1-ccfa93175725">
+    <File>ElectricalInfo_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="1c968a6b-fca2-485c-8456-a31c2d9869f3">
+    <File>selectmode.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="1c9fd25a-a0bd-4574-8d2d-147530d33ec1">
+    <File>PWD_L_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="1cc12dc9-d45e-49a4-9e3e-6aa7cd307463">
+    <File>BarToPsi_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="1fc13315-1fd4-419c-bf5e-2d166c03b9fe">
+    <File>IPCfgMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="217e9596-2e8b-4515-b2c6-5bd3a45af0ec">
+    <File>FahrToCel_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="21c810fb-01bb-4f7b-996f-aca28eaf2859">
+    <File>DewPoint_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="2679bb5d-9e1c-4e37-b0d5-77aa7f093d18">
+    <File>VapourSatPress_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="2aba8192-3c56-4733-a4b3-e68d094a2874">
+    <File>CompensSetp_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="2cb1c58f-2ae8-4e4b-a2d5-d9758a782cd4">
+    <File>timeTOdecompose.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="2e91c2a8-9528-4cf3-8725-1b3490abb4a4">
+    <File>RelHumidity_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="30282460-f824-4caa-a642-af718d4ba868">
+    <File>calcSunEqOfCenter_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="30a7fab5-d9cd-4daa-887c-66538951c1bf">
+    <File>OnOffUnitMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="30e63139-00bf-4a53-bc1a-37ec248e61ac">
+    <File>calcGeomMeanLongSun_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="336a87b9-93ad-4f45-881b-5b475633ea9b">
+    <File>TempToPress_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="36e06176-56c4-4627-aa09-34265b69cf26">
+    <File>LIMITER.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3804a198-08d3-4f5a-90fc-645ae40c9a0d">
+    <File>FahrToCelDelta_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="384351af-f04d-49b5-8775-673bb017c28d">
+    <File>FahrToCelDelta_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3867da94-9a62-4225-8d45-e1c0bd4bebf6">
+    <File>minToHours_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3a302adb-4836-44e6-b4b6-6cb86cca7090">
+    <File>RegArrayToStr.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3a3fc04a-be01-4fa4-b845-88be46e69fda">
+    <File>AlarmMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3b02270a-e87c-4e24-a53b-f03dc72e9330">
+    <File>Limit_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3ba6d903-db77-4687-96f9-e0786f807220">
+    <File>julianCentToJD_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3ddfdf25-7326-4fb3-b70c-ffd87681baeb">
+    <File>FlipFlop.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3e30dde3-53c3-4be9-b3cc-35d10a9c7995">
+    <File>CapteurHRTBelimoModbus.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3f0da8dd-200e-4ae1-9e8a-b726fbbdbd44">
+    <File>CelToFahrDelta_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3f88457c-a34f-4912-952e-7e0c8b1ce39e">
+    <File>Not5.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="44334bd4-ca64-424c-9f00-6200bafa509d">
+    <File>Conv_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4436dd56-3f39-417e-9e9d-84cc3c19018b">
+    <File>EbmpapstFan_2.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="44e77ebc-b739-4235-a0f5-1d822a066a2f">
+    <File>minToSeconds_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="453527ac-12b8-4ae1-beca-369de698dbe9">
+    <File>ConvertIOConf_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4587dfdf-b238-46d8-a1a0-a4495a2ae130">
+    <File>Conv_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="46810cdf-6174-410f-ac46-a44764700379">
+    <File>RealToInt.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="49da0c80-d7ab-4ca5-8fb1-a6fd899d0749">
+    <File>UnitMeasTempDelta_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4a6bd36e-5c61-47db-abd1-60a14873cc37">
+    <File>DewPoint_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4aefc963-a790-4d21-b6d7-6ca67cc852ad">
+    <File>BrowserAuth.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4d0cde3b-3c2c-4cc5-aec1-c8fd9275b70d">
+    <File>SchedDailyTime_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4d321b89-0c1c-4948-9ffc-69d88ab6c957">
+    <File>RealToDint.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="4f46f7c5-8839-4244-b823-020af10e3db2">
+    <File>FahrToCel_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="54c723e1-1fa3-4bf1-b8f3-231023c92431">
+    <File>BarToPsi_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="58007913-0815-4c25-888d-48005edcda58">
+    <File>Counter4_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5957cc36-ed82-40be-9296-9a1d34d7ded0">
+    <File>M3HfactorK.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5a085a73-91d1-407d-a231-26c55f09e469">
+    <File>PID_Adv_2.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5ad646b2-bd07-4bfe-bc73-84bbefde967f">
+    <File>calcSunriseUTC_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5aee6ca6-58c9-45ad-b1fd-13f5c3f13de8">
+    <File>Range_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5c31dc34-a668-4ee9-a803-27f85a38cc32">
+    <File>ChangeInterfaceSettings_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="5e075b6c-83d1-4e52-9900-a79183fdc2ae">
+    <File>HysterAdv_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6136154c-5c52-446e-a9cd-4e34c84dfa79">
+    <File>Not10.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="64970008-eb08-4d1e-b8b9-107b9507fcbe">
+    <File>TZ_Data.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6517dcf5-a5f0-405e-bbe8-ad731d47b74d">
+    <File>IPCFG.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="66821537-8785-47b6-9595-418ebfd70c13">
+    <File>ConvHourToMin_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6b5ca4a7-03f1-49e1-b093-420f094f053e">
+    <File>ventilateurPidM3H.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6d6041b1-a99d-4b62-9a85-d20e9a5db572">
+    <File>PsiToBar_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6e8d7634-e570-4e86-9a6a-2445597fb8c9">
+    <File>HoursCounterMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="6fbd7ffa-c58f-4781-8650-33d2549d9d63">
+    <File>RangeUniv.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="70b2f4f0-f4d6-4f13-90c4-04b1db836dc2">
+    <File>WeekDay_UINT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="72663bb0-f8d0-45dc-b41f-4817fa9e74c8">
+    <File>ChangeAddress_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="72a0faa2-4c52-4cec-8f6f-146a44f764a5">
+    <File>Min_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="73868ded-1e16-4b78-8c1e-133cdf932afb">
+    <File>RangeUniv_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="75c67033-03ae-47f2-948e-324426b0f5c8">
+    <File>DecodeWarning_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7662296b-3330-49a7-b26e-7506ddd46c9d">
+    <File>calcObliquityCorrection_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="76de9d48-199e-47de-b55d-9360c6a1f1d6">
+    <File>HoursCounter.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="76fab6b8-707c-40f9-8d41-32224d553499">
+    <File>TimeToSec.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="78e284ae-581c-41fe-ad36-723a72c2c159">
+    <File>PeriodicWritePwd_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7952e720-634a-4526-8e2f-c367c620bdb1">
+    <File>degToRad_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7a0a0330-9a4c-4fba-919b-a494b9ca365a">
+    <File>FEdge.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7a120d2e-a685-464f-92dc-c41fb2a4d679">
+    <File>GeneralMng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7a2990b2-d111-438d-8e05-e140aacf019e">
+    <File>ResetInternErr_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7c0ab259-c54e-4884-b470-b038aa37a49f">
+    <File>AIRGAIA.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7ffd8eb4-ab16-419d-9cdb-c9d88c20a572">
+    <File>HysterAdv_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="821d1caa-f527-44aa-9c1a-8c3432754a02">
+    <File>EbmpapstFan_2_Mng.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="84bf03e1-ba7e-4d2a-9255-f62f83c19b05">
+    <File>calcMeanObliquityOfEcliptic_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="86b77042-e42d-4ca6-9634-63f08f81c96b">
+    <File>calcSolNoonUTC_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8799bd0c-3119-4855-a974-8958305722b9">
+    <File>Reverse_MODE.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="87b6352f-ca94-44a1-953c-362fd9d07ca2">
+    <File>Max_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="88efd921-dea3-4acc-a5fa-f7529dbbc4a2">
+    <File>calcEccentricityEarthOrbit_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="89287347-5f57-4639-9e73-65841c2f9bf5">
+    <File>REdge.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="89ca27eb-a0e5-41b0-933d-7256de8649ff">
+    <File>SunriseSunsetTime.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8bf2cd13-9355-48ed-b4e0-6ce0259f1397">
+    <File>PsiToBar_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8c3876c5-8302-419e-bbf7-c74cef33c488">
+    <File>calcGeomAnomalySun_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8e148f30-3cc8-47ae-84a9-db576807c360">
+    <File>ResetFirmware_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8f5c4711-a954-45fb-832d-d94f91d0b009">
+    <File>WriteAdoptParams_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8f7a5fcd-ecbf-47b4-acb5-ae60dfdab380">
+    <File>RealToUint.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="9445bacb-37ed-4910-9a5f-23910de1d536">
+    <File>DERIVATIVE1.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="965ca3f7-c2ff-454b-a848-31424ccdcfb0">
+    <File>ConvertData_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="96a47bca-ac05-4b5f-bcda-801e6d353bca">
+    <File>TimeCounter_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="97b6a0af-c1d0-4713-93fc-2c05f766a78e">
+    <File>floor_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="981dd429-7fa4-4319-8197-3eb1c32bf96f">
+    <File>And2Com.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="9c4b3a6d-e848-4f24-9ad0-a5857e736a12">
+    <File>Eq_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="9d502372-e27a-4486-93da-3f2773344838">
+    <File>Sign_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a0726243-58bf-4fc7-b0c8-4d8261043933">
+    <File>Sel_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a0cbc752-2f7d-4368-ba04-e1ea29f1cc16">
+    <File>PulseCounter_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a0dbd8c5-9fdf-4e96-ab13-2437edb99277">
+    <File>And10Com.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a11eef83-5894-43d4-b5d3-c35a78182592">
+    <File>CurrDateTime.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a15717d1-e2e6-4b0c-b0d0-0e15e590c465">
+    <File>ConvMinToHour_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a2068c6c-653b-4dba-8fcc-544b4f133f56">
+    <File>WeekDay_TZ.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a2811604-601a-404d-81e8-1b57ffc8e0de">
+    <File>PWD_M_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a6e73f42-d919-4d92-b237-d2f5614bf7fb">
+    <File>registreModbusBelimo.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a74a3a72-9f6b-4472-af40-acd017eb7017">
+    <File>Mux5_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a8032397-d6eb-4ed2-a8c8-c4d5b59f66d4">
+    <File>RealToUdint.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a883d60c-5b76-4e85-94f2-fd084baa15c6">
+    <File>Enthalpy_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a8ba56c9-4753-410b-b76a-72eb2ecbf7c7">
+    <File>calcHourAngleSunset_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="a9d5712a-d2c6-4b2a-b614-5c3b0ae95511">
+    <File>Heating_MODE.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="aa0ac5d0-c515-4e17-9f69-18155896357b">
+    <File>GetTZFromRule.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="aa1a4ef4-41aa-4fa0-bd2d-d428c0bfb3de">
+    <File>VersionChk_2_str.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="aaa89b44-5c00-4e22-a710-535e8d58a7a8">
+    <File>Loge_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ac245f93-56c7-42c3-9e73-efe977851688">
+    <File>RangeUniv_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b0b3f57d-fda0-4207-91d2-ab077e331a80">
+    <File>RF_TRIG_PID.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b0ff1566-417a-4fee-9f6e-c0eaca85c86d">
+    <File>EbmpapstFan_1_Mng.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b307f72a-1dae-42a1-bd89-8db84436953e">
+    <File>Limit_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b3f99293-9564-419f-b2df-375ae809020d">
+    <File>Scaler_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b63ef0dc-d60e-4035-a31b-f93c375eca17">
+    <File>gregorianToJD_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b7c7e12a-cd8d-47aa-bce5-ede8f85fd1f3">
+    <File>UnitMeas_P_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b8c843bf-5a28-4163-a239-13c9a08c8175">
+    <File>AbsHumidity_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b96674f8-9d7f-474d-96b2-67de5575d3f4">
+    <File>Round_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ba932699-ccd4-46fb-b50b-73bc2eb8e14f">
+    <File>ConvertSpeed_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="bc3310c3-cb2b-4222-acac-0abf4ebecf14">
+    <File>Counter8_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="bf7225ea-e2e1-4150-bc66-5325fb972c99">
+    <File>Interpolate_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="c0113789-225c-45e4-9945-8b3c6d454d1f">
+    <File>calcSunTrueLong_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="c18e4b27-3380-4a4b-a664-ade32af08c89">
+    <File>SecToTime.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="c1978ac2-c10a-4955-9c61-6aa2501e88ce">
+    <File>HW_DH.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="c2ffc145-9c2b-4eff-bd63-a82875f53df6">
+    <File>calcSunsetUTC_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="c81ec01d-407e-41bd-b1c8-8ec6cc191952">
+    <File>ResetOutput_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ca994d0e-bb25-4d77-a7d4-f53728611bf1">
+    <File>Min_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="cb3cf395-a403-4455-9ae6-7e148e78a95e">
+    <File>CntDwnSafT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="cefd56aa-caae-4375-9cf0-5e9b545933a4">
+    <File>ControlLogicFlou.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="cfc1f3df-38a1-4f1d-b069-4a989e677e99">
+    <File>Enthalpy_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d0a8156d-57c0-478d-9be7-fb8e1f106b73">
+    <File>CelToFahr_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d34040b7-76e0-4236-b664-bb1fe1e287b6">
+    <File>DecodeStatusInfo_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d3cf6c6d-649a-4c3b-88a7-13d50caba3f0">
+    <File>DelayOnOff_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d498e7e4-96ee-4041-97e8-8804bdd5275a">
+    <File>PID_I_Kp.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d546000d-1537-481c-84b8-6e219d9124fa">
+    <File>PWD_H_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d6a1488f-15ea-449d-bdb8-34ef3d6b672e">
+    <File>Sel_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d6f2519b-c94c-45e7-9e3d-0c01d716b094">
+    <File>StrToRegArray.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d90f9145-1009-4e08-946d-ad5fb3204e9d">
+    <File>UnitMeasTempDelta_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="d94f508c-5c98-44c4-8414-4c7fae701fb6">
+    <File>DigitConv_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="dacd6946-10f9-4d08-9222-bd6d8c768087">
+    <File>TempToPress_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="db41c94f-0052-4ad3-b16d-cf0c11c351bb">
+    <File>PriorityMng_UINT_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e10d7ae9-895d-4dea-b92e-753f29878182">
+    <File>Sel_BOOL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e2feb09a-ba23-4665-afcc-ca048d7b3fde">
+    <File>UnitMeas_P_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e4e61f96-5015-485e-b734-6ee48d5517ea">
+    <File>calcSunDeclination_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e541c802-aead-4a6e-9aa2-436eddde408c">
+    <File>calcHourAngleSunrise_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e5f3d322-5b62-4a55-9d93-755cbf472b0c">
+    <File>RelHumidity_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e6eba65a-2e70-4177-9a19-b10b41fb2f5a">
+    <File>calcSunApparentLong_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e82bb075-f0e0-4081-b086-de8bda783a92">
+    <File>AbsHumidity_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e8f36cee-1687-477e-92fc-9295c15022bf">
+    <File>INTEGRALE.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e9ae0518-a1b4-4af1-8763-2438a859f75b">
+    <File>decompoTOtime.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ea92e275-a4c9-4766-ba4d-63f68c917b33">
+    <File>TemplateSelector_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="eb839e2e-0b8e-41b7-b60d-03af8eb853a5">
+    <File>CompensSetp_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ec1b33fe-a296-4382-80b7-64983b0c7421">
+    <File>CheckRetainMem.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ed29e3cf-88ff-4ee0-aa32-1dbbb0a4623d">
+    <File>SchedDailyTime.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ed8efe73-eb1f-4724-af65-438e120b9251">
+    <File>NVRAM_Mng.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="eec6c628-68d1-4b86-97c7-fbb99dc235f1">
+    <File>H_M_journuit.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f024645b-7717-45a2-bd4f-e8ad9e6b3158">
+    <File>Max_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f1160d87-a96b-4bee-ba1d-c145d7972aba">
+    <File>VersionChk_2.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f4559f28-bc23-4922-ba9c-8cefb50719b9">
+    <File>ConvertCurrSpeed_Ebmpapst.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f5505740-44c0-4bb1-8d75-72347c964c91">
+    <File>UnitMeasTemp_REAL.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f5d197bc-91cc-4664-b646-149a7997dfb9">
+    <File>UnitMeasTemp_INT.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f9f102e0-5ead-47f6-996b-4d784239feb7">
+    <File>capteurDiffModbusBelimo.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="fbd742aa-b8cf-4fa9-a2b7-94120494745b">
+    <File>calcTimeJulianCent_SRSS.acfmlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="fd7e025b-5cb6-4aa3-a410-eaa06c60ec04">
+    <File>Not2.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="ff85af24-5eb8-4850-83c9-d74757a1a1a3">
+    <File>BlinkOnOff_INT.AcfMlge</File>
+  </AcfElementGuid>
+</ProjectElements>

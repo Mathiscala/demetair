@@ -1,0 +1,8659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 14/04/2014 16:31:47\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: FR\n"
+"Language-Id: 3\n"
+
+#: Classes.otsf
+msgctxt "[Class:AlarmLogDelete][Resource:0]"
+msgid "  NO"
+msgstr " NON"
+
+#: Classes.otsf
+msgctxt "[Class:AlarmLogDelete][Resource:1]"
+msgid " YES"
+msgstr " OUI"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:0]"
+msgid "Too many mem writings"
+msgstr "Trop d'entrées dans la mémoire"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:1]"
+msgid "Retain mem write error"
+msgstr "Erreur dans l'écriture en mémoire"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmLogEvent][Resource:0]"
+msgid "Start"
+msgstr "Démarrer"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmLogEvent][Resource:1]"
+msgid " Stop"
+msgstr "Arrêter"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:0]"
+msgid "AL*01"
+msgstr "AL*01"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:1]"
+msgid "AL*02"
+msgstr "AL*02"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:2]"
+msgid " T:AL*03"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:3]"
+msgid " T:AL*04"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:4]"
+msgid " T:AL*05"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:5]"
+msgid " T:AL*06"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:6]"
+msgid " T:AL*07"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:7]"
+msgid " T:AL*08"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:8]"
+msgid " T:AL*09"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:9]"
+msgid " T:AL*10"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:10]"
+msgid "AL*11"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:11]"
+msgid " T:AL*12"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:12]"
+msgid " T:AL*13"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:13]"
+msgid " T:AL*14"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:14]"
+msgid " T:AL*15"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:15]"
+msgid " T:AL*16"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:16]"
+msgid " T:AL*17"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:17]"
+msgid " T:AL*18"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:18]"
+msgid " T:AL*19"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:19]"
+msgid " T:AL*20"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:20]"
+msgid "AL*21"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:21]"
+msgid " T:AL*22"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:22]"
+msgid " T:AL*23"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:23]"
+msgid " T:AL*24"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:24]"
+msgid " T:AL*25"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:25]"
+msgid " T:AL*26"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:26]"
+msgid " T:AL*27"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:27]"
+msgid " T:AL*28"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:28]"
+msgid " T:AL*29"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:29]"
+msgid " T:AL*30"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:30]"
+msgid "AL*31"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:31]"
+msgid " T:AL*32"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:32]"
+msgid " T:AL*33"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:33]"
+msgid " T:AL*34"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:34]"
+msgid " T:AL*35"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:35]"
+msgid " T:AL*36"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:36]"
+msgid " T:AL*37"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:37]"
+msgid " T:AL*38"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:38]"
+msgid " T:AL*39"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:39]"
+msgid " T:AL*40"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:40]"
+msgid "AL*41"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:41]"
+msgid " T:AL*42"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:42]"
+msgid " T:AL*43"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:43]"
+msgid " T:AL*44"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:44]"
+msgid " T:AL*45"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:45]"
+msgid " T:AL*46"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:46]"
+msgid " T:AL*47"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:47]"
+msgid " T:AL*48"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:48]"
+msgid " T:AL*49"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:49]"
+msgid " T:AL*50"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:50]"
+msgid "AL*51"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:51]"
+msgid " T:AL*52"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:52]"
+msgid " T:AL*53"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:53]"
+msgid " T:AL*54"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:54]"
+msgid " T:AL*55"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:55]"
+msgid " T:AL*56"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:56]"
+msgid " T:AL*57"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:57]"
+msgid " T:AL*58"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:58]"
+msgid " T:AL*59"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:59]"
+msgid " T:AL*60"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:60]"
+msgid "AL*61"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:61]"
+msgid " T:AL*62"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:62]"
+msgid " T:AL*63"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:63]"
+msgid " T:AL*64"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:64]"
+msgid " T:AL*65"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:65]"
+msgid " T:AL*66"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:66]"
+msgid " T:AL*67"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:67]"
+msgid " T:AL*68"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:68]"
+msgid " T:AL*69"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:69]"
+msgid " T:AL*70"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:70]"
+msgid "AL*71"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:71]"
+msgid " T:AL*72"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:72]"
+msgid " T:AL*73"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:73]"
+msgid " T:AL*74"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:74]"
+msgid " T:AL*75"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:75]"
+msgid " T:AL*76"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:76]"
+msgid " T:AL*77"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:77]"
+msgid " T:AL*78"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:78]"
+msgid " T:AL*79"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:79]"
+msgid " T:AL*80"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:80]"
+msgid "AL*81"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:81]"
+msgid " T:AL*82"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:82]"
+msgid " T:AL*83"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:83]"
+msgid " T:AL*84"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:84]"
+msgid " T:AL*85"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:85]"
+msgid " T:AL*86"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:86]"
+msgid " T:AL*87"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:87]"
+msgid " T:AL*88"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:88]"
+msgid " T:AL*89"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:89]"
+msgid " T:AL*90"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:90]"
+msgid "AL*91"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:91]"
+msgid " T:AL*92"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:92]"
+msgid " T:AL*93"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:93]"
+msgid " T:AL*94"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:94]"
+msgid " T:AL*95"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:95]"
+msgid " T:AL*96"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:96]"
+msgid " T:AL*97"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:97]"
+msgid " T:AL*98"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:98]"
+msgid " T:AL*99"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:99]"
+msgid " T:AL*100"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:100]"
+msgid " T:AL*101"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:101]"
+msgid " T:AL*102"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:102]"
+msgid " T:AL*103"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:103]"
+msgid " T:AL*104"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:104]"
+msgid " T:AL*105"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:105]"
+msgid " T:AL*106"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:106]"
+msgid " T:AL*107"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:107]"
+msgid " T:AL*108"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:108]"
+msgid " T:AL*109"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:109]"
+msgid " T:AL*110"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:110]"
+msgid "AL*111"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:111]"
+msgid " T:AL*112"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:112]"
+msgid " T:AL*113"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:113]"
+msgid " T:AL*114"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:114]"
+msgid " T:AL*115"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:115]"
+msgid " T:AL*116"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:116]"
+msgid " T:AL*117"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:117]"
+msgid " T:AL*118"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:118]"
+msgid " T:AL*119"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:119]"
+msgid " T:AL*120"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:120]"
+msgid "AL*121"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:121]"
+msgid " T:AL*122"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:122]"
+msgid " T:AL*123"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:123]"
+msgid " T:AL*124"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:124]"
+msgid " T:AL*125"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:125]"
+msgid " T:AL*126"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:126]"
+msgid " T:AL*127"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:127]"
+msgid " T:AL*128"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:128]"
+msgid " T:AL*129"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:129]"
+msgid " T:AL*130"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:130]"
+msgid "AL*131"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:131]"
+msgid " T:AL*132"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:132]"
+msgid " T:AL*133"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:133]"
+msgid " T:AL*134"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:134]"
+msgid " T:AL*135"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:135]"
+msgid " T:AL*136"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:136]"
+msgid " T:AL*137"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:137]"
+msgid " T:AL*138"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:138]"
+msgid " T:AL*139"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:139]"
+msgid " T:AL*140"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:140]"
+msgid "AL*141"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:141]"
+msgid " T:AL*142"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:142]"
+msgid " T:AL*143"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:143]"
+msgid " T:AL*144"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:144]"
+msgid " T:AL*145"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:145]"
+msgid " T:AL*146"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:146]"
+msgid " T:AL*147"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:147]"
+msgid " T:AL*148"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:148]"
+msgid " T:AL*149"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:149]"
+msgid " T:AL*150"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:150]"
+msgid "AL*151"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:151]"
+msgid " T:AL*152"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:152]"
+msgid " T:AL*153"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:153]"
+msgid " T:AL*154"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:154]"
+msgid " T:AL*155"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:155]"
+msgid " T:AL*156"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:156]"
+msgid " T:AL*157"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:157]"
+msgid " T:AL*158"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:158]"
+msgid " T:AL*159"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:159]"
+msgid " T:AL*160"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:160]"
+msgid "AL*161"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:161]"
+msgid " T:AL*162"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:162]"
+msgid " T:AL*163"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:163]"
+msgid " T:AL*164"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:164]"
+msgid " T:AL*165"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:165]"
+msgid " T:AL*166"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:166]"
+msgid " T:AL*167"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:167]"
+msgid " T:AL*168"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:168]"
+msgid " T:AL*169"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:169]"
+msgid " T:AL*170"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:170]"
+msgid "AL*171"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:171]"
+msgid " T:AL*172"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:172]"
+msgid " T:AL*173"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:173]"
+msgid " T:AL*174"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:174]"
+msgid " T:AL*175"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:175]"
+msgid " T:AL*176"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:176]"
+msgid " T:AL*177"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:177]"
+msgid " T:AL*178"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:178]"
+msgid " T:AL*179"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:179]"
+msgid " T:AL*180"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:180]"
+msgid "AL*181"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:181]"
+msgid " T:AL*182"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:182]"
+msgid " T:AL*183"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:183]"
+msgid " T:AL*184"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:184]"
+msgid " T:AL*185"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:185]"
+msgid " T:AL*186"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:186]"
+msgid " T:AL*187"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:187]"
+msgid " T:AL*188"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:188]"
+msgid " T:AL*189"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:189]"
+msgid " T:AL*190"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:190]"
+msgid "AL*191"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:191]"
+msgid " T:AL*192"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:192]"
+msgid " T:AL*193"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:193]"
+msgid " T:AL*194"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:194]"
+msgid " T:AL*195"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:195]"
+msgid " T:AL*196"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:196]"
+msgid " T:AL*197"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:197]"
+msgid " T:AL*198"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:198]"
+msgid " T:AL*199"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:199]"
+msgid " T:AL*200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:200]"
+msgid " T:AL*201"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:201]"
+msgid " T:AL*202"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:202]"
+msgid " T:AL*203"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:203]"
+msgid " T:AL*204"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:204]"
+msgid " T:AL*205"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:205]"
+msgid " T:AL*206"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:206]"
+msgid " T:AL*207"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:207]"
+msgid " T:AL*208"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:208]"
+msgid " T:AL*209"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:209]"
+msgid " T:AL*210"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:210]"
+msgid "AL*211"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:211]"
+msgid " T:AL*212"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:212]"
+msgid " T:AL*213"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:213]"
+msgid " T:AL*214"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:214]"
+msgid " T:AL*215"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:215]"
+msgid " T:AL*216"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:216]"
+msgid " T:AL*217"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:217]"
+msgid " T:AL*218"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:218]"
+msgid " T:AL*219"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:219]"
+msgid " T:AL*220"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:220]"
+msgid "AL*221"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:221]"
+msgid " T:AL*222"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:222]"
+msgid " T:AL*223"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:223]"
+msgid " T:AL*224"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:224]"
+msgid " T:AL*225"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:225]"
+msgid " T:AL*226"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:226]"
+msgid " T:AL*227"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:227]"
+msgid " T:AL*228"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:228]"
+msgid " T:AL*229"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:229]"
+msgid " T:AL*230"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:230]"
+msgid "AL*231"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:231]"
+msgid " T:AL*232"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:232]"
+msgid " T:AL*233"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:233]"
+msgid " T:AL*234"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:234]"
+msgid " T:AL*235"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:235]"
+msgid " T:AL*236"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:236]"
+msgid " T:AL*237"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:237]"
+msgid " T:AL*238"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:238]"
+msgid " T:AL*239"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:239]"
+msgid " T:AL*240"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:240]"
+msgid "AL*241"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:241]"
+msgid " T:AL*242"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:242]"
+msgid " T:AL*243"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:243]"
+msgid " T:AL*244"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:244]"
+msgid " T:AL*245"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:245]"
+msgid " T:AL*246"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:246]"
+msgid " T:AL*247"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:247]"
+msgid " T:AL*248"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:248]"
+msgid " T:AL*249"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:249]"
+msgid " T:AL*250"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:250]"
+msgid "AL*251"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:251]"
+msgid " T:AL*252"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:252]"
+msgid " T:AL*253"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:253]"
+msgid " T:AL*254"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:254]"
+msgid " T:AL*255"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:255]"
+msgid " T:AL*256"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:256]"
+msgid " T:AL*257"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:257]"
+msgid " T:AL*258"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:258]"
+msgid " T:AL*259"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:259]"
+msgid " T:AL*260"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:260]"
+msgid "AL*261"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:261]"
+msgid " T:AL*262"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:262]"
+msgid " T:AL*263"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:263]"
+msgid " T:AL*264"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:264]"
+msgid " T:AL*265"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:265]"
+msgid " T:AL*266"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:266]"
+msgid " T:AL*267"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:267]"
+msgid " T:AL*268"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:268]"
+msgid " T:AL*269"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:269]"
+msgid " T:AL*270"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:270]"
+msgid "AL*271"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:271]"
+msgid " T:AL*272"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:272]"
+msgid " T:AL*273"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:273]"
+msgid " T:AL*274"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:274]"
+msgid " T:AL*275"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:275]"
+msgid " T:AL*276"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:276]"
+msgid " T:AL*277"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:277]"
+msgid " T:AL*278"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:278]"
+msgid " T:AL*279"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:279]"
+msgid " T:AL*280"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:280]"
+msgid "AL*281"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:281]"
+msgid " T:AL*282"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:282]"
+msgid " T:AL*283"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:283]"
+msgid " T:AL*284"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:284]"
+msgid " T:AL*285"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:285]"
+msgid " T:AL*286"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:286]"
+msgid " T:AL*287"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:287]"
+msgid " T:AL*288"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:288]"
+msgid " T:AL*289"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:289]"
+msgid " T:AL*290"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:290]"
+msgid "AL*291"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:291]"
+msgid " T:AL*292"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:292]"
+msgid " T:AL*293"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:293]"
+msgid " T:AL*294"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:294]"
+msgid " T:AL*295"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:295]"
+msgid " T:AL*296"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:296]"
+msgid " T:AL*297"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:297]"
+msgid " T:AL*298"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:298]"
+msgid " T:AL*299"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:299]"
+msgid " T:AL*300"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:300]"
+msgid " T:AL*301"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:301]"
+msgid " T:AL*302"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:302]"
+msgid " T:AL*303"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:303]"
+msgid " T:AL*304"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:304]"
+msgid " T:AL*305"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:305]"
+msgid " T:AL*306"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:306]"
+msgid " T:AL*307"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:307]"
+msgid " T:AL*308"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:308]"
+msgid " T:AL*309"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:309]"
+msgid " T:AL*310"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:310]"
+msgid "AL*311"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:311]"
+msgid " T:AL*312"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:312]"
+msgid " T:AL*313"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:313]"
+msgid " T:AL*314"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:314]"
+msgid " T:AL*315"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:315]"
+msgid " T:AL*316"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:316]"
+msgid " T:AL*317"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:317]"
+msgid " T:AL*318"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:318]"
+msgid " T:AL*319"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:319]"
+msgid " T:AL*320"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:320]"
+msgid "AL*321"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:321]"
+msgid " T:AL*322"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:322]"
+msgid " T:AL*323"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:323]"
+msgid " T:AL*324"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:324]"
+msgid " T:AL*325"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:325]"
+msgid " T:AL*326"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:326]"
+msgid " T:AL*327"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:327]"
+msgid " T:AL*328"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:328]"
+msgid " T:AL*329"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:329]"
+msgid " T:AL*330"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:330]"
+msgid "AL*331"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:331]"
+msgid " T:AL*332"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:332]"
+msgid " T:AL*333"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:333]"
+msgid " T:AL*334"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:334]"
+msgid " T:AL*335"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:335]"
+msgid " T:AL*336"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:336]"
+msgid " T:AL*337"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:337]"
+msgid " T:AL*338"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:338]"
+msgid " T:AL*339"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:339]"
+msgid " T:AL*340"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:340]"
+msgid "AL*341"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:341]"
+msgid " T:AL*342"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:342]"
+msgid " T:AL*343"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:343]"
+msgid " T:AL*344"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:344]"
+msgid " T:AL*345"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:345]"
+msgid " T:AL*346"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:346]"
+msgid " T:AL*347"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:347]"
+msgid " T:AL*348"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:348]"
+msgid " T:AL*349"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:349]"
+msgid " T:AL*350"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:350]"
+msgid "AL*351"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:351]"
+msgid " T:AL*352"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:352]"
+msgid " T:AL*353"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:353]"
+msgid " T:AL*354"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:354]"
+msgid " T:AL*355"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:355]"
+msgid " T:AL*356"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:356]"
+msgid " T:AL*357"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:357]"
+msgid " T:AL*358"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:358]"
+msgid " T:AL*359"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:359]"
+msgid " T:AL*360"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:360]"
+msgid "AL*361"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:361]"
+msgid " T:AL*362"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:362]"
+msgid " T:AL*363"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:363]"
+msgid " T:AL*364"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:364]"
+msgid " T:AL*365"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:365]"
+msgid " T:AL*366"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:366]"
+msgid " T:AL*367"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:367]"
+msgid " T:AL*368"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:368]"
+msgid " T:AL*369"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:369]"
+msgid " T:AL*370"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:370]"
+msgid "AL*371"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:371]"
+msgid " T:AL*372"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:372]"
+msgid " T:AL*373"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:373]"
+msgid " T:AL*374"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:374]"
+msgid " T:AL*375"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:375]"
+msgid " T:AL*376"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:376]"
+msgid " T:AL*377"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:377]"
+msgid " T:AL*378"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:378]"
+msgid " T:AL*379"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:379]"
+msgid " T:AL*380"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:380]"
+msgid "AL*381"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:381]"
+msgid " T:AL*382"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:382]"
+msgid " T:AL*383"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:383]"
+msgid " T:AL*384"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:384]"
+msgid " T:AL*385"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:385]"
+msgid " T:AL*386"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:386]"
+msgid " T:AL*387"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:387]"
+msgid " T:AL*388"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:388]"
+msgid " T:AL*389"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:389]"
+msgid " T:AL*390"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:390]"
+msgid "AL*391"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:391]"
+msgid " T:AL*392"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:392]"
+msgid " T:AL*393"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:393]"
+msgid " T:AL*394"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:394]"
+msgid " T:AL*395"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:395]"
+msgid " T:AL*396"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:396]"
+msgid " T:AL*397"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:397]"
+msgid " T:AL*398"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:398]"
+msgid " T:AL*399"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:399]"
+msgid " T:AL*400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:0]"
+msgid "  1200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:1]"
+msgid "  2400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:2]"
+msgid "  4800"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:3]"
+msgid "  9600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:4]"
+msgid " 19200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:5]"
+msgid " 38400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:6]"
+msgid " 57600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:7]"
+msgid " 78600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:8]"
+msgid "115200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Baudrate][Resource:9]"
+msgid "375000"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Beta][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Beta][Resource:1]"
+msgid "B"
+msgstr "B"
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:1]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:5]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Board_Temperature_C_UoM][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardTempCPCO][ClassText:Text]"
+msgid "Board Temp.:          "
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:1]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:7]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:8]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:9]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:10]"
+msgid "     Large"
+msgstr "     Large"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:11]"
+msgid "    Medium"
+msgstr "    Medium"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:12]"
+msgid "     Small"
+msgstr "     Small"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:13]"
+msgid "        XL"
+msgstr "        XL"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:14]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:15]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:16]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:17]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:18]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:19]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:20]"
+msgid "     Basic"
+msgstr "     Basic"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:21]"
+msgid "  Enhanced"
+msgstr "  Enhanced"
+
+#: Classes.otsf
+msgctxt "[Class:BoardType][Resource:22]"
+msgid "  High End"
+msgstr "  High End"
+
+#: Classes.otsf
+msgctxt "[Class:BoolGenericClass][Resource:0]"
+msgid "  NO"
+msgstr " NON"
+
+#: Classes.otsf
+msgctxt "[Class:BoolGenericClass][Resource:1]"
+msgid " YES"
+msgstr " OUI"
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:0]"
+msgid "00"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:1]"
+msgid "01"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:2]"
+msgid "02"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:3]"
+msgid "03"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:4]"
+msgid "04"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:5]"
+msgid "05"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:6]"
+msgid "06"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:7]"
+msgid "07"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:8]"
+msgid "08"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:9]"
+msgid "09"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:10]"
+msgid "0A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:11]"
+msgid "0B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:12]"
+msgid "0C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:13]"
+msgid "0D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:14]"
+msgid "0E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:15]"
+msgid "0F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:16]"
+msgid "10"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:17]"
+msgid "11"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:18]"
+msgid "12"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:19]"
+msgid "13"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:20]"
+msgid "14"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:21]"
+msgid "15"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:22]"
+msgid "16"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:23]"
+msgid "17"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:24]"
+msgid "18"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:25]"
+msgid "19"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:26]"
+msgid "1A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:27]"
+msgid "1B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:28]"
+msgid "1C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:29]"
+msgid "1D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:30]"
+msgid "1E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:31]"
+msgid "1F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:32]"
+msgid "20"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:33]"
+msgid "21"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:34]"
+msgid "22"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:35]"
+msgid "23"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:36]"
+msgid "24"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:37]"
+msgid "25"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:38]"
+msgid "26"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:39]"
+msgid "27"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:40]"
+msgid "28"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:41]"
+msgid "29"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:42]"
+msgid "2A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:43]"
+msgid "2B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:44]"
+msgid "2C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:45]"
+msgid "2D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:46]"
+msgid "2E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:47]"
+msgid "2F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:48]"
+msgid "30"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:49]"
+msgid "31"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:50]"
+msgid "32"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:51]"
+msgid "33"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:52]"
+msgid "34"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:53]"
+msgid "35"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:54]"
+msgid "36"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:55]"
+msgid "37"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:56]"
+msgid "38"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:57]"
+msgid "39"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:58]"
+msgid "3A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:59]"
+msgid "3B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:60]"
+msgid "3C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:61]"
+msgid "3D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:62]"
+msgid "3E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:63]"
+msgid "3F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:64]"
+msgid "40"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:65]"
+msgid "41"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:66]"
+msgid "42"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:67]"
+msgid "43"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:68]"
+msgid "44"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:69]"
+msgid "45"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:70]"
+msgid "46"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:71]"
+msgid "47"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:72]"
+msgid "48"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:73]"
+msgid "49"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:74]"
+msgid "4A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:75]"
+msgid "4B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:76]"
+msgid "4C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:77]"
+msgid "4D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:78]"
+msgid "4E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:79]"
+msgid "4F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:80]"
+msgid "50"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:81]"
+msgid "51"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:82]"
+msgid "52"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:83]"
+msgid "53"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:84]"
+msgid "54"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:85]"
+msgid "55"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:86]"
+msgid "56"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:87]"
+msgid "57"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:88]"
+msgid "58"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:89]"
+msgid "59"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:90]"
+msgid "5A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:91]"
+msgid "5B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:92]"
+msgid "5C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:93]"
+msgid "5D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:94]"
+msgid "5E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:95]"
+msgid "5F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:96]"
+msgid "60"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:97]"
+msgid "61"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:98]"
+msgid "62"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:99]"
+msgid "63"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:100]"
+msgid "64"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:101]"
+msgid "65"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:102]"
+msgid "66"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:103]"
+msgid "67"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:104]"
+msgid "68"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:105]"
+msgid "69"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:106]"
+msgid "6A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:107]"
+msgid "6B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:108]"
+msgid "6C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:109]"
+msgid "6D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:110]"
+msgid "6E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:111]"
+msgid "6F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:112]"
+msgid "70"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:113]"
+msgid "71"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:114]"
+msgid "72"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:115]"
+msgid "73"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:116]"
+msgid "74"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:117]"
+msgid "75"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:118]"
+msgid "76"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:119]"
+msgid "77"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:120]"
+msgid "78"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:121]"
+msgid "79"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:122]"
+msgid "7A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:123]"
+msgid "7B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:124]"
+msgid "7C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:125]"
+msgid "7D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:126]"
+msgid "7E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:127]"
+msgid "7F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:128]"
+msgid "80"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:129]"
+msgid "81"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:130]"
+msgid "82"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:131]"
+msgid "83"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:132]"
+msgid "84"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:133]"
+msgid "85"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:134]"
+msgid "86"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:135]"
+msgid "87"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:136]"
+msgid "88"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:137]"
+msgid "89"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:138]"
+msgid "8A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:139]"
+msgid "8B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:140]"
+msgid "8C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:141]"
+msgid "8D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:142]"
+msgid "8E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:143]"
+msgid "8F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:144]"
+msgid "90"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:145]"
+msgid "91"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:146]"
+msgid "92"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:147]"
+msgid "93"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:148]"
+msgid "94"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:149]"
+msgid "95"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:150]"
+msgid "96"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:151]"
+msgid "97"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:152]"
+msgid "98"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:153]"
+msgid "99"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:154]"
+msgid "9A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:155]"
+msgid "9B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:156]"
+msgid "9C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:157]"
+msgid "9D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:158]"
+msgid "9E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:159]"
+msgid "9F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:160]"
+msgid "A0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:161]"
+msgid "A1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:162]"
+msgid "A2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:163]"
+msgid "A3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:164]"
+msgid "A4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:165]"
+msgid "A5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:166]"
+msgid "A6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:167]"
+msgid "A7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:168]"
+msgid "A8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:169]"
+msgid "A9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:170]"
+msgid "AA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:171]"
+msgid "AB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:172]"
+msgid "AC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:173]"
+msgid "AD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:174]"
+msgid "AE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:175]"
+msgid "AF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:176]"
+msgid "B0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:177]"
+msgid "B1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:178]"
+msgid "B2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:179]"
+msgid "B3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:180]"
+msgid "B4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:181]"
+msgid "B5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:182]"
+msgid "B6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:183]"
+msgid "B7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:184]"
+msgid "B8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:185]"
+msgid "B9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:186]"
+msgid "BA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:187]"
+msgid "BB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:188]"
+msgid "BC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:189]"
+msgid "BD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:190]"
+msgid "BE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:191]"
+msgid "BF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:192]"
+msgid "C0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:193]"
+msgid "C1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:194]"
+msgid "C2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:195]"
+msgid "C3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:196]"
+msgid "C4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:197]"
+msgid "C5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:198]"
+msgid "C6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:199]"
+msgid "C7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:200]"
+msgid "C8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:201]"
+msgid "C9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:202]"
+msgid "CA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:203]"
+msgid "CB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:204]"
+msgid "CC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:205]"
+msgid "CD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:206]"
+msgid "CE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:207]"
+msgid "CF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:208]"
+msgid "D0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:209]"
+msgid "D1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:210]"
+msgid "D2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:211]"
+msgid "D3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:212]"
+msgid "D4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:213]"
+msgid "D5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:214]"
+msgid "D6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:215]"
+msgid "D7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:216]"
+msgid "D8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:217]"
+msgid "D9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:218]"
+msgid "DA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:219]"
+msgid "DB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:220]"
+msgid "DC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:221]"
+msgid "DD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:222]"
+msgid "DE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:223]"
+msgid "DF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:224]"
+msgid "E0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:225]"
+msgid "E1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:226]"
+msgid "E2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:227]"
+msgid "E3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:228]"
+msgid "E4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:229]"
+msgid "E5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:230]"
+msgid "E6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:231]"
+msgid "E7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:232]"
+msgid "E8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:233]"
+msgid "E9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:234]"
+msgid "EA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:235]"
+msgid "EB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:236]"
+msgid "EC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:237]"
+msgid "ED"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:238]"
+msgid "EE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:239]"
+msgid "EF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:240]"
+msgid "F0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:241]"
+msgid "F1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:242]"
+msgid "F2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:243]"
+msgid "F3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:244]"
+msgid "F4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:245]"
+msgid "F5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:246]"
+msgid "F6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:247]"
+msgid "F7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:248]"
+msgid "F8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:249]"
+msgid "F9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:250]"
+msgid "FA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:251]"
+msgid "FB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:252]"
+msgid "FC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:253]"
+msgid "FD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:254]"
+msgid "FE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:byte2hex][Resource:255]"
+msgid "FF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ClrAutoResCounters][Resource:0]"
+msgid "  NO"
+msgstr " NON"
+
+#: Classes.otsf
+msgctxt "[Class:ClrAutoResCounters][Resource:1]"
+msgid " YES"
+msgstr " OUI"
+
+#: Classes.otsf
+msgctxt "[Class:DateFormat][Resource:0]"
+msgid "DD/MM/YY"
+msgstr "DD/MM/YY"
+
+#: Classes.otsf
+msgctxt "[Class:DateFormat][Resource:1]"
+msgid "MM/DD/YY"
+msgstr "MM/DD/YY"
+
+#: Classes.otsf
+msgctxt "[Class:DateFormat][Resource:2]"
+msgid "YY/MM/DD"
+msgstr "YY/MM/DD"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:1]"
+msgid "   Monday"
+msgstr "     Lundi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:2]"
+msgid "  Tuesday"
+msgstr "     Mardi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:3]"
+msgid "Wednesday"
+msgstr "  Mercredi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:4]"
+msgid " Thursday"
+msgstr "     Jeudi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:5]"
+msgid "   Friday"
+msgstr "  Vendredi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:6]"
+msgid " Saturday"
+msgstr "    Samedi"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeek][Resource:7]"
+msgid "   Sunday"
+msgstr "  Dimanche"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:1]"
+msgid "Mon"
+msgstr "Lun"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:2]"
+msgid "Tue"
+msgstr "Mar"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:3]"
+msgid "Wed"
+msgstr "Mer"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:4]"
+msgid "Thu"
+msgstr "Jeu"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:5]"
+msgid "Fri"
+msgstr "Ven"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:6]"
+msgid "Sat"
+msgstr "Sam"
+
+#: Classes.otsf
+msgctxt "[Class:DayOfWeekShort][Resource:7]"
+msgid "Sun"
+msgstr "Dim"
+
+#: Classes.otsf
+msgctxt "[Class:Demo][ClassText:Text]"
+msgid "."
+msgstr "."
+
+#: Classes.otsf
+msgctxt "[Class:DriveType][Resource:0]"
+msgid "INTERNAL FLASH MEMORY"
+msgstr "MEMORIE FLASH INTERNE"
+
+#: Classes.otsf
+msgctxt "[Class:DriveType][Resource:1]"
+msgid "USB "
+msgstr "USB"
+
+#: Classes.otsf
+msgctxt "[Class:DSTEn][Resource:0]"
+msgid "DISABLE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:DSTEn][Resource:1]"
+msgid " ENABLE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:DummyManuf][ClassText:Text]"
+msgid "M"
+msgstr "F"
+
+#: Classes.otsf
+msgctxt "[Class:DummyManufUnitOff][ClassText:Text]"
+msgid "M"
+msgstr "F"
+
+#: Classes.otsf
+msgctxt "[Class:DummyService][ClassText:Text]"
+msgid "S"
+msgstr "S"
+
+#: Classes.otsf
+msgctxt "[Class:EnAlrmExp][Resource:0]"
+msgid "NO"
+msgstr " NON"
+
+#: Classes.otsf
+msgctxt "[Class:EnAlrmExp][Resource:1]"
+msgid "YES"
+msgstr " OUI"
+
+#: Classes.otsf
+msgctxt "[Class:EnParamsImpExp][Resource:0]"
+msgid "NO"
+msgstr "NO"
+
+#: Classes.otsf
+msgctxt "[Class:EnParamsImpExp][Resource:1]"
+msgid "YES"
+msgstr "OUI"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:0]"
+msgid "Operation done"
+msgstr "Opération effectuée"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:1]"
+msgid "Filename is not valid"
+msgstr "Nom de fichier non valide"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:2]"
+msgid "Cannot access disk"
+msgstr "Accès disque impossible"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:3]"
+msgid "Cannot access file"
+msgstr "Accès fichier impossible"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:4]"
+msgid "File I/O error"
+msgstr "Fichier I/0 erreur"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:5]"
+msgid "File is not valid"
+msgstr "Fichier non valide"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:6]"
+msgid "Value is not valid"
+msgstr "Valeur non valide"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:7]"
+msgid "Memory buffer is too small"
+msgstr "Mémoire tampon trop faible"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:8]"
+msgid "File is empty"
+msgstr "Fichier vide"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:9]"
+msgid "Time parameters are not correct"
+msgstr "Paramètres temporels non corrects"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:10]"
+msgid "Module is currently busy – retry is required"
+msgstr "Module occupé, essayer à nouveau"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:11]"
+msgid "Logger is not running"
+msgstr "L'enregistreur de données ne fonctionne pas"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:12]"
+msgid "Log exporting failed"
+msgstr "Echec export enregistrement"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:13]"
+msgid "Input parameter value is not valid"
+msgstr "Valeur paramètre d'entrée non valide"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:14]"
+msgid "Function not implemented on the target"
+msgstr "Fonction non implantée sur cible"
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:15]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:16]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:17]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:18]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:19]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:20]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:21]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:22]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:23]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:24]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:25]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:26]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:27]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:28]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:29]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:30]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:31]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:32]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:33]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:34]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:35]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:36]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:37]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:38]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:39]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:40]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:41]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:42]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:43]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:44]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:45]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:46]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:47]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:48]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:49]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:50]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:51]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:52]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:53]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:54]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:55]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:56]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:57]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:58]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:59]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:60]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:61]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:62]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:63]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:64]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:65]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:66]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:67]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:68]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:69]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:70]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:71]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:72]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:73]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:74]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:75]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:76]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:77]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:78]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:79]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:80]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:81]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:82]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:83]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:84]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:85]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:86]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:87]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:88]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:89]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:90]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:91]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:92]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:93]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:94]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:95]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:96]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:97]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:98]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ErrImpExp][Resource:99]"
+msgid "Unknown/uncategorized error"
+msgstr "Erreur inconnue"
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:0]"
+msgid "00"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:1]"
+msgid "01"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:2]"
+msgid "02"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:3]"
+msgid "03"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:4]"
+msgid "04"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:5]"
+msgid "05"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:6]"
+msgid "06"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:7]"
+msgid "07"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:8]"
+msgid "08"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:9]"
+msgid "09"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:10]"
+msgid "0A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:11]"
+msgid "0B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:12]"
+msgid "0C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:13]"
+msgid "0D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:14]"
+msgid "0E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:15]"
+msgid "0F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:16]"
+msgid "10"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:17]"
+msgid "11"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:18]"
+msgid "12"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:19]"
+msgid "13"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:20]"
+msgid "14"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:21]"
+msgid "15"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:22]"
+msgid "16"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:23]"
+msgid "17"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:24]"
+msgid "18"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:25]"
+msgid "19"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:26]"
+msgid "1A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:27]"
+msgid "1B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:28]"
+msgid "1C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:29]"
+msgid "1D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:30]"
+msgid "1E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:31]"
+msgid "1F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:32]"
+msgid "20"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:33]"
+msgid "21"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:34]"
+msgid "22"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:35]"
+msgid "23"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:36]"
+msgid "24"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:37]"
+msgid "25"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:38]"
+msgid "26"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:39]"
+msgid "27"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:40]"
+msgid "28"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:41]"
+msgid "29"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:42]"
+msgid "2A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:43]"
+msgid "2B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:44]"
+msgid "2C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:45]"
+msgid "2D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:46]"
+msgid "2E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:47]"
+msgid "2F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:48]"
+msgid "30"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:49]"
+msgid "31"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:50]"
+msgid "32"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:51]"
+msgid "33"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:52]"
+msgid "34"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:53]"
+msgid "35"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:54]"
+msgid "36"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:55]"
+msgid "37"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:56]"
+msgid "38"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:57]"
+msgid "39"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:58]"
+msgid "3A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:59]"
+msgid "3B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:60]"
+msgid "3C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:61]"
+msgid "3D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:62]"
+msgid "3E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:63]"
+msgid "3F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:64]"
+msgid "40"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:65]"
+msgid "41"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:66]"
+msgid "42"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:67]"
+msgid "43"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:68]"
+msgid "44"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:69]"
+msgid "45"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:70]"
+msgid "46"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:71]"
+msgid "47"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:72]"
+msgid "48"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:73]"
+msgid "49"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:74]"
+msgid "4A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:75]"
+msgid "4B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:76]"
+msgid "4C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:77]"
+msgid "4D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:78]"
+msgid "4E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:79]"
+msgid "4F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:80]"
+msgid "50"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:81]"
+msgid "51"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:82]"
+msgid "52"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:83]"
+msgid "53"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:84]"
+msgid "54"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:85]"
+msgid "55"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:86]"
+msgid "56"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:87]"
+msgid "57"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:88]"
+msgid "58"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:89]"
+msgid "59"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:90]"
+msgid "5A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:91]"
+msgid "5B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:92]"
+msgid "5C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:93]"
+msgid "5D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:94]"
+msgid "5E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:95]"
+msgid "5F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:96]"
+msgid "60"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:97]"
+msgid "61"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:98]"
+msgid "62"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:99]"
+msgid "63"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:100]"
+msgid "64"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:101]"
+msgid "65"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:102]"
+msgid "66"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:103]"
+msgid "67"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:104]"
+msgid "68"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:105]"
+msgid "69"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:106]"
+msgid "6A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:107]"
+msgid "6B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:108]"
+msgid "6C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:109]"
+msgid "6D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:110]"
+msgid "6E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:111]"
+msgid "6F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:112]"
+msgid "70"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:113]"
+msgid "71"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:114]"
+msgid "72"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:115]"
+msgid "73"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:116]"
+msgid "74"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:117]"
+msgid "75"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:118]"
+msgid "76"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:119]"
+msgid "77"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:120]"
+msgid "78"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:121]"
+msgid "79"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:122]"
+msgid "7A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:123]"
+msgid "7B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:124]"
+msgid "7C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:125]"
+msgid "7D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:126]"
+msgid "7E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:127]"
+msgid "7F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:128]"
+msgid "80"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:129]"
+msgid "81"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:130]"
+msgid "82"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:131]"
+msgid "83"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:132]"
+msgid "84"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:133]"
+msgid "85"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:134]"
+msgid "86"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:135]"
+msgid "87"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:136]"
+msgid "88"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:137]"
+msgid "89"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:138]"
+msgid "8A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:139]"
+msgid "8B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:140]"
+msgid "8C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:141]"
+msgid "8D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:142]"
+msgid "8E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:143]"
+msgid "8F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:144]"
+msgid "90"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:145]"
+msgid "91"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:146]"
+msgid "92"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:147]"
+msgid "93"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:148]"
+msgid "94"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:149]"
+msgid "95"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:150]"
+msgid "96"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:151]"
+msgid "97"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:152]"
+msgid "98"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:153]"
+msgid "99"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:154]"
+msgid "9A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:155]"
+msgid "9B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:156]"
+msgid "9C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:157]"
+msgid "9D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:158]"
+msgid "9E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:159]"
+msgid "9F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:160]"
+msgid "A0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:161]"
+msgid "A1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:162]"
+msgid "A2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:163]"
+msgid "A3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:164]"
+msgid "A4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:165]"
+msgid "A5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:166]"
+msgid "A6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:167]"
+msgid "A7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:168]"
+msgid "A8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:169]"
+msgid "A9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:170]"
+msgid "AA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:171]"
+msgid "AB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:172]"
+msgid "AC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:173]"
+msgid "AD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:174]"
+msgid "AE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:175]"
+msgid "AF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:176]"
+msgid "B0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:177]"
+msgid "B1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:178]"
+msgid "B2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:179]"
+msgid "B3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:180]"
+msgid "B4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:181]"
+msgid "B5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:182]"
+msgid "B6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:183]"
+msgid "B7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:184]"
+msgid "B8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:185]"
+msgid "B9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:186]"
+msgid "BA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:187]"
+msgid "BB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:188]"
+msgid "BC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:189]"
+msgid "BD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:190]"
+msgid "BE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:191]"
+msgid "BF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:192]"
+msgid "C0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:193]"
+msgid "C1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:194]"
+msgid "C2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:195]"
+msgid "C3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:196]"
+msgid "C4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:197]"
+msgid "C5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:198]"
+msgid "C6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:199]"
+msgid "C7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:200]"
+msgid "C8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:201]"
+msgid "C9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:202]"
+msgid "CA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:203]"
+msgid "CB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:204]"
+msgid "CC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:205]"
+msgid "CD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:206]"
+msgid "CE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:207]"
+msgid "CF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:208]"
+msgid "D0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:209]"
+msgid "D1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:210]"
+msgid "D2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:211]"
+msgid "D3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:212]"
+msgid "D4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:213]"
+msgid "D5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:214]"
+msgid "D6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:215]"
+msgid "D7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:216]"
+msgid "D8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:217]"
+msgid "D9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:218]"
+msgid "DA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:219]"
+msgid "DB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:220]"
+msgid "DC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:221]"
+msgid "DD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:222]"
+msgid "DE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:223]"
+msgid "DF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:224]"
+msgid "E0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:225]"
+msgid "E1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:226]"
+msgid "E2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:227]"
+msgid "E3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:228]"
+msgid "E4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:229]"
+msgid "E5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:230]"
+msgid "E6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:231]"
+msgid "E7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:232]"
+msgid "E8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:233]"
+msgid "E9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:234]"
+msgid "EA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:235]"
+msgid "EB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:236]"
+msgid "EC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:237]"
+msgid "ED"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:238]"
+msgid "EE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:239]"
+msgid "EF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:240]"
+msgid "F0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:241]"
+msgid "F1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:242]"
+msgid "F2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:243]"
+msgid "F3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:244]"
+msgid "F4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:245]"
+msgid "F5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:246]"
+msgid "F6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:247]"
+msgid "F7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:248]"
+msgid "F8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:249]"
+msgid "F9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:250]"
+msgid "FA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:251]"
+msgid "FB"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:252]"
+msgid "FC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:253]"
+msgid "FD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:254]"
+msgid "FE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:HexConv][Resource:255]"
+msgid "FF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IdxImgQM][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ImpExpSel][Resource:0]"
+msgid "IMPORT"
+msgstr "IMPORTER"
+
+#: Classes.otsf
+msgctxt "[Class:ImpExpSel][Resource:1]"
+msgid "EXPORT"
+msgstr "EXPORTER"
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_EnContinuousReading][Resource:0]"
+msgid " No"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_EnContinuousReading][Resource:1]"
+msgid "Yes"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_EnReboot][Resource:0]"
+msgid " No"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_EnReboot][Resource:1]"
+msgid "Yes"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_SaveCfg][ClassText:Text]"
+msgid "Update Config?"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_SaveCfg][Resource:0]"
+msgid " No"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_SaveCfg][Resource:1]"
+msgid "Yes"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_ShowColon][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_ShowColon][Resource:1]"
+msgid ":"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_ShowPeriod][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_ShowPeriod][Resource:1]"
+msgid "."
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_DNS][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_DNS][Resource:1]"
+msgid "DNS:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_DNS][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_DNS][Resource:1]"
+msgid "IPv6 DNS:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:0]"
+msgid "0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:1]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:2]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:3]"
+msgid "3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:4]"
+msgid "4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:5]"
+msgid "5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:6]"
+msgid "6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:7]"
+msgid "7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:8]"
+msgid "8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:9]"
+msgid "9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:10]"
+msgid "A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:11]"
+msgid "B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:12]"
+msgid "C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:13]"
+msgid "D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:14]"
+msgid "E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnIO][Resource:15]"
+msgid "F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:0]"
+msgid "0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:1]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:2]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:3]"
+msgid "3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:4]"
+msgid "4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:5]"
+msgid "5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:6]"
+msgid "6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:7]"
+msgid "7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:8]"
+msgid "8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:9]"
+msgid "9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:10]"
+msgid "A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:11]"
+msgid "B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:12]"
+msgid "C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:13]"
+msgid "D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:14]"
+msgid "E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnLL][Resource:15]"
+msgid "F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:0]"
+msgid "0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:1]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:2]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:3]"
+msgid "3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:4]"
+msgid "4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:5]"
+msgid "5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:6]"
+msgid "6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:7]"
+msgid "7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:8]"
+msgid "8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:9]"
+msgid "9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:10]"
+msgid "A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:11]"
+msgid "B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:12]"
+msgid "C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:13]"
+msgid "D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:14]"
+msgid "E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_EnO][Resource:15]"
+msgid "F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_GW][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_GW][Resource:1]"
+msgid "GW:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_GW][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_GW][Resource:1]"
+msgid "IPv6 Gateway:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_IP][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_IP][Resource:1]"
+msgid "IP:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_LL][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_LL][Resource:1]"
+msgid "IPv6 Link Local:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_NK][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_NK][Resource:1]"
+msgid "MASK:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_PA][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_PA][Resource:1]"
+msgid "IPv6 Public Addr:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_Status][Resource:0]"
+msgid "Off"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_Status][Resource:1]"
+msgid "Static"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v4_Status][Resource:2]"
+msgid "DHCP/AutoIP"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_Status][Resource:0]"
+msgid "Off"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_Status][Resource:1]"
+msgid "Static"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfg_v6_Status][Resource:2]"
+msgid "SLAAC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IPCfgShowTimeout][ClassText:Text]"
+msgid "Turn off after:    min"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:journuit][Resource:0]"
+msgid "nuitjour"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:journuit][Resource:1]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:0]"
+msgid "Applica"
+msgstr "Applica"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:1]"
+msgid "Device n"
+msgstr "Appareil 3"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:2]"
+msgid "Unit Config"
+msgstr "Config unité"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:3]"
+msgid "Alarm logs"
+msgstr "Journ. d'alarmes"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:4]"
+msgid "Settings"
+msgstr "Configuration"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:5]"
+msgid "Logout"
+msgstr "Quitter"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:6]"
+msgid "Input/Output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtBOTTOM][Resource:7]"
+msgid "Controlla"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:0]"
+msgid "Controlla"
+msgstr "Controlla"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:1]"
+msgid "Applica"
+msgstr "Applica"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:2]"
+msgid "Device n"
+msgstr "Appareil 3"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:3]"
+msgid "Unit Config"
+msgstr "Config unité"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:4]"
+msgid "Alarm logs"
+msgstr "Journ. d'alarmes"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:5]"
+msgid "Settings"
+msgstr "Configuration"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:6]"
+msgid "Logout"
+msgstr "Quitter"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtMIDDLE][Resource:7]"
+msgid "Input/Output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:0]"
+msgid "A. Device 1"
+msgstr "Input/Output"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:1]"
+msgid "Controlla"
+msgstr "Controlla"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:2]"
+msgid "Applica"
+msgstr "Applica"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:3]"
+msgid "Device n"
+msgstr "Appareil 3"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:4]"
+msgid "Unit Config"
+msgstr "Config unité"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:5]"
+msgid "Alarm logs"
+msgstr "Journ. d'alarmes"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:6]"
+msgid "Settings"
+msgstr "Configuration"
+
+#: Classes.otsf
+msgctxt "[Class:MainTxtTOP][Resource:7]"
+msgid "Logout"
+msgstr "Quitter"
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:0]"
+msgid "ADMIN"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:1]"
+msgid "OFF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:2]"
+msgid "DRY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:1]"
+msgid "JANUARY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:2]"
+msgid "FEBRUARY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:3]"
+msgid "MARCH"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:4]"
+msgid "APRIL"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:5]"
+msgid "MAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:6]"
+msgid "JUNE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:7]"
+msgid "JULY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:8]"
+msgid "AUGUST"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:9]"
+msgid "SEPTEMBER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:10]"
+msgid "OCTOBER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:11]"
+msgid "NOVEMBER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Month][Resource:12]"
+msgid "DICEMBER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:0]"
+msgid "Memory writes:"
+msgstr "Mémoire écrit:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:1]"
+msgid "Example1:"
+msgstr "Exemple1:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:2]"
+msgid "Example1:"
+msgstr "Exemple1:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:3]"
+msgid "Example1:"
+msgstr "Exemple1:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:4]"
+msgid "Example1:"
+msgstr "Exemple1:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NameVar1][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:0]"
+msgid "Example2:"
+msgstr "Exemple2:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:1]"
+msgid "Example2:"
+msgstr "Exemple2:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:2]"
+msgid "Example2:"
+msgstr "Exemple2:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:3]"
+msgid "Example2:"
+msgstr "Exemple2:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:4]"
+msgid "Example2:"
+msgstr "Exemple2:"
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NameVar2][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:onoff][Resource:0]"
+msgid "ON"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:onoff][Resource:1]"
+msgid "OFF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Parity][Resource:0]"
+msgid "None"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Parity][Resource:1]"
+msgid " Odd"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Parity][Resource:2]"
+msgid "Even"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:1]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:7]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:8]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:9]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:10]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:11]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:12]"
+msgid "     c.pCO"
+msgstr "     c.pCO"
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:13]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:pCO_Type][Resource:14]"
+msgid "c.pCO mini"
+msgstr "c.pCO mini"
+
+#: Classes.otsf
+msgctxt "[Class:ProtTyp_BMS][Resource:0]"
+msgid "Carel Slave"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ProtTyp_BMS][Resource:1]"
+msgid "Modbus Slave"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ProtTyp_BMS][Resource:2]"
+msgid "Display"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ProtTyp_BMS][Resource:3]"
+msgid "Com. PGDX"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:PwdChgM][ClassText:Text]"
+msgid "Manufact:"
+msgstr "Fabricant:"
+
+#: Classes.otsf
+msgctxt "[Class:PwdChgS][ClassText:Text]"
+msgid "Service:"
+msgstr "Service:"
+
+#: Classes.otsf
+msgctxt "[Class:PwdChgU][ClassText:Text]"
+msgid "User:"
+msgstr "Utilisat:"
+
+#: Classes.otsf
+msgctxt "[Class:PwdRes][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:PwdRes][Resource:1]"
+msgid "Wrong Password! "
+msgstr "Mot de passe incorrect"
+
+#: Classes.otsf
+msgctxt "[Class:PwdType][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:PwdType][Resource:1]"
+msgid "user"
+msgstr "utilisateur"
+
+#: Classes.otsf
+msgctxt "[Class:PwdType][Resource:2]"
+msgid "service"
+msgstr "service"
+
+#: Classes.otsf
+msgctxt "[Class:PwdType][Resource:3]"
+msgid "manufacturer"
+msgstr "fabricant"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtBOTTOM][Resource:0]"
+msgid "Serial Ports"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtBOTTOM][Resource:1]"
+msgid "Network"
+msgstr "Réseau"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtBOTTOM][Resource:2]"
+msgid "Initilization"
+msgstr "Changement mdp"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtBOTTOM][Resource:3]"
+msgid "Initialization"
+msgstr "Initialisation"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtMIDDLE][Resource:0]"
+msgid "Language"
+msgstr "UoM"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtMIDDLE][Resource:1]"
+msgid "Serial Ports"
+msgstr "Langue"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtMIDDLE][Resource:2]"
+msgid "Network"
+msgstr "Réseau"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtMIDDLE][Resource:3]"
+msgid "Initilization"
+msgstr "Changement mdp"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtMIDDLE][Resource:4]"
+msgid "Initialization"
+msgstr "Initialisation"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:0]"
+msgid "Date/Time"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:1]"
+msgid "Language"
+msgstr "UoM"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:2]"
+msgid "Serial Ports"
+msgstr "Langue"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:3]"
+msgid "Network"
+msgstr "Réseau"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:4]"
+msgid "Initilization"
+msgstr "Changement mdp"
+
+#: Classes.otsf
+msgctxt "[Class:SettingsTxtTOP][Resource:5]"
+msgid "Initialization"
+msgstr "Initialisation"
+
+#: Classes.otsf
+msgctxt "[Class:statut][Resource:0]"
+msgid "OK !!!"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:statut][Resource:1]"
+msgid "ALARM!!!"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:1]"
+msgid "SI(ßC,kPa)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_UI][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:1]"
+msgid "SI(ßC,kPa)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:5]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:STD_UOM_ZONE_WEB][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:StopBit][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:StopBit][Resource:1]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:StopBit][Resource:2]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:1]"
+msgid "Filename not valid"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:2]"
+msgid "Cannot access disk"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:3]"
+msgid "Cannot access file"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:4]"
+msgid "File I/O error"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:5]"
+msgid "File not valid"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:6]"
+msgid "Value not valid"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:7]"
+msgid "Mem buffer too small"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:8]"
+msgid "File is empty"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:9]"
+msgid "Time param not correct"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:10]"
+msgid "Module busy, try again"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:11]"
+msgid "Logger not running"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:12]"
+msgid "Log export failed"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:13]"
+msgid "Input not valid"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:14]"
+msgid "Func not implemented"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:15]"
+msgid "Config API error"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SystemErrorsMsg][Resource:16]"
+msgid "Value not available"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:1]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:2]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:3]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:4]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:5]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Temperature_C_UoM][Resource:6]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:1]"
+msgid "ON"
+msgstr "ACTIF"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:2]"
+msgid "OFF BY ALARM"
+msgstr "DES. PAR ALARME"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:3]"
+msgid "OFF BY BMS"
+msgstr "DES. PAR BMS"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:4]"
+msgid "OFF BY SCHED"
+msgstr "DES. PAR PROG"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:5]"
+msgid "OFF BY DI"
+msgstr "DES. PAR DI"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:6]"
+msgid "OFF BY KEYBOARD"
+msgstr "DES. PAR CLAVIER"
+
+#: Classes.otsf
+msgctxt "[Class:UnitStatus][Resource:7]"
+msgid "IN MANUAL MODE"
+msgstr "MODE MANUEL"
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:0]"
+msgid "NC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:1]"
+msgid "SI(ßC,kPA)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:2]"
+msgid "USA(ßF,psi)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:3]"
+msgid "UK(ßC,bar)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:4]"
+msgid "CAN(ßC,psi)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:5]"
+msgid "LON"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_P][Resource:6]"
+msgid "SI(ßC,bar)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:0]"
+msgid "NC"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:1]"
+msgid "SI(ßC,kPA)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:2]"
+msgid "USA(ßF,psi)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:3]"
+msgid "UK(ßC,bar)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:4]"
+msgid "CAN(ßC,psi)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:5]"
+msgid "LON"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UoM_T][Resource:6]"
+msgid "SI(ßC,bar)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UserAccesMenu][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:UserAccesMenu][Resource:1]"
+msgid "User Password"
+msgstr "Utilisateur password"
+
+#: Classes.otsf
+msgctxt "[Class:UserAccesMenu][Resource:2]"
+msgid "Service Password"
+msgstr "Service password"
+
+#: Classes.otsf
+msgctxt "[Class:UserAccesMenu][Resource:3]"
+msgid "Manufacturer Password"
+msgstr "Fabricant password"
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:0]"
+msgid "***"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:1]"
+msgid "MONDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:2]"
+msgid "TUESDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:3]"
+msgid "WEDNESDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:4]"
+msgid "THURSDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:5]"
+msgid "FRIDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:6]"
+msgid "SATURDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekD][Resource:7]"
+msgid "SUNDAY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekM][Resource:0]"
+msgid "  LAST"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekM][Resource:1]"
+msgid " FIRST"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekM][Resource:2]"
+msgid "SECOND"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekM][Resource:3]"
+msgid " THIRD"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WeekM][Resource:4]"
+msgid "FOURTH"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WipeMem][Resource:0]"
+msgid "  NO"
+msgstr " NON"
+
+#: Classes.otsf
+msgctxt "[Class:WipeMem][Resource:1]"
+msgid " YES"
+msgstr " OUI"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_3]"
+msgid "Memory type:"
+msgstr "Type mémoire:"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_4]"
+msgid "File name:"
+msgstr "Nom fich:"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_5]"
+msgid "Confirm:"
+msgstr "Confirmer?"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_6]"
+msgid "AL_EXPORT_"
+msgstr "AL_EXPORT_"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_7]"
+msgid "Alarm Export"
+msgstr "Export alarme"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExp][Field:Text_8]"
+msgid "Unit configuration"
+msgstr "Config. de machine"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExpRes][Field:Text_1]"
+msgid "Press ESC to back"
+msgstr "ESC pour revenir"
+
+#: 03_Devices.otws
+msgctxt "[Mask:AlrmExpRes][Field:Text_2]"
+msgid "Imp/Exp result"
+msgstr "Résultat de l'opération"
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_1]"
+msgid "Delete alarm logs?"
+msgstr "Effacer journaux "
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_2]"
+msgid "Alarm initialization"
+msgstr "Initialisation alarme"
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_3]"
+msgid "Initialization"
+msgstr "Initialisation"
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_4]"
+msgid "Clear AutoReset "
+msgstr "Effacter comptes"
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_5]"
+msgid "counters?"
+msgstr "AutoReset?"
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_6]"
+msgid " "
+msgstr "alarme? "
+
+#: 04_Settings.otws
+msgctxt "[Mask:AlrmInit][Field:Text_7]"
+msgid "Enable buzzer?"
+msgstr "Permettre buzzer?"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Active][Field:Field_1]"
+msgid "Alarms             /"
+msgstr "Alarmes            /"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Active][Field:Field_4]"
+msgid ":     /  /"
+msgstr ":     /  /"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Log][Field:Data_logger_1]"
+msgid "  Record:"
+msgstr "   Enreg:"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Log][Field:Field_1]"
+msgid "Event:"
+msgstr "Evénement :"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Log][Field:Field_5]"
+msgid "Data logger"
+msgstr "Enreg donn"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Log][Field:Text_1]"
+msgid " :     /  /"
+msgstr " :     /  /"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoAlrms][Field:Field_1]"
+msgid "NO ALARMS"
+msgstr "PAS D'ALARM"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoAlrms][Field:Press_ENTER_1]"
+msgid "Press ENTER"
+msgstr "Appuyer sur ENTREE"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoAlrms][Field:to_DATA_LOGGER_1]"
+msgid "to DATA LOGGER"
+msgstr "pour ENREG. DONNEES"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoLog][Field:Field_1]"
+msgid "Alarms History"
+msgstr "Historique alarmes"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoLog][Field:NO_ACTIVE_ALAMRS_1]"
+msgid "NO LOGS"
+msgstr "PAS DE "
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_NoLog][Field:Text_1]"
+msgid " "
+msgstr "JOURNAX"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:Field_1]"
+msgid "Press ALARM for 3s"
+msgstr "Appuyer sur ALARME pendant 3 s"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:Field_2]"
+msgid "to reset all alarms"
+msgstr "pour réinitialiser"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:Field_3]"
+msgid "Alarms"
+msgstr "Alarmes"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:Press_ENTER_2]"
+msgid "Press ENTER"
+msgstr "Appuyer sur ENTREE"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:Text_1]"
+msgid " "
+msgstr "les alarmes"
+
+#: 01_Alrms.otws
+msgctxt "[Mask:Alrms_Res][Field:to_DATA_LOGGER_2]"
+msgid "to DATA LOGGER"
+msgstr "pour ENREG. DONNEES"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_1]"
+msgid "PowerOff time:"
+msgstr "Temps mise hors tens:"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_2]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_3]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_4]"
+msgid "Length last time off:"
+msgstr "Durée blackout:"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_5]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_6]"
+msgid "Days    Hrs    Min"
+msgstr "jours    heur   min"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_7]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_8]"
+msgid "Info"
+msgstr "Informations"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_9]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_10]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_11]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_12]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_13]"
+msgid "Current time:"
+msgstr "Heure actuelle :"
+
+#: 02_Main.otws
+msgctxt "[Mask:Blackout][Field:Text_14]"
+msgid "Blackout info"
+msgstr "Informations relâche"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_1]"
+msgid "/"
+msgstr "/"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_2]"
+msgid "Date:"
+msgstr "Dates:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_3]"
+msgid "Hour:"
+msgstr "Heure:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_4]"
+msgid "Format:"
+msgstr "Format:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_5]"
+msgid "/"
+msgstr "/"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_6]"
+msgid ":"
+msgstr ":"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_7]"
+msgid "Date/Time change"
+msgstr "Modifier Date/Heure"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_8]"
+msgid ":"
+msgstr ":"
+
+#: 04_Settings.otws
+msgctxt "[Mask:DateTimeChg][Field:Text_9]"
+msgid "Day:"
+msgstr "Jour :"
+
+#: 04_Settings.otws
+msgctxt "[Mask:Default][Field:Text]"
+msgid "Wipe retain mem.:"
+msgstr "Ess. mem. retain:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:Default][Field:Text_1]"
+msgid "Initialization"
+msgstr "Initialisation"
+
+#: 04_Settings.otws
+msgctxt "[Mask:Default][Field:Text_2]"
+msgid "DEFAULT INSTALLATION"
+msgstr "DEFAUT D'INSTALLATION"
+
+#: 04_Settings.otws
+msgctxt "[Mask:Default][Field:Text_3]"
+msgid "Wipe NVRAM mem.:"
+msgstr "Ess. mem. NVRAM:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:Default][Field:Text_4]"
+msgid "Wipe both mem.:"
+msgstr "Ess. les deux mem:"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Devicen][Field:Text_2]"
+msgid "Device n"
+msgstr "APPAREILN"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Devicen][Field:Text_3]"
+msgid "Device n"
+msgstr "N appareil"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Devicen_Clone_2][Field:Text_2]"
+msgid "Device n"
+msgstr "APPAREILN"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Devicen_Clone_3][Field:Text_2]"
+msgid "Device n"
+msgstr "APPAREILN"
+
+#: 02_Main.otws
+msgctxt "[Mask:EndDefault][Field:Text_1]"
+msgid " INITIALIZATION"
+msgstr "INITIALISATION"
+
+#: 02_Main.otws
+msgctxt "[Mask:EndDefault][Field:Text_2]"
+msgid "  COMPLETED"
+msgstr "  TERMINEE"
+
+#: 02_Main.otws
+msgctxt "[Mask:EndDefault][Field:Text_3]"
+msgid " Wait for automatic "
+msgstr "Attendre démarrage"
+
+#: 02_Main.otws
+msgctxt "[Mask:EndDefault][Field:Text_4]"
+msgid "  application startup"
+msgstr " automatique applic."
+
+#: 02_Main.otws
+msgctxt "[Mask:EndDefault][Field:Text_5]"
+msgid "ATTENTION!"
+msgstr "ATTENTION!"
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnRebootIPCfg][Field:Text]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnRebootIPCfg][Field:Text_2]"
+msgid "Would you like to"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnRebootIPCfg][Field:Text_3]"
+msgid "reboot to apply the"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnRebootIPCfg][Field:Text_4]"
+msgid "changes?"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnterIPCfg][Field:Text]"
+msgid "Press "Enter" for"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnterIPCfg][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:EnterIPCfg][Field:Text_3]"
+msgid "Network Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:ErrorIPCfg][Field:Text]"
+msgid "ERROR OCCURRED"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:ErrorIPCfg][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:InputOutput][Field:Text_2]"
+msgid "InputOutput"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_1]"
+msgid "Access rights"
+msgstr "Droits d'accès"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_2]"
+msgid "Insert Manufacturer"
+msgstr "Insérer mot de passe"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_3]"
+msgid "password to modify"
+msgstr "Fabricant pour modif."
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_4]"
+msgid "Manuf parameters"
+msgstr "Paramètres fabricant"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_5]"
+msgid "Press ESC to back"
+msgstr "ESC pour revenir"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertManuf][Field:Text_6]"
+msgid " "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertService][Field:Text_1]"
+msgid "Access rights"
+msgstr "Droits d'accès"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertService][Field:Text_2]"
+msgid "Insert Service"
+msgstr "Insérer mot de passe"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertService][Field:Text_3]"
+msgid "password to modify"
+msgstr "Service pour modif."
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertService][Field:Text_4]"
+msgid "Service parameters"
+msgstr "Paramètres Service"
+
+#: 02_Main.otws
+msgctxt "[Mask:InsertService][Field:Text_5]"
+msgid "Press ESC to back"
+msgstr "ESC pour revenir"
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_1][Field:Text]"
+msgid "Enable:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_1][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_1][Field:Text_3]"
+msgid "1/"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_2][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_2][Field:Text_3]"
+msgid "2/4"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_2][Field:Text_4]"
+msgid "Enable:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_3][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_3][Field:Text_3]"
+msgid "3/4"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_3][Field:Text_4]"
+msgid "Enable:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_4][Field:Text]"
+msgid "/"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:IPCfg_4][Field:Text_2]"
+msgid "NET Configuration"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_1]"
+msgid "Language"
+msgstr "Langue :"
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_2]"
+msgid "Language:"
+msgstr "Langue :"
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_3]"
+msgid "ENGLISH"
+msgstr "FRANAIS"
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_4]"
+msgid "ENTER to change"
+msgstr "ENTREE pour modifier"
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_5]"
+msgid "ESC to confirm"
+msgstr "ESC pour confirmer"
+
+#: 02_Main.otws
+msgctxt "[Mask:Language][Field:Text_6]"
+msgid "Show mask time"
+msgstr "Montrer/masq heure"
+
+#: 02_Main.otws
+msgctxt "[Mask:Main][Field:Text_1]"
+msgid "MAIN PAGE"
+msgstr "PAGE PRINCIPALE"
+
+#: 02_Main.otws
+msgctxt "[Mask:Main][Field:Text_2]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Main][Field:Text_3]"
+msgid "/"
+msgstr "/"
+
+#: 02_Main.otws
+msgctxt "[Mask:Main][Field:Text_4]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:Main][Field:Text_5]"
+msgid "Unit status:"
+msgstr "Statut unité :"
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text]"
+msgid "ATTENTION!"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text_2]"
+msgid "   Memory erasing"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text_3]"
+msgid "required"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text_4]"
+msgid "1. Press Enter+Alarm"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text_5]"
+msgid "2. Application"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:MemoryErrorMask][Field:Text_6]"
+msgid "3. Wipe Retain"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:Menu_Main][Field:Text_1]"
+msgid "Main Menu"
+msgstr "Confirmer?"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Menu_Main][Field:Text_7]"
+msgid "/"
+msgstr "EXPORT_"
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_1]"
+msgid "Params Import/Export"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_2]"
+msgid "Unit configuration"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_4]"
+msgid "Import/Export:"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_5]"
+msgid "Memory type:"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_6]"
+msgid "File name:"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_7]"
+msgid "Confirm:"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExp][Field:Text_8]"
+msgid "EXPORT_"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpErr][Field:Text_1]"
+msgid "Press ESC to back"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpErr][Field:Text_2]"
+msgid "ATTENTION!"
+msgstr "ATTENTION!"
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpErr][Field:Text_3]"
+msgid "Imp/Exp parameters"
+msgstr "Paramètres imp/exp "
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpErr][Field:Text_4]"
+msgid "is not allowed"
+msgstr "ne sont pas autorisés"
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpErr][Field:Text_5]"
+msgid "with the unit on"
+msgstr "à l'unité sur"
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpRes][Field:Text_1]"
+msgid "Press ESC to back"
+msgstr "ESC pour revenir"
+
+#: 03_Devices.otws
+msgctxt "[Mask:ParamsImpExpRes][Field:Text_2]"
+msgid "Imp/Exp result"
+msgstr "Résultat de l'opération"
+
+#: 04_Settings.otws
+msgctxt "[Mask:PGDX][Field:Text]"
+msgid "."
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:PGDX][Field:Text_1]"
+msgid "pGDX"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:PGDX][Field:Text_2]"
+msgid "IP address:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:PGDX][Field:Text_3]"
+msgid "."
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:PGDX][Field:Text_4]"
+msgid "."
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogIn][Field:Text_1]"
+msgid "Insert password:"
+msgstr "Insérer passe:"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogIn][Field:Text_2]"
+msgid "Login"
+msgstr "Se connecter"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogOut][Field:Text_1]"
+msgid "Press ENTER"
+msgstr "Appuyer ENTREE"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogOut][Field:Text_2]"
+msgid "LogOut"
+msgstr "Logout"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogOut][Field:Text_3]"
+msgid "to Log Out"
+msgstr "pour Logout"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogOut][Field:Text_4]"
+msgid "You are"
+msgstr "Vous êtes con."
+
+#: 03_Devices.otws
+msgctxt "[Mask:Pwd_LogOut][Field:Text_5]"
+msgid "logged as"
+msgstr "en tant que"
+
+#: 04_Settings.otws
+msgctxt "[Mask:PwdChg][Field:Text_1]"
+msgid "Change Password"
+msgstr "Modifier mot de passe"
+
+#: 04_Settings.otws
+msgctxt "[Mask:RebootingIPCfg][Field:Text]"
+msgid "Rebooting"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:RebootingIPCfg][Field:Text_2]"
+msgid "Please wait..."
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:RemoteOnOff][Field:Text_1]"
+msgid "Remote on/off"
+msgstr "Remote on/off"
+
+#: 04_Settings.otws
+msgctxt "[Mask:RemoteOnOff][Field:Text_2]"
+msgid "Remote On/Off:"
+msgstr "Remote on/off"
+
+#: 04_Settings.otws
+msgctxt "[Mask:RemoteOnOff][ResourceUseOnBool:0]"
+msgid "No"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:RemoteOnOff][ResourceUseOnBool:1]"
+msgid "Yes"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_1]"
+msgid "BMS2"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_2]"
+msgid "BMS2"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_3]"
+msgid "Protocol:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_4]"
+msgid "Baudrate:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_5]"
+msgid "Stopbits:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_6]"
+msgid "Parity:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][Field:Text_7]"
+msgid "Address:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][ResourceUseOnBool:0]"
+msgid "No"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SerialPorts][ResourceUseOnBool:1]"
+msgid "Yes"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:Settings][Field:Text_1]"
+msgid "/"
+msgstr "/"
+
+#: 03_Devices.otws
+msgctxt "[Mask:Settings][Field:Text_2]"
+msgid "Settings Menu"
+msgstr "Menu réglages"
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][Field:Text]"
+msgid "IP reading:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][Field:Text_2]"
+msgid "Disable continuous"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][Field:Text_3]"
+msgid "NET Settings"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][Field:Text_4]"
+msgid "Read IP every:"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][Field:Text_5]"
+msgid "sec"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][ResourceUseOnBool:0]"
+msgid "Yes"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:SettingsIPCfg][ResourceUseOnBool:1]"
+msgid "No"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text]"
+msgid "absHUM inside:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_2]"
+msgid "Tßoutside    :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_3]"
+msgid "RH inside    :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_4]"
+msgid "Tßinside     :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_5]"
+msgid "RH outside   :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_6]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_7]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_8]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_9]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_10]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_11]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_12]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_13]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_14]"
+msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_15]"
+msgid "Tß soufflage :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_16]"
+msgid "2"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_17]"
+msgid "absHUM outsid:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_18]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_19]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_20]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_21]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_22]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3][Field:Text_23]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text]"
+msgid "|STATUT|"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_2]"
+msgid "PARK STATUT  :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_3]"
+msgid "Jour/nuit"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_5]"
+msgid "SELECT MODE  :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_7]"
+msgid "|  :  |"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_8]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text]"
+msgid "VENT"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_2]"
+msgid "COMP"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_3]"
+msgid "COND"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text]"
+msgid "HW inside"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_2]"
+msgid "DH inside"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_3]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_4]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_5]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_6]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_10]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_11]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_12]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_14]"
+msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_16]"
+msgid "2"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_17]"
+msgid "HW outside"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_18]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_19]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_20]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_21]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_22]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_23]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_4]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_5]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_6]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_7]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_8]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_9]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_10]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_11]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_12]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_13]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_14]"
+msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_16]"
+msgid "2"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_7]"
+msgid "SETPOINT HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_8]"
+msgid "SETPOINT T"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_9]"
+msgid "SETPOINT HW "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text]"
+msgid " EXTAIR 1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_2]"
+msgid "T TO MIN"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_3]"
+msgid "T TO MAX"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_4]"
+msgid "T TO MAX"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_5]"
+msgid "V MAX"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_6]"
+msgid "BRASSAGE ?"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_7]"
+msgid "V BRASSAGE "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_12]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_13]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_14]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_15]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_16]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_17]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_18]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_19]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_20]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text]"
+msgid "BOOT ver.:"
+msgstr "Ver. BOOT:"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_1]"
+msgid "AIRGAIA"
+msgstr "*NOM DE L'ENTREPRISE*"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_2]"
+msgid "SW ver.:"
+msgstr "Ver. SW :"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_3]"
+msgid "Info"
+msgstr "Informations"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_4]"
+msgid "Code:"
+msgstr "Code :"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_5]"
+msgid "OS ver.:"
+msgstr "Ver. OS:"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_6]"
+msgid "."
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_7]"
+msgid "."
+msgstr "."
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_8]"
+msgid "."
+msgstr "."
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_9]"
+msgid "."
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text]"
+msgid "SEL regul"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_2]"
+msgid "h"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_3]"
+msgid "h"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_4]"
+msgid "Lever Du Soleil"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_5]"
+msgid "coucher du soleil"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_6]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text]"
+msgid "Normal mode"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_2]"
+msgid "CycleTime :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_3]"
+msgid "Range:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text]"
+msgid "SEL regul"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_2]"
+msgid "Selection du Mode"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_4]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text]"
+msgid "ADMIN"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_2]"
+msgid "Select Mode"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_3]"
+msgid "V comp"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_4]"
+msgid "V comp"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_5]"
+msgid "V cond"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_6]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_7]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_9]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_10]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_11]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_12]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text]"
+msgid "ADMIN"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_2]"
+msgid "Select Mode"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_3]"
+msgid "V comp"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_4]"
+msgid "V vent"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_5]"
+msgid "V cond"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_6]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_7]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_9]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_10]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_11]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_12]"
+msgid "Text"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_13]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_14]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_15]"
+msgid "HRext"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_16]"
+msgid "HRext"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_17]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_18]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_19]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_20]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_21]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_22]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_1][Field:Text]"
+msgid "UID:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_1][Field:Text_1]"
+msgid "Info"
+msgstr "Info"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_1][Field:Text_2]"
+msgid "Board type:"
+msgstr "Type panneau:"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_1][Field:Text_3]"
+msgid "Core:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_1][Field:Text_5]"
+msgid "Board size:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_2][Field:Text_1]"
+msgid "Info"
+msgstr "Info"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_2][Field:Text_3]"
+msgid "Cycle/s"
+msgstr "Cycle/s"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_2][Field:Text_4]"
+msgid "ms"
+msgstr "ms"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_2][Field:Text_7]"
+msgid "Main task:"
+msgstr "Taille principale :"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_2][Field:Text_9]"
+msgid "Ret mem writes:"
+msgstr "Conserver mém:"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text]"
+msgid "OEM ID:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_1]"
+msgid "Info"
+msgstr "Info"
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_2]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_3]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_4]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_5]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_3][Field:Text_6]"
+msgid "Machine code:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text]"
+msgid "OEM ID:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_1]"
+msgid "Info"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_2]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_3]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_4]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_5]"
+msgid "-"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_6]"
+msgid "Machine code:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SysInfo_4][Field:Text_7]"
+msgid "Override"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:TimeZone][Field:Text_2]"
+msgid "Timezone"
+msgstr "Heure sauvegarde jour"
+
+#: 04_Settings.otws
+msgctxt "[Mask:TimeZone][Field:Text_3]"
+msgid "Time zone:"
+msgstr "Actuel:"
+
+#: 04_Settings.otws
+msgctxt "[Mask:TimeZone][ResourceUseOnBool:0]"
+msgid "NO"
+msgstr " NON"
+
+#: 04_Settings.otws
+msgctxt "[Mask:TimeZone][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr " OUI"
+
+#: 02_Main.otws
+msgctxt "[Mask:TurnOffUnit][Field:Text]"
+msgid "Turn off the unit"
+msgstr "Eteignez l'appareil "
+
+#: 02_Main.otws
+msgctxt "[Mask:TurnOffUnit][Field:Text_2]"
+msgid "to change unit"
+msgstr "pour modifier les "
+
+#: 02_Main.otws
+msgctxt "[Mask:TurnOffUnit][Field:Text_3]"
+msgid "settings"
+msgstr "paramètres de l'unité"
+
+#: 02_Main.otws
+msgctxt "[Mask:TurnOffUnit][Field:Text_4]"
+msgid "Press ESC to back"
+msgstr "ESC pour revenir"
+
+#: 02_Main.otws
+msgctxt "[Mask:TurnOffUnit][Field:Text_5]"
+msgid "ATTENTION!"
+msgstr ""
+
+#: 04_Settings.otws
+msgctxt "[Mask:UoM_UI][Field:Text_2]"
+msgid "Date/Time change"
+msgstr "UI Interface UoM"
+
+#: 04_Settings.otws
+msgctxt "[Mask:UoM_WEB][Field:Text_2]"
+msgid "Date/Time change"
+msgstr "WEB Interface UoM"
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][Field:Text]"
+msgid "The user"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][Field:Text_2]"
+msgid "Login"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][Field:Text_3]"
+msgid "is logged in."
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][ResourceUseOnInt:0]"
+msgid "No User"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][ResourceUseOnInt:1]"
+msgid " Maintenance"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][ResourceUseOnInt:2]"
+msgid "Service"
+msgstr ""
+
+#: 03_Devices.otws
+msgctxt "[Mask:WebPagesSessionActive][ResourceUseOnInt:3]"
+msgid "Manufacturer"
+msgstr "Heures travaillées"
+
+#: 02_Main.otws
+msgctxt "[Mask:WorkHours][Field:Text_1]"
+msgid "Work hours"
+msgstr "Unité :              h"
+
+#: 02_Main.otws
+msgctxt "[Mask:WorkHours][Field:Text_2]"
+msgid "Unit:                h"
+msgstr "Informations"
+
+#: 02_Main.otws
+msgctxt "[Mask:WorkHours][Field:Text_3]"
+msgid "Info"
+msgstr ""
+
