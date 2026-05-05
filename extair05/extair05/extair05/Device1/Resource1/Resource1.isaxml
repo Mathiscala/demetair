@@ -174,6 +174,7 @@
     <FunctionBlock Name="PID_Adv_2" ElementGuid="5a085a73-91d1-407d-a231-26c55f09e469" Language="ST" CustomFbd="0" Is1499="false" />
     <FunctionBlock Name="ventilateurPidM3H" ElementGuid="6b5ca4a7-03f1-49e1-b093-420f094f053e" Language="ST" CustomFbd="0" Is1499="false" />
     <FunctionBlock Name="SunriseSunsetTime" ElementGuid="89ca27eb-a0e5-41b0-933d-7256de8649ff" Language="ST" CustomFbd="0" Is1499="false" />
+    <FunctionBlock Name="HYST_HR" ElementGuid="45a8d3d1-647b-40f3-8f9c-3dda5fb762af" Language="ST" CustomFbd="0" Is1499="false" />
     <Program Name="NVRAM_Mng" ElementGuid="ed8efe73-eb1f-4724-af65-438e120b9251" Language="FBD" CustomFbd="0" Is1499="false" />
     <Program Name="GeneralMng" ElementGuid="7a120d2e-a685-464f-92dc-c41fb2a4d679" Language="FBD" CustomFbd="0" Is1499="false" />
     <Program Name="AlarmMng" ElementGuid="3a3fc04a-be01-4fa4-b845-88be46e69fda" Language="FBD" CustomFbd="0" Is1499="false" />

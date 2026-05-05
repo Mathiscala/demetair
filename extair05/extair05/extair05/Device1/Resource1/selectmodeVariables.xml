@@ -225,23 +225,6 @@
       Max=""
       StringSize="0" />
     <Variable
-      Name="Surpression"
-      Comment=""
-      DataType="BOOL"
-      Kind="VarInput"
-      IO="false"
-      Protocol="false"
-      UI="false"
-      Default="false"
-      LogPV="false"
-      IsRetained="false"
-      Alarm="false"
-      UoM="NoUnits"
-      Access="ReadWrite"
-      Min=""
-      Max=""
-      StringSize="0" />
-    <Variable
       Name="TON_1"
       Comment=""
       DataType="TON"

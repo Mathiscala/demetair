@@ -159,6 +159,9 @@
   <AcfElementGuid Guid="4587dfdf-b238-46d8-a1a0-a4495a2ae130">
     <File>Conv_INT.AcfMlge</File>
   </AcfElementGuid>
+  <AcfElementGuid Guid="45a8d3d1-647b-40f3-8f9c-3dda5fb762af">
+    <File>HYST_HR.acfmlge</File>
+  </AcfElementGuid>
   <AcfElementGuid Guid="46810cdf-6174-410f-ac46-a44764700379">
     <File>RealToInt.AcfMlge</File>
   </AcfElementGuid>
