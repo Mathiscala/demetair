@@ -1,5 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <FormatFields>
+  <FormatField Name="ActiveCtrlMode_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="rpm" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="V" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="%" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="m3/h" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="kg/h" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ActiveCtrlMode_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="rpm" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="V" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="%" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="m3/h" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="kg/h" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
   <FormatField Name="AlarmLogDelete" Format="iob">
     <ResourceUsedOnBool>
       <Index Value="0" Content="  NO" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
@@ -16,6 +44,77 @@
     <ResourceUsedOnInt>
       <Index Value="0" Content="Too many mem writings" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="1" Content="Retain mem write error" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="High Pressure" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Low Pressure" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="Compressor circuit breaker" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="Discharge fault" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="Fan circuit breaker" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="7" Content="Compressor fault" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="8" Content="Fan fault" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="9" Content="Phase inversion" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="10" Content="Low Pressure 6" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="11" Content="Low Pressure 7" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="12" Content="Retain memory check" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="13" Content="Offline EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="14" Content="Phase Fault EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="15" Content="Motor Blocked EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="16" Content="Mains Under Voltage EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="17" Content="Mains Over Voltage EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="18" Content="DC Link Over Voltage EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="19" Content="DC Link Under Voltage EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="20" Content="Motor Superheating EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="21" Content="Internal Circuit Superheating EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="22" Content="Output Stage Superheating EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="23" Content="Hall Sensor Error EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="24" Content="Communication Error EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="25" Content="Generic Error EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="26" Content="Output Stage High Temp EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="27" Content="Internal Circuit High Temp EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="28" Content="Motor High Temp EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="29" Content="DC Link Voltage Low EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="30" Content="Limit Mains Power EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="31" Content="Limit Mains Amps EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="32" Content="Brake Mode EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="33" Content="Cable Break EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="34" Content="Ice Protection EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="35" Content="Heat Motor Stopped EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="36" Content="Speed Under Limit EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="37" Content="DC Voltage High EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="38" Content="Supply Voltage High EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="39" Content="Line Impedance High EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="40" Content="Speed limit exceed EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="41" Content="Rotor position sensor calibration error EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="42" Content="Calibration of rotor position sensor in progress EBM 1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="43" Content="Offline EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="44" Content="Phase Failure EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="45" Content="Motor blocked EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="46" Content="Mains undervolt. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="47" Content="Mains overvolt. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="48" Content="DC-link overvol. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="49" Content="DC-link undervol. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="50" Content="Motor superheat. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="51" Content="Intern. circ. superheat. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="52" Content="Out stage superheat. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="53" Content="Hall sensor err. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="54" Content="Communic. error EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="55" Content="Generic error EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="56" Content="Out stage high temp. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="57" Content="Int. circ. high temp. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="58" Content="Motor high temperature EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="59" Content="DC-link volt. low EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="60" Content="Lim. mains power EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="61" Content="Lim. mains curr. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="62" Content="Brake mode EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="63" Content="Cable break EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="64" Content="Ice protection EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="65" Content="Heating: motor stop EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="66" Content="Speed under lim. EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="67" Content="DC-voltage high EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="68" Content="Supply volt. high EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="69" Content="Line imp. high EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="70" Content="Speed limit exceed EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="71" Content="Rotor position sensor calibration error EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="72" Content="Calibration of rotor position sensor in progress EBM 2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="AlrmLogEvent" Format="o1">
@@ -430,6 +529,206 @@
       <Index Value="399" Content=" AL*400" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
+  <FormatField Name="ASCII_Dig_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="6" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="7" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="8" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="9" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="10" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="11" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="12" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="13" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="14" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="15" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="16" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="17" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="18" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="19" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="20" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="21" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="22" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="23" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="24" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="25" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="26" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="27" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="28" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="29" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="30" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="31" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="32" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="33" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="34" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="35" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="36" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="37" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="38" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="39" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="40" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="41" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="42" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="43" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="44" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="45" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="46" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="47" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="48" Content="0" Type="Text" Font="SimSun" />
+      <Index Value="49" Content="1" Type="Text" Font="SimSun" />
+      <Index Value="50" Content="2" Type="Text" Font="SimSun" />
+      <Index Value="51" Content="3" Type="Text" Font="SimSun" />
+      <Index Value="52" Content="4" Type="Text" Font="SimSun" />
+      <Index Value="53" Content="5" Type="Text" Font="SimSun" />
+      <Index Value="54" Content="6" Type="Text" Font="SimSun" />
+      <Index Value="55" Content="7" Type="Text" Font="SimSun" />
+      <Index Value="56" Content="8" Type="Text" Font="SimSun" />
+      <Index Value="57" Content="9" Type="Text" Font="SimSun" />
+      <Index Value="58" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="59" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="60" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="61" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="62" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="63" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="64" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="65" Content="A" Type="Text" Font="SimSun" />
+      <Index Value="66" Content="B" Type="Text" Font="SimSun" />
+      <Index Value="67" Content="C" Type="Text" Font="SimSun" />
+      <Index Value="68" Content="D" Type="Text" Font="SimSun" />
+      <Index Value="69" Content="E" Type="Text" Font="SimSun" />
+      <Index Value="70" Content="F" Type="Text" Font="SimSun" />
+      <Index Value="71" Content="G" Type="Text" Font="SimSun" />
+      <Index Value="72" Content="H" Type="Text" Font="SimSun" />
+      <Index Value="73" Content="I" Type="Text" Font="SimSun" />
+      <Index Value="74" Content="J" Type="Text" Font="SimSun" />
+      <Index Value="75" Content="K" Type="Text" Font="SimSun" />
+      <Index Value="76" Content="L" Type="Text" Font="SimSun" />
+      <Index Value="77" Content="M" Type="Text" Font="SimSun" />
+      <Index Value="78" Content="N" Type="Text" Font="SimSun" />
+      <Index Value="79" Content="O" Type="Text" Font="SimSun" />
+      <Index Value="80" Content="P" Type="Text" Font="SimSun" />
+      <Index Value="81" Content="Q" Type="Text" Font="SimSun" />
+      <Index Value="82" Content="R" Type="Text" Font="SimSun" />
+      <Index Value="83" Content="S" Type="Text" Font="SimSun" />
+      <Index Value="84" Content="T" Type="Text" Font="SimSun" />
+      <Index Value="85" Content="U" Type="Text" Font="SimSun" />
+      <Index Value="86" Content="V" Type="Text" Font="SimSun" />
+      <Index Value="87" Content="W" Type="Text" Font="SimSun" />
+      <Index Value="88" Content="X" Type="Text" Font="SimSun" />
+      <Index Value="89" Content="Y" Type="Text" Font="SimSun" />
+      <Index Value="90" Content="Z" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ASCII_Dig_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="6" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="7" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="8" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="9" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="10" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="11" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="12" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="13" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="14" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="15" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="16" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="17" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="18" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="19" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="20" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="21" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="22" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="23" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="24" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="25" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="26" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="27" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="28" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="29" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="30" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="31" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="32" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="33" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="34" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="35" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="36" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="37" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="38" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="39" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="40" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="41" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="42" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="43" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="44" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="45" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="46" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="47" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="48" Content="0" Type="Text" Font="SimSun" />
+      <Index Value="49" Content="1" Type="Text" Font="SimSun" />
+      <Index Value="50" Content="2" Type="Text" Font="SimSun" />
+      <Index Value="51" Content="3" Type="Text" Font="SimSun" />
+      <Index Value="52" Content="4" Type="Text" Font="SimSun" />
+      <Index Value="53" Content="5" Type="Text" Font="SimSun" />
+      <Index Value="54" Content="6" Type="Text" Font="SimSun" />
+      <Index Value="55" Content="7" Type="Text" Font="SimSun" />
+      <Index Value="56" Content="8" Type="Text" Font="SimSun" />
+      <Index Value="57" Content="9" Type="Text" Font="SimSun" />
+      <Index Value="58" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="59" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="60" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="61" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="62" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="63" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="64" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="65" Content="A" Type="Text" Font="SimSun" />
+      <Index Value="66" Content="B" Type="Text" Font="SimSun" />
+      <Index Value="67" Content="C" Type="Text" Font="SimSun" />
+      <Index Value="68" Content="D" Type="Text" Font="SimSun" />
+      <Index Value="69" Content="E" Type="Text" Font="SimSun" />
+      <Index Value="70" Content="F" Type="Text" Font="SimSun" />
+      <Index Value="71" Content="G" Type="Text" Font="SimSun" />
+      <Index Value="72" Content="H" Type="Text" Font="SimSun" />
+      <Index Value="73" Content="I" Type="Text" Font="SimSun" />
+      <Index Value="74" Content="J" Type="Text" Font="SimSun" />
+      <Index Value="75" Content="K" Type="Text" Font="SimSun" />
+      <Index Value="76" Content="L" Type="Text" Font="SimSun" />
+      <Index Value="77" Content="M" Type="Text" Font="SimSun" />
+      <Index Value="78" Content="N" Type="Text" Font="SimSun" />
+      <Index Value="79" Content="O" Type="Text" Font="SimSun" />
+      <Index Value="80" Content="P" Type="Text" Font="SimSun" />
+      <Index Value="81" Content="Q" Type="Text" Font="SimSun" />
+      <Index Value="82" Content="R" Type="Text" Font="SimSun" />
+      <Index Value="83" Content="S" Type="Text" Font="SimSun" />
+      <Index Value="84" Content="T" Type="Text" Font="SimSun" />
+      <Index Value="85" Content="U" Type="Text" Font="SimSun" />
+      <Index Value="86" Content="V" Type="Text" Font="SimSun" />
+      <Index Value="87" Content="W" Type="Text" Font="SimSun" />
+      <Index Value="88" Content="X" Type="Text" Font="SimSun" />
+      <Index Value="89" Content="Y" Type="Text" Font="SimSun" />
+      <Index Value="90" Content="Z" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
   <FormatField Name="Baudrate" Format="io+6">
     <KeyBindings>
       <KeyBinding Key="UP" BindOn="Increment_BYTE" />
@@ -789,12 +1088,72 @@
       <Index Value="255" Content="FF" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
+  <FormatField Name="ChgAddr_EBM" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.Online_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="ChgAddr_EBM_2" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.Online_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="ChgSernIterface_EBM" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.Online_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="ChgSernIterface_EBM_2" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.Online_EBM_1" />
+    </EnableOn>
+  </FormatField>
   <FormatField Name="Class" Format="io+1">
     <KeyBindings>
       <KeyBinding Key="UP" BindOn="Increment_WORD" />
       <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
       <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
     </KeyBindings>
+  </FormatField>
+  <FormatField Name="Closed_loop_EBM" Format="io4">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_DWORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_DWORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.ClosedLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="Closed_loop_EBM_2" Format="io4">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_DWORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_DWORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.ClosedLoop_EBM_1" />
+    </EnableOn>
   </FormatField>
   <FormatField Name="ClrAutoResCounters" Format="iob">
     <KeyBindings>
@@ -806,6 +1165,254 @@
       <Index Value="0" Content="  NO" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="1" Content=" YES" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
     </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="ComChangeProc_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Idle" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Write password" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="Write parameters" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="Send adopt parameters" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="Load params required" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="Reset procedure" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ComChangeProc_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Idle" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Write password" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="Write parameters" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="Send adopt parameters" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="Load params required" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="Reset procedure" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ComStatus_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="     Online" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="    Offline" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="  Wrong msg" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="  Exception" Type="Text" Font="SimSun" />
+      <Index Value="4" Content=" Connecting" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="   Disabled" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ComStatus_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="     Online" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="    Offline" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="  Wrong msg" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="  Exception" Type="Text" Font="SimSun" />
+      <Index Value="4" Content=" Connecting" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="   Disabled" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CtrModeDayNight_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" CLOSED LOOP SPEED CTR" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="CLOSED LOOP SENSOR CTR" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="     OPEN LOOP PWM CTR" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CtrModeDayNight_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" CLOSED LOOP SPEED CTR" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="CLOSED LOOP SENSOR CTR" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="     OPEN LOOP PWM CTR" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrParamSet_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Parameter set 1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Parameter set 2" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrParamSet_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Parameter set 1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Parameter set 2" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrRotDir_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" Left" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Right" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrRotDir_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" Left" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Right" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrSenValSrc_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="AIN1 (SET VALUE INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="   AIN2 (SENSOR INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="    MAXIMUM(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="    MINIMUM(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="4" Content=" MEAN VALUE(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrSenValSrc_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="AIN1 (SET VALUE INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="   AIN2 (SENSOR INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="    MAXIMUM(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="    MINIMUM(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="4" Content=" MEAN VALUE(AIN1;AIN2)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrSenValSrcRadical_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="AIN1 (SET VALUE INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="4" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="5" Content="       AIR FLOW SENSOR" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="      MASS FLOW SENSOR" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CurrSenValSrcRadical_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="AIN1 (SET VALUE INPUT)" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="4" Content="                   ---" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="5" Content="       AIR FLOW SENSOR" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="      MASS FLOW SENSOR" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="CUrrSetVal_perc_EBM" Format="o+3.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.OpenPwmLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="CUrrSetVal_perc_EBM_2" Format="o+3.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.OpenPwmLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="CurrSetVal_rpm_EBM" Format="o5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.ClosedLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="CurrSetVal_rpm_EBM_2" Format="o5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.ClosedLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="CurrSetVal_volt_EBM" Format="o+2.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.ClosedLoopSensor_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="CurrSetVal_volt_EBM_2" Format="o+2.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.ClosedLoopSensor_EBM_1" />
+    </EnableOn>
   </FormatField>
   <FormatField Name="DateFormat" Format="io1">
     <KeyBindings>
@@ -896,6 +1503,90 @@
       <KeyBinding Key="DOWN" BindOn="Move_DOWN" />
       <KeyBinding Key="UP" BindOn="Move_UP" />
     </KeyBindings>
+  </FormatField>
+  <FormatField Name="EmergEnable_EBM" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content=" No" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Yes" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.Version5" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="EmergEnable_EBM_2" Format="iob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content=" No" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Yes" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.Version5" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="EmergMod_EBM" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="Enable:" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Enable emerg.Mode by:" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="EmergMod_EBM_2" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="Enable:" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Enable emerg.Mode by:" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="EmergSource_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" FUNCTION DISABLE" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="    MODBUS MASTER" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="ANALOG INPUT AIN1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="ANALOG INPUT AIN2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content=" PWM INPUT PWMIN3" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.Version6" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="EmergSource_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content=" FUNCTION DISABLE" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="    MODBUS MASTER" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="ANALOG INPUT AIN1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="ANALOG INPUT AIN2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content=" PWM INPUT PWMIN3" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.Version6" />
+    </EnableOn>
   </FormatField>
   <FormatField Name="EnAlrmExp" Format="io1">
     <KeyBindings>
@@ -1059,6 +1750,62 @@
       <Index Value="98" Content="" Type="Text" Font="SimSun" />
       <Index Value="99" Content="Unknown/uncategorized error" Type="Text" Font="SimSun" />
     </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="FanBaudrate_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="  1200" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="  2400" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="  4800" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="  9600" Type="Text" Font="SimSun" />
+      <Index Value="4" Content=" 19200" Type="Text" Font="SimSun" />
+      <Index Value="5" Content=" 38400" Type="Text" Font="SimSun" />
+      <Index Value="6" Content=" 57600" Type="Text" Font="SimSun" />
+      <Index Value="7" Content="115200" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="FanBaudrate_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="  1200" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="  2400" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="  4800" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="  9600" Type="Text" Font="SimSun" />
+      <Index Value="4" Content=" 19200" Type="Text" Font="SimSun" />
+      <Index Value="5" Content=" 38400" Type="Text" Font="SimSun" />
+      <Index Value="6" Content=" 57600" Type="Text" Font="SimSun" />
+      <Index Value="7" Content="115200" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="FanStatus_EBM" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Online" Type="Text" Font="SimSun" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="FanStatus_EBM_2" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="-" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Online" Type="Text" Font="SimSun" />
+    </ResourceUsedOnBool>
   </FormatField>
   <FormatField Name="HexConv" Format="io3">
     <KeyBindings>
@@ -1393,6 +2140,130 @@
       <KeyBinding Key="DOWN" BindOn="BoolSwap" />
       <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
     </KeyBindings>
+  </FormatField>
+  <FormatField Name="InternalParam_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="parameter set 1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="parameter set 2" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="InternalParam_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="parameter set 1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="parameter set 2" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="InternalParamSet_EBM" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="Night" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="  Day" Type="Text" Font="SimSun" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="InternalParamSet_EBM_2" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="Night" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="  Day" Type="Text" Font="SimSun" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="IOConf1_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Ain 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Tach output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Diagnostic output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="IOConf1_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Ain 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Tach output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Diagnostic output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="IOConf2_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Ain 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Ain 4-20mA" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="IOConf2_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Ain 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Ain 4-20mA" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="IOConf3_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Din low active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Aout 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Tach output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="Diagnostic output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="PWM input" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="IOConf3_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Din high active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Din low active" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Aout 0-10V" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Tach output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="Diagnostic output" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="PWM input" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="IPCfg_EnContinuousReading" Format="iob">
     <KeyBindings>
@@ -1774,6 +2645,48 @@
       <Index Value="7" Content="Logout" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
+  <FormatField Name="MaxPower_EBM" Format="o5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.Version6" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="MaxPower_EBM_2" Format="o5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.Version6" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="MaxPowerText_EBM" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Max power:           W" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="MaxPowerText_EBM_2" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Max power:           W" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+  </FormatField>
   <FormatField Name="MODE" Format="io1">
     <KeyBindings>
       <KeyBinding Key="UP" BindOn="Increment_WORD" />
@@ -1782,8 +2695,12 @@
     </KeyBindings>
     <ResourceUsedOnInt>
       <Index Value="0" Content="ADMIN" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
-      <Index Value="1" Content="OFF" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
-      <Index Value="2" Content="DRY" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Defaut" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="VEILLE" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="FREECOOL" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="FREEDESHU" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="DESHU" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="BRASSAGE" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="Month" Format="io2">
@@ -1836,6 +2753,36 @@
       <Var Name="EnStoredVar2_REAL" />
     </EnableOn>
   </FormatField>
+  <FormatField Name="NewAddrProc_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Check condition" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Write new address" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="Reboot fan firmware" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="Wait offline" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="Reset communication" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="Reset procedure" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="NewAddrProc_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_BYTE" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_BYTE" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Check condition" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Write new address" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="Reboot fan firmware" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="Wait offline" Type="Text" Font="SimSun" />
+      <Index Value="4" Content="Reset communication" Type="Text" Font="SimSun" />
+      <Index Value="5" Content="Reset procedure" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
   <FormatField Name="onoff" Format="iob">
     <KeyBindings>
       <KeyBinding Key="UP" BindOn="BoolSwap" />
@@ -1843,9 +2790,35 @@
       <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
     </KeyBindings>
     <ResourceUsedOnBool>
-      <Index Value="0" Content="ON" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
-      <Index Value="1" Content="OFF" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="0" Content="OFF" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="ON" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="ParamSetSrc_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="    DIGITAL INPUT DIN2" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="   INTERNAL PARAM. SET" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="    DIGITAL INPUT DIN3" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="    DIGITAL INPUT DIN1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ParamSetSrc_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="    DIGITAL INPUT DIN2" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="   INTERNAL PARAM. SET" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="    DIGITAL INPUT DIN3" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="3" Content="    DIGITAL INPUT DIN1" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="Parity" Format="io4">
     <KeyBindings>
@@ -1857,6 +2830,32 @@
       <Index Value="0" Content="None" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="1" Content=" Odd" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="2" Content="Even" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ParityCfg_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="8E1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="8O1" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="8N2" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="8N1" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="ParityCfg_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="8E1" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="8O1" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="8N2" Type="Text" Font="SimSun" />
+      <Index Value="3" Content="8N1" Type="Text" Font="SimSun" />
     </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="pCO_Type" Format="o2">
@@ -1952,6 +2951,28 @@
       <Index Value="3" Content="manufacturer" Type="Text" Font="SimSun" />
     </ResourceUsedOnInt>
   </FormatField>
+  <FormatField Name="Rfid_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Disable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content=" Enable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="Rfid_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Disable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content=" Enable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
   <FormatField Name="SettingsTxtBOTTOM" Format="o1">
     <ResourceUsedOnInt>
       <Index Value="0" Content="Serial Ports" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
@@ -1979,6 +3000,96 @@
       <Index Value="5" Content="Initialization" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
+  <FormatField Name="Speed_perc_EBM" Format="io+3.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.OpenPwmLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="Speed_perc_EBM_2" Format="io+3.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.OpenPwmLoop_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="Speed_Volt_EBM" Format="io+2.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng.ClosedLoopSensor_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="Speed_Volt_EBM_2" Format="io+2.1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_REAL_1" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_REAL_1" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <EnableOn>
+      <Var Name="EbmpapstFan_1_Mng_2.ClosedLoopSensor_EBM_1" />
+    </EnableOn>
+  </FormatField>
+  <FormatField Name="SpeedUnitMeas_EBM" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="rpm" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="V" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="%" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="SpeedUnitMeas_EBM_2" Format="o1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="rpm" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="V" Type="Text" Font="SimSun" />
+      <Index Value="2" Content="%" Type="Text" Font="SimSun" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="SrcSetVal_EBM" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="  0-10 V AIN1" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="MODBUS MASTER" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="  0-10 V AIN2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="   PWM PWMIN3" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="SrcSetVal_EBM_2" Format="io1">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="  0-10 V AIN1" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="1" Content="MODBUS MASTER" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+      <Index Value="2" Content="  0-10 V AIN2" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="   PWM PWMIN3" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
   <FormatField Name="statut" Format="iob">
     <KeyBindings>
       <KeyBinding Key="UP" BindOn="BoolSwap" />
@@ -1986,7 +3097,7 @@
       <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
     </KeyBindings>
     <ResourceUsedOnBool>
-      <Index Value="0" Content="OK !!!" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="0" Content="OK " Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
       <Index Value="1" Content="ALARM!!!" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnBool>
   </FormatField>
@@ -2032,6 +3143,38 @@
       <Index Value="0" Content="" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="1" Content="1" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
       <Index Value="2" Content="2" Type="Text" Font="CAREL_TERM_INT" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="SwitchEnableSource_EBM" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Disable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Modbus Master" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Din1 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Din2 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="Din3 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="Din1 (Enable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="Din2 (Enable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnInt>
+  </FormatField>
+  <FormatField Name="SwitchEnableSource_EBM_2" Format="io5">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="Increment_WORD" />
+      <KeyBinding Key="DOWN" BindOn="Decrement_WORD" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnInt>
+      <Index Value="0" Content="Disable" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="1" Content="Modbus Master" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="2" Content="Din1 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="3" Content="Din2 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="4" Content="Din3 (Disable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="5" Content="Din1 (Enable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+      <Index Value="6" Content="Din2 (Enable input)" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
     </ResourceUsedOnInt>
   </FormatField>
   <FormatField Name="SystemErrorsMsg" Format="o2">
@@ -2193,6 +3336,28 @@
     <ResourceUsedOnBool>
       <Index Value="0" Content="  NO" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
       <Index Value="1" Content=" YES" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="WriteParamsReq_EBM" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Load Params Required" Type="Text" Font="SimSun" />
+    </ResourceUsedOnBool>
+  </FormatField>
+  <FormatField Name="WriteParamsReq_EBM_2" Format="ob">
+    <KeyBindings>
+      <KeyBinding Key="UP" BindOn="BoolSwap" />
+      <KeyBinding Key="DOWN" BindOn="BoolSwap" />
+      <KeyBinding Key="ENTER" BindOn="SetCurrentValue" />
+    </KeyBindings>
+    <ResourceUsedOnBool>
+      <Index Value="0" Content="" Type="Text" Font="SimSun" />
+      <Index Value="1" Content="Load Params Required" Type="Text" Font="SimSun" />
     </ResourceUsedOnBool>
   </FormatField>
 </FormatFields>

@@ -305,6 +305,7 @@
       Decimals="1"
       Min=""
       Max=""
+      InitialValue="190.0"
       StringSize="0" />
     <Variable
       Name="K_Factor_Volumetric_Flow_2_Modbus"

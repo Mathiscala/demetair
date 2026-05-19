@@ -35,6 +35,7 @@ BarPos=Int
 PwdTypMenu=Int
 PwdIn=UInt
 PwdRes=Int
+DevNo_EBM_1=USInt
 AlrmLogDelete=Byte
 ClrAutoResCounters=Byte
 En_WipeRetain=Byte

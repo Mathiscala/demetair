@@ -77,7 +77,7 @@
       Name="ouvertureOut"
       Comment=""
       DataType="REAL"
-      Kind="VarOutput"
+      Kind="Var"
       IO="false"
       Protocol="false"
       UI="false"

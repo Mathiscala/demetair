@@ -669,7 +669,6 @@
         Kind="VarInput"
         Access="ReadWrite"
         Acronym=""
-        Decimals="1"
         Min=""
         Max=""
         StringSize="0" />
@@ -11497,7 +11496,6 @@
           Kind="VarInput"
           Access="ReadWrite"
           Acronym=""
-          Decimals="1"
           Min=""
           Max=""
           StringSize="0" />
@@ -13440,7 +13438,6 @@
           Kind="VarOutput"
           Access="ReadWrite"
           Acronym=""
-          Decimals="1"
           Min=""
           Max=""
           StringSize="0" />
@@ -13741,9 +13738,10 @@
         Comment=""
         Kind="Var"
         Access="ReadWrite"
-        Acronym="8"
+        Acronym=""
         Min=""
         Max=""
+        InitialValue="8"
         StringSize="0" />
       <Variable
         Name="SpeedReq_tmp"
@@ -13760,7 +13758,6 @@
         Kind="Var"
         Access="ReadWrite"
         Acronym=""
-        Decimals="1"
         Min=""
         Max=""
         StringSize="0" />
@@ -26150,6 +26147,7 @@
       Acronym=""
       Min=""
       Max=""
+      InitialValue="TRUE"
       StringSize="0" />
     <Variable
       Name="ResAlrmInternal_EBM_1"
@@ -26501,7 +26499,7 @@
           Acronym=""
           Min=""
           Max=""
-          InitialValue="8"
+          InitialValue="9"
           StringSize="0" />
         <Variable
           Name="Timeout"

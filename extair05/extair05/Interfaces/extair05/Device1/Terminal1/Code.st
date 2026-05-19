@@ -243,7 +243,13 @@ FUNCTION TIMED_LOOP
     ELSE
         TimeIntervalCheckLangTimezone := TimeIntervalCheckLangTimezone + 1;
     END_IF;
+	// Imported timed loop function
+	DoNothing_2();
+	// Imported timed loop function
+	DoNothing_3();
 END_FUNCTION
+
+
 
 FUNCTION InstDef
 
@@ -783,10 +789,10 @@ END_FUNCTION
 FUNCTION SelMainMenu                //CASE that manages the Main Menu selection
     CASE CurrItemNo OF              //Depending on which item the black bar is pointing, select the menu
        
-        1: GotoLoop(InputOutput);
+        1: GotoLoop(MAIN_LOOP_EBM_1);
            MaskPos := 2;
 
-        2: GotoLoop(CONTROLLA);
+        2: GotoLoop(MAIN_LOOP_EBM_2);
            MaskPos := 2;
 
         3: GotoLoop(APPLICA);
@@ -1147,6 +1153,30 @@ FUNCTION IPCFG_UpdCfg_ENTER
     ELSE
         GotoMask(EnRebootIPCfg);
     END_IF;
+END_FUNCTION
+
+(*				END IMPORT CODE					*)
+
+(*				BEGIN GLOBAL VARIABLE IMPORT CODE				*)
+
+VAR_GLOBAL
+    DevNo_EBM_1: USINT:=1;
+END_VAR
+
+(*				END GLOBAL VARIABLE IMPORT CODE					*)
+
+(*				BEGIN IMPORT CODE				*)
+
+FUNCTION DoNothing_2
+;
+END_FUNCTION
+
+(*				END IMPORT CODE					*)
+
+(*				BEGIN IMPORT CODE				*)
+
+FUNCTION DoNothing_3
+;
 END_FUNCTION
 
 (*				END IMPORT CODE					*)

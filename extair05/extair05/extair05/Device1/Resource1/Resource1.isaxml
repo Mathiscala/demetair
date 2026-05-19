@@ -185,7 +185,7 @@
     <Program Name="IPCfgMng" ElementGuid="1fc13315-1fd4-419c-bf5e-2d166c03b9fe" Language="FBD" CustomFbd="0" Is1499="false" />
     <Program Name="AIRGAIA" ElementGuid="7c0ab259-c54e-4884-b470-b038aa37a49f" Language="FBD" CustomFbd="0" Is1499="false" />
     <Program Name="EbmpapstFan_1_Mng" ElementGuid="b0ff1566-417a-4fee-9f6e-c0eaca85c86d" Language="FBD" CustomFbd="0" Is1499="false" />
-    <Program Name="EbmpapstFan_2_Mng" ElementGuid="821d1caa-f527-44aa-9c1a-8c3432754a02" Language="FBD" CustomFbd="0" Is1499="false" />
+    <Program Name="EbmpapstFan_1_Mng_2" ElementGuid="0b959fb8-a89c-46fb-ac65-f40075e6dbb7" Language="FBD" CustomFbd="0" Is1499="false" />
   </Pous>
   <NetworkParameterValues>
     <NetworkParameterValue NetworkName="HSD" Name="ValidityTime" Value="0" />
@@ -279,12 +279,12 @@
     <Variable Name="VitesseReq_VentHaut" DataType="REAL" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="VitesseActuRPM_VentHaut" DataType="REAL" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="VitesseReq_VentBas" DataType="REAL" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
-    <Variable Name="Day" DataType="UINT" InitialValue="" Comment="Actual day" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="Day_1" DataType="UINT" InitialValue="" Comment="Actual day" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="VitesseActuRPM_VentBas" DataType="REAL" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
-    <Variable Name="Month" DataType="UINT" InitialValue="" Comment="Actual month" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
-    <Variable Name="Year" DataType="UINT" InitialValue="" Comment="Actual year" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
-    <Variable Name="fullyear" DataType="UINT" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
-    <Variable Name="full_year" DataType="UINT" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="Month_1" DataType="UINT" InitialValue="" Comment="Actual month" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="Year_1" DataType="UINT" InitialValue="" Comment="Actual year" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="fullyear_1" DataType="UINT" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="full_year_1" DataType="UINT" InitialValue="" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="Al_Offline_EBM_2" DataType="ALM" InitialValue="" Comment="Offline EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="Al_PhaseFault_EBM_2" DataType="ALM" InitialValue="" Comment="Phase Failure EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="Al_MotBlocked_EBM_2" DataType="ALM" InitialValue="" Comment="Motor blocked EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
@@ -315,6 +315,8 @@
     <Variable Name="Al_SpeedExeeded_EBM_2" DataType="ALM" InitialValue="" Comment="Speed limit exceed EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="Al_RotorCalibErr_EBM_2" DataType="ALM" InitialValue="" Comment="Rotor position sensor calibration error EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
     <Variable Name="Al_RotorCalibRun_EBM_2" DataType="ALM" InitialValue="" Comment="Calibration of rotor position sensor in progress EBM 1" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="ventilateurPidM3H_1" DataType="ventilateurPidM3H" InitialValue="2(),0.02,12.0,100.0,,30.0,8,20.0,,,,,(3(),FALSE,5(),,,,,3(),4(),TRUE)" Comment="" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
+    <Variable Name="Al_nettoyage_Filtre" DataType="ALM" InitialValue="" Comment="Automatic generated by Alarm editor" Address="" Modifier="NonRetain" Kind="Var" Alias="" AccessRights="ReadWrite" StringSize="0" RetainFlags="" CommentFields="" Attributes="0" GroupName="" />
   </GlobalVars>
   <Devices />
   <ExportedGroups />

@@ -73,4 +73,5 @@
   <Alarm Name="Al_SpeedExeeded_EBM_2" Type="AutoReset" Description="Speed limit exceed EBM 1" Trigger="Al_SpeedExeeded_EBM_2.Trigger" Active="Al_SpeedExeeded_EBM_2.Active" />
   <Alarm Name="Al_RotorCalibErr_EBM_2" Type="AutoReset" Description="Rotor position sensor calibration error EBM 1" Trigger="Al_RotorCalibErr_EBM_2.Trigger" Active="Al_RotorCalibErr_EBM_2.Active" />
   <Alarm Name="Al_RotorCalibRun_EBM_2" Type="AutoReset" Description="Calibration of rotor position sensor in progress EBM 1" Trigger="Al_RotorCalibRun_EBM_2.Trigger" Active="Al_RotorCalibRun_EBM_2.Active" />
+  <Alarm Name="Al_nettoyage_Filtre" Type="ManualReset" Trigger="Al_nettoyage_Filtre.Trigger" Active="Al_nettoyage_Filtre.Active" />
 </Alarms>

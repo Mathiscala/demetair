@@ -13,6 +13,56 @@ msgstr ""
 "Language-Id: 3\n"
 
 #: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM][Resource:0]"
+msgid "rpm"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM][Resource:1]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM][Resource:2]"
+msgid "%"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM][Resource:3]"
+msgid "m3/h"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM][Resource:4]"
+msgid "kg/h"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM_2][Resource:0]"
+msgid "rpm"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM_2][Resource:1]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM_2][Resource:2]"
+msgid "%"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM_2][Resource:3]"
+msgid "m3/h"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ActiveCtrlMode_EBM_2][Resource:4]"
+msgid "kg/h"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:AlarmLogDelete][Resource:0]"
 msgid "  NO"
 msgstr " NON"
@@ -31,6 +81,361 @@ msgstr "Trop d'entrées dans la mémoire"
 msgctxt "[Class:AlrmDescr][Resource:1]"
 msgid "Retain mem write error"
 msgstr "Erreur dans l'écriture en mémoire"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:2]"
+msgid "High Pressure"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:3]"
+msgid "Low Pressure"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:4]"
+msgid "Compressor circuit breaker"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:5]"
+msgid "Discharge fault"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:6]"
+msgid "Fan circuit breaker"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:7]"
+msgid "Compressor fault"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:8]"
+msgid "Fan fault"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:9]"
+msgid "Phase inversion"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:10]"
+msgid "Low Pressure 6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:11]"
+msgid "Low Pressure 7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:12]"
+msgid "Retain memory check"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:13]"
+msgid "Offline EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:14]"
+msgid "Phase Fault EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:15]"
+msgid "Motor Blocked EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:16]"
+msgid "Mains Under Voltage EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:17]"
+msgid "Mains Over Voltage EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:18]"
+msgid "DC Link Over Voltage EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:19]"
+msgid "DC Link Under Voltage EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:20]"
+msgid "Motor Superheating EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:21]"
+msgid "Internal Circuit Superheating EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:22]"
+msgid "Output Stage Superheating EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:23]"
+msgid "Hall Sensor Error EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:24]"
+msgid "Communication Error EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:25]"
+msgid "Generic Error EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:26]"
+msgid "Output Stage High Temp EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:27]"
+msgid "Internal Circuit High Temp EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:28]"
+msgid "Motor High Temp EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:29]"
+msgid "DC Link Voltage Low EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:30]"
+msgid "Limit Mains Power EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:31]"
+msgid "Limit Mains Amps EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:32]"
+msgid "Brake Mode EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:33]"
+msgid "Cable Break EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:34]"
+msgid "Ice Protection EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:35]"
+msgid "Heat Motor Stopped EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:36]"
+msgid "Speed Under Limit EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:37]"
+msgid "DC Voltage High EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:38]"
+msgid "Supply Voltage High EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:39]"
+msgid "Line Impedance High EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:40]"
+msgid "Speed limit exceed EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:41]"
+msgid "Rotor position sensor calibration error EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:42]"
+msgid "Calibration of rotor position sensor in progress EBM 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:43]"
+msgid "Offline EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:44]"
+msgid "Phase Failure EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:45]"
+msgid "Motor blocked EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:46]"
+msgid "Mains undervolt. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:47]"
+msgid "Mains overvolt. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:48]"
+msgid "DC-link overvol. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:49]"
+msgid "DC-link undervol. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:50]"
+msgid "Motor superheat. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:51]"
+msgid "Intern. circ. superheat. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:52]"
+msgid "Out stage superheat. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:53]"
+msgid "Hall sensor err. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:54]"
+msgid "Communic. error EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:55]"
+msgid "Generic error EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:56]"
+msgid "Out stage high temp. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:57]"
+msgid "Int. circ. high temp. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:58]"
+msgid "Motor high temperature EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:59]"
+msgid "DC-link volt. low EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:60]"
+msgid "Lim. mains power EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:61]"
+msgid "Lim. mains curr. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:62]"
+msgid "Brake mode EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:63]"
+msgid "Cable break EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:64]"
+msgid "Ice protection EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:65]"
+msgid "Heating: motor stop EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:66]"
+msgid "Speed under lim. EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:67]"
+msgid "DC-voltage high EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:68]"
+msgid "Supply volt. high EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:69]"
+msgid "Line imp. high EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:70]"
+msgid "Speed limit exceed EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:71]"
+msgid "Rotor position sensor calibration error EBM 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:72]"
+msgid "Calibration of rotor position sensor in progress EBM 2"
+msgstr ""
 
 #: Classes.otsf
 msgctxt "[Class:AlrmLogEvent][Resource:0]"
@@ -2043,6 +2448,916 @@ msgid " T:AL*400"
 msgstr ""
 
 #: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:0]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:1]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:2]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:3]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:4]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:5]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:6]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:7]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:8]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:9]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:10]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:11]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:12]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:13]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:14]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:15]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:16]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:17]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:18]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:19]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:20]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:21]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:22]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:23]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:24]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:25]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:26]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:27]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:28]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:29]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:30]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:31]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:32]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:33]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:34]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:35]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:36]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:37]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:38]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:39]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:40]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:41]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:42]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:43]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:44]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:45]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:46]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:47]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:48]"
+msgid "0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:49]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:50]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:51]"
+msgid "3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:52]"
+msgid "4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:53]"
+msgid "5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:54]"
+msgid "6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:55]"
+msgid "7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:56]"
+msgid "8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:57]"
+msgid "9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:58]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:59]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:60]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:61]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:62]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:63]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:64]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:65]"
+msgid "A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:66]"
+msgid "B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:67]"
+msgid "C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:68]"
+msgid "D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:69]"
+msgid "E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:70]"
+msgid "F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:71]"
+msgid "G"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:72]"
+msgid "H"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:73]"
+msgid "I"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:74]"
+msgid "J"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:75]"
+msgid "K"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:76]"
+msgid "L"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:77]"
+msgid "M"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:78]"
+msgid "N"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:79]"
+msgid "O"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:80]"
+msgid "P"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:81]"
+msgid "Q"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:82]"
+msgid "R"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:83]"
+msgid "S"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:84]"
+msgid "T"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:85]"
+msgid "U"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:86]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:87]"
+msgid "W"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:88]"
+msgid "X"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:89]"
+msgid "Y"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM][Resource:90]"
+msgid "Z"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:0]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:1]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:2]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:3]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:4]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:5]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:6]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:7]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:8]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:9]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:10]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:11]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:12]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:13]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:14]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:15]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:16]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:17]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:18]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:19]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:20]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:21]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:22]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:23]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:24]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:25]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:26]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:27]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:28]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:29]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:30]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:31]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:32]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:33]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:34]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:35]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:36]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:37]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:38]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:39]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:40]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:41]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:42]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:43]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:44]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:45]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:46]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:47]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:48]"
+msgid "0"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:49]"
+msgid "1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:50]"
+msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:51]"
+msgid "3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:52]"
+msgid "4"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:53]"
+msgid "5"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:54]"
+msgid "6"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:55]"
+msgid "7"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:56]"
+msgid "8"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:57]"
+msgid "9"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:58]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:59]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:60]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:61]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:62]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:63]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:64]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:65]"
+msgid "A"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:66]"
+msgid "B"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:67]"
+msgid "C"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:68]"
+msgid "D"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:69]"
+msgid "E"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:70]"
+msgid "F"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:71]"
+msgid "G"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:72]"
+msgid "H"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:73]"
+msgid "I"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:74]"
+msgid "J"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:75]"
+msgid "K"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:76]"
+msgid "L"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:77]"
+msgid "M"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:78]"
+msgid "N"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:79]"
+msgid "O"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:80]"
+msgid "P"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:81]"
+msgid "Q"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:82]"
+msgid "R"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:83]"
+msgid "S"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:84]"
+msgid "T"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:85]"
+msgid "U"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:86]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:87]"
+msgid "W"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:88]"
+msgid "X"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:89]"
+msgid "Y"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ASCII_Dig_EBM_2][Resource:90]"
+msgid "Z"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:Baudrate][Resource:0]"
 msgid "  1200"
 msgstr ""
@@ -3558,6 +4873,316 @@ msgid " YES"
 msgstr " OUI"
 
 #: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:0]"
+msgid "Idle"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:1]"
+msgid "Write password"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:2]"
+msgid "Write parameters"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:3]"
+msgid "Send adopt parameters"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:4]"
+msgid "Load params required"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM][Resource:5]"
+msgid "Reset procedure"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:0]"
+msgid "Idle"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:1]"
+msgid "Write password"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:2]"
+msgid "Write parameters"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:3]"
+msgid "Send adopt parameters"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:4]"
+msgid "Load params required"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComChangeProc_EBM_2][Resource:5]"
+msgid "Reset procedure"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:0]"
+msgid "     Online"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:1]"
+msgid "    Offline"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:2]"
+msgid "  Wrong msg"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:3]"
+msgid "  Exception"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:4]"
+msgid " Connecting"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM][Resource:5]"
+msgid "   Disabled"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:0]"
+msgid "     Online"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:1]"
+msgid "    Offline"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:2]"
+msgid "  Wrong msg"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:3]"
+msgid "  Exception"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:4]"
+msgid " Connecting"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ComStatus_EBM_2][Resource:5]"
+msgid "   Disabled"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM][Resource:0]"
+msgid " CLOSED LOOP SPEED CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM][Resource:1]"
+msgid "CLOSED LOOP SENSOR CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM][Resource:2]"
+msgid "     OPEN LOOP PWM CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM_2][Resource:0]"
+msgid " CLOSED LOOP SPEED CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM_2][Resource:1]"
+msgid "CLOSED LOOP SENSOR CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CtrModeDayNight_EBM_2][Resource:2]"
+msgid "     OPEN LOOP PWM CTR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrParamSet_EBM][Resource:0]"
+msgid "Parameter set 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrParamSet_EBM][Resource:1]"
+msgid "Parameter set 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrParamSet_EBM_2][Resource:0]"
+msgid "Parameter set 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrParamSet_EBM_2][Resource:1]"
+msgid "Parameter set 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrRotDir_EBM][Resource:0]"
+msgid " Left"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrRotDir_EBM][Resource:1]"
+msgid "Right"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrRotDir_EBM_2][Resource:0]"
+msgid " Left"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrRotDir_EBM_2][Resource:1]"
+msgid "Right"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM][Resource:0]"
+msgid "AIN1 (SET VALUE INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM][Resource:1]"
+msgid "   AIN2 (SENSOR INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM][Resource:2]"
+msgid "    MAXIMUM(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM][Resource:3]"
+msgid "    MINIMUM(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM][Resource:4]"
+msgid " MEAN VALUE(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM_2][Resource:0]"
+msgid "AIN1 (SET VALUE INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM_2][Resource:1]"
+msgid "   AIN2 (SENSOR INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM_2][Resource:2]"
+msgid "    MAXIMUM(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM_2][Resource:3]"
+msgid "    MINIMUM(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrc_EBM_2][Resource:4]"
+msgid " MEAN VALUE(AIN1;AIN2)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:0]"
+msgid "AIN1 (SET VALUE INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:1]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:2]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:3]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:4]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:5]"
+msgid "       AIR FLOW SENSOR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM][Resource:6]"
+msgid "      MASS FLOW SENSOR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:0]"
+msgid "AIN1 (SET VALUE INPUT)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:1]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:2]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:3]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:4]"
+msgid "                   ---"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:5]"
+msgid "       AIR FLOW SENSOR"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:CurrSenValSrcRadical_EBM_2][Resource:6]"
+msgid "      MASS FLOW SENSOR"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:DateFormat][Resource:0]"
 msgid "DD/MM/YY"
 msgstr "DD/MM/YY"
@@ -3691,6 +5316,96 @@ msgstr "F"
 msgctxt "[Class:DummyService][ClassText:Text]"
 msgid "S"
 msgstr "S"
+
+#: Classes.otsf
+msgctxt "[Class:EmergEnable_EBM][Resource:0]"
+msgid " No"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergEnable_EBM][Resource:1]"
+msgid "Yes"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergEnable_EBM_2][Resource:0]"
+msgid " No"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergEnable_EBM_2][Resource:1]"
+msgid "Yes"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergMod_EBM][Resource:0]"
+msgid "Enable:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergMod_EBM][Resource:1]"
+msgid "Enable emerg.Mode by:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergMod_EBM_2][Resource:0]"
+msgid "Enable:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergMod_EBM_2][Resource:1]"
+msgid "Enable emerg.Mode by:"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM][Resource:0]"
+msgid " FUNCTION DISABLE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM][Resource:1]"
+msgid "    MODBUS MASTER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM][Resource:2]"
+msgid "ANALOG INPUT AIN1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM][Resource:3]"
+msgid "ANALOG INPUT AIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM][Resource:4]"
+msgid " PWM INPUT PWMIN3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM_2][Resource:0]"
+msgid " FUNCTION DISABLE"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM_2][Resource:1]"
+msgid "    MODBUS MASTER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM_2][Resource:2]"
+msgid "ANALOG INPUT AIN1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM_2][Resource:3]"
+msgid "ANALOG INPUT AIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:EmergSource_EBM_2][Resource:4]"
+msgid " PWM INPUT PWMIN3"
+msgstr ""
 
 #: Classes.otsf
 msgctxt "[Class:EnAlrmExp][Resource:0]"
@@ -4211,6 +5926,106 @@ msgstr ""
 msgctxt "[Class:ErrImpExp][Resource:99]"
 msgid "Unknown/uncategorized error"
 msgstr "Erreur inconnue"
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:0]"
+msgid "  1200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:1]"
+msgid "  2400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:2]"
+msgid "  4800"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:3]"
+msgid "  9600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:4]"
+msgid " 19200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:5]"
+msgid " 38400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:6]"
+msgid " 57600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM][Resource:7]"
+msgid "115200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:0]"
+msgid "  1200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:1]"
+msgid "  2400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:2]"
+msgid "  4800"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:3]"
+msgid "  9600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:4]"
+msgid " 19200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:5]"
+msgid " 38400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:6]"
+msgid " 57600"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanBaudrate_EBM_2][Resource:7]"
+msgid "115200"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanStatus_EBM][Resource:0]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanStatus_EBM][Resource:1]"
+msgid "Online"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanStatus_EBM_2][Resource:0]"
+msgid "-"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:FanStatus_EBM_2][Resource:1]"
+msgid "Online"
+msgstr ""
 
 #: Classes.otsf
 msgctxt "[Class:HexConv][Resource:0]"
@@ -5508,6 +7323,176 @@ msgid "EXPORT"
 msgstr "EXPORTER"
 
 #: Classes.otsf
+msgctxt "[Class:InternalParam_EBM][Resource:0]"
+msgid "parameter set 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParam_EBM][Resource:1]"
+msgid "parameter set 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParam_EBM_2][Resource:0]"
+msgid "parameter set 1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParam_EBM_2][Resource:1]"
+msgid "parameter set 2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParamSet_EBM][Resource:0]"
+msgid "Night"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParamSet_EBM][Resource:1]"
+msgid "  Day"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParamSet_EBM_2][Resource:0]"
+msgid "Night"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:InternalParamSet_EBM_2][Resource:1]"
+msgid "  Day"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM][Resource:1]"
+msgid "Ain 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM][Resource:2]"
+msgid "Tach output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM][Resource:3]"
+msgid "Diagnostic output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM][Resource:1]"
+msgid "Ain 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM][Resource:2]"
+msgid "Ain 4-20mA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:1]"
+msgid "Din low active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:2]"
+msgid "Aout 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:3]"
+msgid "Tach output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:4]"
+msgid "Diagnostic output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM][Resource:5]"
+msgid "PWM input"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM_2][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM_2][Resource:1]"
+msgid "Ain 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM_2][Resource:2]"
+msgid "Tach output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf1_EBM_2][Resource:3]"
+msgid "Diagnostic output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM_2][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM_2][Resource:1]"
+msgid "Ain 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf2_EBM_2][Resource:2]"
+msgid "Ain 4-20mA"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:0]"
+msgid "Din high active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:1]"
+msgid "Din low active"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:2]"
+msgid "Aout 0-10V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:3]"
+msgid "Tach output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:4]"
+msgid "Diagnostic output"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:IOConf3_EBM_2][Resource:5]"
+msgid "PWM input"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:IPCfg_EnContinuousReading][Resource:0]"
 msgid " No"
 msgstr ""
@@ -6048,6 +8033,26 @@ msgid "Logout"
 msgstr "Quitter"
 
 #: Classes.otsf
+msgctxt "[Class:MaxPowerText_EBM][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MaxPowerText_EBM][Resource:1]"
+msgid "Max power:           W"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MaxPowerText_EBM_2][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MaxPowerText_EBM_2][Resource:1]"
+msgid "Max power:           W"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:MODE][Resource:0]"
 msgid "ADMIN"
 msgstr ""
@@ -6060,6 +8065,26 @@ msgstr ""
 #: Classes.otsf
 msgctxt "[Class:MODE][Resource:2]"
 msgid "DRY"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:3]"
+msgid "FREECOOL"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:4]"
+msgid "FREEDESHU"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:5]"
+msgid "DESHU"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:MODE][Resource:6]"
+msgid "BREASSAGE"
 msgstr ""
 
 #: Classes.otsf
@@ -6198,6 +8223,66 @@ msgid ""
 msgstr ""
 
 #: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:0]"
+msgid "Check condition"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:1]"
+msgid "Write new address"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:2]"
+msgid "Reboot fan firmware"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:3]"
+msgid "Wait offline"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:4]"
+msgid "Reset communication"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM][Resource:5]"
+msgid "Reset procedure"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:0]"
+msgid "Check condition"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:1]"
+msgid "Write new address"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:2]"
+msgid "Reboot fan firmware"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:3]"
+msgid "Wait offline"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:4]"
+msgid "Reset communication"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:NewAddrProc_EBM_2][Resource:5]"
+msgid "Reset procedure"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:onoff][Resource:0]"
 msgid "ON"
 msgstr ""
@@ -6205,6 +8290,46 @@ msgstr ""
 #: Classes.otsf
 msgctxt "[Class:onoff][Resource:1]"
 msgid "OFF"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM][Resource:0]"
+msgid "    DIGITAL INPUT DIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM][Resource:1]"
+msgid "   INTERNAL PARAM. SET"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM][Resource:2]"
+msgid "    DIGITAL INPUT DIN3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM][Resource:3]"
+msgid "    DIGITAL INPUT DIN1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM_2][Resource:0]"
+msgid "    DIGITAL INPUT DIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM_2][Resource:1]"
+msgid "   INTERNAL PARAM. SET"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM_2][Resource:2]"
+msgid "    DIGITAL INPUT DIN3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParamSetSrc_EBM_2][Resource:3]"
+msgid "    DIGITAL INPUT DIN1"
 msgstr ""
 
 #: Classes.otsf
@@ -6220,6 +8345,46 @@ msgstr ""
 #: Classes.otsf
 msgctxt "[Class:Parity][Resource:2]"
 msgid "Even"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM][Resource:0]"
+msgid "8E1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM][Resource:1]"
+msgid "8O1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM][Resource:2]"
+msgid "8N2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM][Resource:3]"
+msgid "8N1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM_2][Resource:0]"
+msgid "8E1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM_2][Resource:1]"
+msgid "8O1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM_2][Resource:2]"
+msgid "8N2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:ParityCfg_EBM_2][Resource:3]"
+msgid "8N1"
 msgstr ""
 
 #: Classes.otsf
@@ -6363,6 +8528,26 @@ msgid "manufacturer"
 msgstr "fabricant"
 
 #: Classes.otsf
+msgctxt "[Class:Rfid_EBM][Resource:0]"
+msgid "Disable"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Rfid_EBM][Resource:1]"
+msgid " Enable"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Rfid_EBM_2][Resource:0]"
+msgid "Disable"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:Rfid_EBM_2][Resource:1]"
+msgid " Enable"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:SettingsTxtBOTTOM][Resource:0]"
 msgid "Serial Ports"
 msgstr ""
@@ -6436,6 +8621,76 @@ msgstr "Changement mdp"
 msgctxt "[Class:SettingsTxtTOP][Resource:5]"
 msgid "Initialization"
 msgstr "Initialisation"
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM][Resource:0]"
+msgid "rpm"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM][Resource:1]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM][Resource:2]"
+msgid "%"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM_2][Resource:0]"
+msgid "rpm"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM_2][Resource:1]"
+msgid "V"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SpeedUnitMeas_EBM_2][Resource:2]"
+msgid "%"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM][Resource:0]"
+msgid "  0-10 V AIN1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM][Resource:1]"
+msgid "MODBUS MASTER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM][Resource:2]"
+msgid "  0-10 V AIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM][Resource:3]"
+msgid "   PWM PWMIN3"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM_2][Resource:0]"
+msgid "  0-10 V AIN1"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM_2][Resource:1]"
+msgid "MODBUS MASTER"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM_2][Resource:2]"
+msgid "  0-10 V AIN2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SrcSetVal_EBM_2][Resource:3]"
+msgid "   PWM PWMIN3"
+msgstr ""
 
 #: Classes.otsf
 msgctxt "[Class:statut][Resource:0]"
@@ -6530,6 +8785,76 @@ msgstr ""
 #: Classes.otsf
 msgctxt "[Class:StopBit][Resource:2]"
 msgid "2"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:0]"
+msgid "Disable"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:1]"
+msgid "Modbus Master"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:2]"
+msgid "Din1 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:3]"
+msgid "Din2 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:4]"
+msgid "Din3 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:5]"
+msgid "Din1 (Enable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM][Resource:6]"
+msgid "Din2 (Enable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:0]"
+msgid "Disable"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:1]"
+msgid "Modbus Master"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:2]"
+msgid "Din1 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:3]"
+msgid "Din2 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:4]"
+msgid "Din3 (Disable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:5]"
+msgid "Din1 (Enable input)"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:SwitchEnableSource_EBM_2][Resource:6]"
+msgid "Din2 (Enable input)"
 msgstr ""
 
 #: Classes.otsf
@@ -6856,6 +9181,26 @@ msgstr " NON"
 msgctxt "[Class:WipeMem][Resource:1]"
 msgid " YES"
 msgstr " OUI"
+
+#: Classes.otsf
+msgctxt "[Class:WriteParamsReq_EBM][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WriteParamsReq_EBM][Resource:1]"
+msgid "Load Params Required"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WriteParamsReq_EBM_2][Resource:0]"
+msgid ""
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:WriteParamsReq_EBM_2][Resource:1]"
+msgid "Load Params Required"
+msgstr ""
 
 #: 03_Devices.otws
 msgctxt "[Mask:AlrmExp][Field:Text_3]"
@@ -7252,6 +9597,1206 @@ msgctxt "[Mask:ErrorIPCfg][Field:Text_2]"
 msgid "NET Configuration"
 msgstr ""
 
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_1_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_1_EBM_1][Field:Text_2]"
+msgid "Day speed control:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_1_EBM_1][Field:Text_3]"
+msgid "Night speed control:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_1_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_1_EBM_1][Field:Text_9]"
+msgid "Fan control source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_2]"
+msgid "Ramp-up time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_3]"
+msgid "Ramp-down time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_4]"
+msgid "s"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_5]"
+msgid "s"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_2_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][Field:Text_2]"
+msgid "Internal Param.Set:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][Field:Text_3]"
+msgid "Preferred running dir:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][Field:Text_9]"
+msgid "ParameterSet Source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][ResourceUseOnBool:0]"
+msgid " LEFT"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_3_EBM_1][ResourceUseOnBool:1]"
+msgid "RIGHT"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_4_EBM_1][Field:Text_2]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_4_EBM_1][Field:Text_3]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_4_EBM_1][Field:Text_4]"
+msgid "Configuration I/O 1:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_4_EBM_1][Field:Text_5]"
+msgid "Configuration I/O 2:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_4_EBM_1][Field:Text_6]"
+msgid "Configuration I/O 3:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_5_EBM_1][Field:Text_2]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_5_EBM_1][Field:Text_3]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_5_EBM_1][Field:Text_4]"
+msgid "Switch enable source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_5_EBM_1][Field:Text_5]"
+msgid "Enable RFID:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][Field:Text_2]"
+msgid "Load Parameters:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][Field:Text_3]"
+msgid "Reset internal erros:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][Field:Text_9]"
+msgid "Reboot firmware:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_6_EBM_1][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_1]"
+msgid "Emergency mode"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_2]"
+msgid "Speed perc:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_3]"
+msgid "Speed Volt:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_5]"
+msgid "Emerg.Time lag:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_6]"
+msgid "ms"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_7_EBM_1][Field:Text_9]"
+msgid "Speed rpm:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_1]"
+msgid "Fan address:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_2]"
+msgid "Enable procedure for"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_3]"
+msgid "changing the fan"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_5]"
+msgid "address:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][Field:Text_6]"
+msgid "---"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_8_EBM_1][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_1]"
+msgid "Fan baudrate:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_2]"
+msgid "Enable changing"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_3]"
+msgid "interface settings:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_6]"
+msgid "---"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][Field:Text_7]"
+msgid "Fan parity cfg::"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanCfg_9_EBM_1][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_1_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_1_EBM_1_2][Field:Text_2]"
+msgid "Day speed control:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_1_EBM_1_2][Field:Text_3]"
+msgid "Night speed control:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_1_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_1_EBM_1_2][Field:Text_9]"
+msgid "Fan control source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_2]"
+msgid "Ramp-up time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_3]"
+msgid "Ramp-down time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_4]"
+msgid "s"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_5]"
+msgid "s"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_2_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][Field:Text_2]"
+msgid "Internal Param.Set:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][Field:Text_3]"
+msgid "Preferred running dir:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][Field:Text_9]"
+msgid "ParameterSet Source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][ResourceUseOnBool:0]"
+msgid " LEFT"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_3_EBM_1_2][ResourceUseOnBool:1]"
+msgid "RIGHT"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_4_EBM_1_2][Field:Text_2]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_4_EBM_1_2][Field:Text_3]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_4_EBM_1_2][Field:Text_4]"
+msgid "Configuration I/O 1:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_4_EBM_1_2][Field:Text_5]"
+msgid "Configuration I/O 2:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_4_EBM_1_2][Field:Text_6]"
+msgid "Configuration I/O 3:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_5_EBM_1_2][Field:Text_2]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_5_EBM_1_2][Field:Text_3]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_5_EBM_1_2][Field:Text_4]"
+msgid "Switch enable source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_5_EBM_1_2][Field:Text_5]"
+msgid "Enable RFID:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][Field:Text_2]"
+msgid "Load Parameters:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][Field:Text_3]"
+msgid "Reset internal erros:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][Field:Text_9]"
+msgid "Reboot firmware:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_6_EBM_1_2][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_1]"
+msgid "Emergency mode"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_2]"
+msgid "Speed perc:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_3]"
+msgid "Speed Volt:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_5]"
+msgid "Emerg.Time lag:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_6]"
+msgid "ms"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_7_EBM_1_2][Field:Text_9]"
+msgid "Speed rpm:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_1]"
+msgid "Fan address:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_2]"
+msgid "Enable procedure for"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_3]"
+msgid "changing the fan"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_5]"
+msgid "address:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][Field:Text_6]"
+msgid "---"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_8_EBM_1_2][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_1]"
+msgid "Fan baudrate:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_2]"
+msgid "Enable changing"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_3]"
+msgid "interface settings:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_6]"
+msgid "---"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][Field:Text_7]"
+msgid "Fan parity cfg::"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanCfg_9_EBM_1_2][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_2]"
+msgid "Actual speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_3]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_4]"
+msgid "DC voltage:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_6]"
+msgid "DC current:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_7]"
+msgid "mA"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_1_EBM_1][Field:Text_8]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_2]"
+msgid "Elec. temperature:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_3]"
+msgid "C"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_4]"
+msgid "Current power:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_5]"
+msgid "W"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_2_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_2]"
+msgid "Max speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_3]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_4]"
+msgid "Operating hours:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_5]"
+msgid "h"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_3_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_2]"
+msgid "Sensor value source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_3]"
+msgid "Sensor 1"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_4]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_7]"
+msgid "Sensor 2"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_8]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4_EBM_1][Field:Text_9]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_5_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_5_EBM_1][Field:Text_2]"
+msgid "Identification:   0000"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_5_EBM_1][Field:Text_3]"
+msgid "Current param. set:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_5_EBM_1][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_6_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_6_EBM_1][Field:Text_2]"
+msgid "Motor status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_6_EBM_1][Field:Text_3]"
+msgid "Warning (0xD012):"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_6_EBM_1][Field:Text_4]"
+msgid "(0xD011):"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_6_EBM_1][Field:Text_5]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_2]"
+msgid "Current direction:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_3]"
+msgid "Current mod. level:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_4]"
+msgid "%"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_5]"
+msgid "Current Set Value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_8_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_8_EBM_1][Field:Text_2]"
+msgid "Fan serial number and"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_8_EBM_1][Field:Text_3]"
+msgid "prod. date: 000000"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_8_EBM_1][Field:Text_4]"
+msgid "Fan Type:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_8_EBM_1][Field:Text_5]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_2]"
+msgid "Elec. temperature:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_3]"
+msgid "C"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_4]"
+msgid "Current power:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_5]"
+msgid "W"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_2_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_2]"
+msgid "Max speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_3]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_4]"
+msgid "Operating hours:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_5]"
+msgid "h"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_3_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_2]"
+msgid "Sensor value source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_3]"
+msgid "Sensor 1"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_4]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_7]"
+msgid "Sensor 2"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_8]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4_EBM_1_2][Field:Text_9]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_5_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_5_EBM_1_2][Field:Text_2]"
+msgid "Identification:   0000"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_5_EBM_1_2][Field:Text_3]"
+msgid "Current param. set:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_5_EBM_1_2][Field:Text_4]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_6_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_6_EBM_1_2][Field:Text_2]"
+msgid "Motor status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_6_EBM_1_2][Field:Text_3]"
+msgid "Warning (0xD012):"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_6_EBM_1_2][Field:Text_4]"
+msgid "(0xD011):"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_6_EBM_1_2][Field:Text_5]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_2]"
+msgid "Current direction:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_3]"
+msgid "Current mod. level:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_4]"
+msgid "%"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_5]"
+msgid "Current Set Value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_8_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_8_EBM_1_2][Field:Text_2]"
+msgid "Fan serial number and"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_8_EBM_1_2][Field:Text_3]"
+msgid "prod. date: 000000"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_8_EBM_1_2][Field:Text_4]"
+msgid "Fan Type:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_8_EBM_1_2][Field:Text_5]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_2]"
+msgid "Actual speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_3]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_4]"
+msgid "DC voltage:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_6]"
+msgid "DC current:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_7]"
+msgid "mA"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_1_EBM_1_Clone_2][Field:Text_8]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1][Field:Text]"
+msgid "Anemome.speed:     rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1][Field:Text_2]"
+msgid "Mass flow:        kg/h"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1][Field:Text_3]"
+msgid "Air flow:         m3/h"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_2]"
+msgid "Sensor value source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_3]"
+msgid "Sensor 1"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_4]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_7]"
+msgid "Sensor 2"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_8]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1][Field:Text_9]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1_2][Field:Text]"
+msgid "Anemome.speed:     rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1_2][Field:Text_2]"
+msgid "Mass flow:        kg/h"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1_2][Field:Text_3]"
+msgid "Air flow:         m3/h"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_7b_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_1]"
+msgid "Fan Status"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_2]"
+msgid "Sensor value source:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_3]"
+msgid "Sensor 1"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_4]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_5]"
+msgid "V"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_6]"
+msgid "nß"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_7]"
+msgid "Sensor 2"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_8]"
+msgid "actual value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:FanStatus_4B_EBM_1_2][Field:Text_9]"
+msgid "V"
+msgstr ""
+
 #: 03_Devices.otws
 msgctxt "[Mask:InputOutput][Field:Text_2]"
 msgid "InputOutput"
@@ -7417,10 +10962,125 @@ msgctxt "[Mask:Main][Field:Text_4]"
 msgid ":"
 msgstr ":"
 
-#: 02_Main.otws
-msgctxt "[Mask:Main][Field:Text_5]"
-msgid "Unit status:"
-msgstr "Statut unité :"
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_1]"
+msgid "SPEED:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_2]"
+msgid "Set value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_3]"
+msgid "Actual speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_4]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_5]"
+msgid "Control mode:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_1][Field:Text_6]"
+msgid "ComStatus:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][Field:Text_1]"
+msgid "Enable Fan1:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][Field:Text_2]"
+msgid "Status:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][Field:Text_3]"
+msgid "Polling time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][Field:Text_4]"
+msgid "ms"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1.otws
+msgctxt "[Mask:Main_2][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_1]"
+msgid "SPEED:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_2]"
+msgid "Set value:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_3]"
+msgid "Actual speed:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_4]"
+msgid "rpm"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_5]"
+msgid "Control mode:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_1_2][Field:Text_6]"
+msgid "ComStatus:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][Field:Text_1]"
+msgid "Enable Fan1:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][Field:Text_2]"
+msgid "Status:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][Field:Text_3]"
+msgid "Polling time:"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][Field:Text_4]"
+msgid "ms"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][ResourceUseOnBool:0]"
+msgid " NO"
+msgstr ""
+
+#: 03_EbmpapstFan_1_2.otws
+msgctxt "[Mask:Main_2_2][ResourceUseOnBool:1]"
+msgid "YES"
+msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:MemoryErrorMask][Field:Text]"
@@ -7848,8 +11508,18 @@ msgid "Jour/nuit"
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_4]"
+msgid "SETPOINT HR"
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_5]"
 msgid "SELECT MODE  :"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_6]"
+msgid ""
 msgstr ""
 
 #: 02_Main.otws
@@ -7863,18 +11533,28 @@ msgid "1"
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_9]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_10]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_11]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_2_Clone_2][Field:Text_12]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text]"
 msgid "VENT"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_2]"
-msgid "COMP"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_3]"
-msgid "COND"
 msgstr ""
 
 #: 02_Main.otws
@@ -7889,27 +11569,17 @@ msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_3]"
-msgid "g"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_4]"
 msgid ""
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_5]"
-msgid "%"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_4]"
+msgid "g"
 msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_6]"
 msgid ""
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_10]"
-msgid "g"
 msgstr ""
 
 #: 02_Main.otws
@@ -7920,6 +11590,11 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_12]"
 msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_13]"
+msgid "HW delta"
 msgstr ""
 
 #: 02_Main.otws
@@ -7968,6 +11643,16 @@ msgid ""
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_2]"
+msgid "VENT Haut"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_3]"
+msgid "RPM"
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_4]"
 msgid ""
 msgstr ""
@@ -8008,18 +11693,13 @@ msgid "%"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_12]"
-msgid "%"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_13]"
-msgid "%"
-msgstr ""
-
-#: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_14]"
 msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_15]"
+msgid "RPM"
 msgstr ""
 
 #: 02_Main.otws
@@ -8028,117 +11708,392 @@ msgid "2"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_7]"
-msgid "SETPOINT HR"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2][Field:Text_17]"
+msgid "%"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_8]"
-msgid "SETPOINT T"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text]"
+msgid "VENT Haut"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_9]"
-msgid "SETPOINT HW "
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_2]"
+msgid "RegistreActu1"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text]"
-msgid " EXTAIR 1"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_3]"
+msgid "RegistreActu1"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_2]"
-msgid "T TO MIN"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_4]"
+msgid ""
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_3]"
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_5]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_6]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_7]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_8]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_9]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_10]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_11]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_12]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_14]"
+msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_15]"
+msgid "RegistreSp1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_16]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_17]"
+msgid "RegistreActu1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_18]"
+msgid "RegistreSp1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_19]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_20]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_21]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_2_Clone_2][Field:Text_22]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text]"
+msgid "DH inside"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_2]"
+msgid "HW delta"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_3]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_4]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_5]"
+msgid "Consigne"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_6]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_7]"
+msgid "Pa"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_8]"
+msgid "Consigne"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_9]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_10]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_12]"
+msgid "g"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_13]"
+msgid "T delta"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_14]"
+msgid "OVER VIEW"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_16]"
+msgid "3"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_17]"
+msgid "DH outside"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_18]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_19]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_20]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_21]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_22]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3_Clone_2][Field:Text_23]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text]"
+msgid "VENT"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_2]"
+msgid "s"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_3]"
 msgid "T TO MAX"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_4]"
-msgid "T TO MAX"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_4]"
+msgid "V MIN"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_5]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_5]"
 msgid "V MAX"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_6]"
-msgid "BRASSAGE ?"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_6]"
+msgid "TimeDemarrage"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_7]"
-msgid "V BRASSAGE "
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_7]"
+msgid "VitesseDemarrage_1"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_8]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_8]"
 msgid ":"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_9]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_9]"
 msgid ":"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_10]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_10]"
 msgid ":"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_11]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_11]"
 msgid ":"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_12]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_12]"
 msgid ":"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_13]"
-msgid ":"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_14]"
-msgid ":"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_15]"
-msgid ""
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_16]"
-msgid ""
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_17]"
-msgid ""
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_18]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_13]"
 msgid "%"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_19]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_18]"
 msgid "%"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:Supervision_Vventil_extair1][Field:Text_20]"
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2][Field:Text_20]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text]"
+msgid "PID Vent Haut"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_3]"
+msgid "Kp"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_4]"
+msgid "Ti"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_5]"
+msgid "V MAX"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_18]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2][Field:Text_20]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text]"
+msgid "PID Vent Bas"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_2]"
+msgid "Registre ON 1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_3]"
+msgid "Kp"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_4]"
+msgid "Registre ON 1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_5]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_17]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_18]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_20]"
 msgid "1"
 msgstr ""
 
@@ -8190,6 +12145,11 @@ msgstr "."
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo][Field:Text_9]"
 msgid "."
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo][Field:Text_10]"
+msgid "Extair4500"
 msgstr ""
 
 #: 02_Main.otws
@@ -8258,6 +12218,41 @@ msgid "4"
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_5]"
+msgid "ENCADREMENT:"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_6]"
+msgid "s"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_7]"
+msgid "VariationCalculee"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text]"
 msgid "ADMIN"
 msgstr ""
@@ -8269,7 +12264,7 @@ msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_3]"
-msgid "V comp"
+msgid "registre1"
 msgstr ""
 
 #: 02_Main.otws
@@ -8279,12 +12274,7 @@ msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_5]"
-msgid "V cond"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_6]"
-msgid ":"
+msgid "registre1"
 msgstr ""
 
 #: 02_Main.otws
@@ -8315,6 +12305,281 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_12]"
 msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text]"
+msgid "SEL regul"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_2]"
+msgid "IF RH<SETP-HYS: STOP"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text]"
+msgid "SEL regul"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_2]"
+msgid "DAY    "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_4]"
+msgid "NIGHT  "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_5]"
+msgid "Vent bas"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_6]"
+msgid "Vent bas FC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_7]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_9]"
+msgid "Vent bas FD"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_11]"
+msgid "Vent bas FC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_12]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_13]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_14]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_15]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_16]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_4]"
+msgid "IF Tß>SETP+HYS : COOL"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_5]"
+msgid "SP HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_6]"
+msgid "SP HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_7]"
+msgid "SP  HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_13]"
+msgid "V vent Bas"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_14]"
+msgid "registre1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_15]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_16]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_17]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_18]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text_19]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_8]"
+msgid "SP Actu"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_12]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_13]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_14]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_15]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_17]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text]"
+msgid "Logic Flou"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_2]"
+msgid "CycleTime"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_3]"
+msgid "ENCADREMENT"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_4]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_5]"
+msgid "V BasCompare"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_6]"
+msgid "S"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_7]"
+msgid "VariationCalc"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_12]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_13]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_14]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_15]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_16]"
+msgid "Heure "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_3][Field:Text_17]"
+msgid "H"
 msgstr ""
 
 #: 02_Main.otws
@@ -8363,11 +12628,6 @@ msgid "%"
 msgstr ""
 
 #: 02_Main.otws
-msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_10]"
-msgid "%"
-msgstr ""
-
-#: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_11]"
 msgid "%"
 msgstr ""
@@ -8380,16 +12640,6 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_13]"
 msgid ":"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_14]"
-msgid ":"
-msgstr ""
-
-#: 02_Main.otws
-msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_15]"
-msgid "HRext"
 msgstr ""
 
 #: 02_Main.otws
@@ -8424,6 +12674,206 @@ msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_22]"
+msgid "4"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text]"
+msgid "Consigne M3H free"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_2]"
+msgid "DAY    "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_4]"
+msgid "NIGHT  "
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_5]"
+msgid "Vent bas FC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_7]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_11]"
+msgid "Vent bas FC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_12]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_13]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_15]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text]"
+msgid "SEL DESHU"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_2]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_5]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_6]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_7]"
+msgid "deltaTlimiteBaFD"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_10]"
+msgid "TextLimBassFD"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_11]"
+msgid "deltaHWlimBaFD"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_12]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_13]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_14]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_15]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_16]"
+msgid "TserreLimHaFC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_17]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_18]"
+msgid "TextLimiteBasseFC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_19]"
+msgid "deltaT_limHauFC"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_21]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_23]"
+msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text]"
+msgid "Simulation"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_2]"
+msgid "Simulator"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_3]"
+msgid "SP_M3HHaut"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_4]"
+msgid "Tserre"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_5]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_6]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_7]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_8]"
+msgid "M3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_18]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2_Clone_2_Clone_2][Field:Text_22]"
 msgid "4"
 msgstr ""
 
