@@ -135,10 +135,10 @@
     <Mask Name="Main" Type="Normal" X="0" Y="4">
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="3" Column="0" Content="366" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="2" Content="367" />
-        <Field Type="Text" Name="Text_3" Row="0" Column="5" Content="368" />
-        <Field Type="Text" Name="Text_4" Row="0" Column="19" Content="369" />
+        <Field Type="Text" Name="Text_1" Row="3" Column="0" Content="395" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="2" Content="396" />
+        <Field Type="Text" Name="Text_3" Row="0" Column="5" Content="397" />
+        <Field Type="Text" Name="Text_4" Row="0" Column="19" Content="398" />
         <Field Type="Variable" Name="Variable_1" Row="0" Column="0" Content="Date1" Class="CL_UINT" Format="o2z" Min="0" Max="99" />
         <Field Type="Variable" Name="Variable_2" Row="0" Column="3" Content="Date2" Class="CL_UINT" Format="o2z" Min="0" Max="99" />
         <Field Type="Variable" Name="Variable_3" Row="0" Column="6" Content="Date3" Class="CL_UINT" Format="o2z" Min="0" Max="99" />
@@ -519,12 +519,12 @@
     <Mask Name="EndDefault" Type="Normal" X="2" Y="1" Color="WhiteSmoke">
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="2" Column="3" Content="370" />
-        <Field Type="Text" Name="Text_2" Row="3" Column="4" Content="371" />
+        <Field Type="Text" Name="Text_1" Row="2" Column="3" Content="399" />
+        <Field Type="Text" Name="Text_2" Row="3" Column="4" Content="400" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_3" Row="5" Column="1" Content="372" />
-        <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="373" />
-        <Field Type="Text" Name="Text_5" Row="0" Column="0" Content="374" />
+        <Field Type="Text" Name="Text_3" Row="5" Column="1" Content="401" />
+        <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="402" />
+        <Field Type="Text" Name="Text_5" Row="0" Column="0" Content="403" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ALARM" BindOn="DoNothing" />
@@ -535,13 +535,13 @@
     <Mask Name="InsertManuf" Type="Normal" X="3" Y="2">
       <Fields>
         <Field Type="Image" Name="Image_1" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="375" />
-        <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="376" />
-        <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="377" />
-        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="378" />
+        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="404" />
+        <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="405" />
+        <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="406" />
+        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="407" />
         <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="379" />
-        <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="380" />
+        <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="408" />
+        <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="409" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ESC" BindOn="EscDummyManuf" />
@@ -551,11 +551,11 @@
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="381" />
-        <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="382" />
-        <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="383" />
-        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="384" />
-        <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="385" />
+        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="410" />
+        <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="411" />
+        <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="412" />
+        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="413" />
+        <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="414" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ESC" BindOn="EscDummyService" />
@@ -563,11 +563,11 @@
     </Mask>
     <Mask Name="TurnOffUnit" Type="Normal" X="2" Y="2">
       <Fields>
-        <Field Type="Text" Name="Text" Row="2" Column="0" Content="386" />
-        <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="387" />
-        <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="388" />
-        <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="389" />
-        <Field Type="Text" Name="Text_5" Row="0" Column="0" Content="390" />
+        <Field Type="Text" Name="Text" Row="2" Column="0" Content="415" />
+        <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="416" />
+        <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="417" />
+        <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="418" />
+        <Field Type="Text" Name="Text_5" Row="0" Column="0" Content="419" />
         <Field Type="Image" Name="Image" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
       </Fields>
@@ -579,12 +579,12 @@
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text" Row="0" Column="0" Content="391" />
-        <Field Type="Text" Name="Text_2" Row="1" Column="1" Content="392" />
-        <Field Type="Text" Name="Text_3" Row="2" Column="7" Content="393" />
-        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="394" />
-        <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="395" />
-        <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="396" />
+        <Field Type="Text" Name="Text" Row="0" Column="0" Content="420" />
+        <Field Type="Text" Name="Text_2" Row="1" Column="1" Content="421" />
+        <Field Type="Text" Name="Text_3" Row="2" Column="7" Content="422" />
+        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="423" />
+        <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="424" />
+        <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="425" />
       </Fields>
       <KeyBindings />
     </Mask>
@@ -702,8 +702,8 @@
           <Field Type="Variable" Name="Variable_4" Row="7" Column="12" Content="VitesseActuRPM_VentBas" Class="CL_REAL_0" Format="o+5.0" Min="-99999.0" Max="99999.0" />
           <Field Type="Text" Name="Text_15" Row="7" Column="19" Content="216" />
           <Field Type="Text" Name="Text_17" Row="6" Column="21" Content="217" />
-          <Field Type="Variable" Name="Variable_5" Row="1" Column="13" Content="AIRGAIA.onoffVentbas" Min="0" Max="1" Class="onoff" Format="iob" />
-          <Field Type="Variable" Name="Variable_6" Row="5" Column="13" Content="AIRGAIA.onoffventHaut" Min="0" Max="1" Class="onoff" Format="iob" />
+          <Field Type="Variable" Name="Variable_5" Row="5" Column="13" Content="AIRGAIA.onoffVentbas" Min="0" Max="1" Class="onoff" Format="iob" />
+          <Field Type="Variable" Name="Variable_6" Row="1" Column="13" Content="AIRGAIA.onoffventHaut" Min="0" Max="1" Class="onoff" Format="iob" />
         </Fields>
         <KeyBindings />
       </Mask>
@@ -775,116 +775,134 @@
         </Fields>
         <KeyBindings />
       </Mask>
-      <Mask Name="SwInfo_Clone_2" Type="Normal" X="1" Y="12" Color="LightCyan">
-        <Fields>
-          <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="1" Content="260" />
-          <Field Type="Variable" Name="Variable" Row="3" Column="8" Content="AIRGAIA.LocalTimeSunrise_SRSS_1.Hours" Class="CL_INT" Format="o2" Min="0" Max="99" />
-          <Field Type="Variable" Name="Variable_2" Row="3" Column="11" Content="AIRGAIA.LocalTimeSunrise_SRSS_1.Minutes" Class="CL_INT" Format="o2" Min="0" Max="99" />
-          <Field Type="Variable" Name="Variable_3" Row="7" Column="8" Content="AIRGAIA.LocalTimeSunset_SRSS_1.Hours" Class="CL_INT" Format="o2" Min="0" Max="99" />
-          <Field Type="Variable" Name="Variable_4" Row="7" Column="11" Content="AIRGAIA.LocalTimeSunset_SRSS_1.Minutes" Class="CL_INT" Format="o2" Min="0" Max="99" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="10" Content="261" />
-          <Field Type="Text" Name="Text_3" Row="7" Column="10" Content="262" />
-          <Field Type="Text" Name="Text_4" Row="1" Column="4" Content="263" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="2" Content="264" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="21" Content="265" />
-        </Fields>
-        <KeyBindings />
-      </Mask>
     </Loop>
     <Loop Name="USER" X="2" Y="5">
       <Mask Name="SwInfo_Clone_2_Clone_3" Type="Normal" X="2" Y="6" Color="LightCyan">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="1" Content="266" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="2" Content="267" />
+          <Field Type="Text" Name="Text" Row="0" Column="1" Content="260" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="2" Content="261" />
           <Field Type="Variable" Name="Variable" Row="4" Column="8" Content="AIRGAIA.Mode" Class="MODE" Format="io1" Min="2" Max="6" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="268" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="262" />
+          <Field Type="Variable" Name="Variable_2" Row="7" Column="12" Content="AIRGAIA.consigneM3Hmin" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
+          <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="263" />
+          <Field Type="Text" Name="Text_5" Row="7" Column="19" Content="264" />
         </Fields>
         <KeyBindings />
       </Mask>
-      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_2" Type="Normal" X="2" Y="7" Color="LightCyan">
+      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_2_Clone_3" Type="Normal" X="2" Y="7" Color="LightCyan">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="1" Content="269" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="270" />
-          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="271" />
-          <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="272" />
-          <Field Type="Text" Name="Text_5" Row="1" Column="0" Content="273" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="274" />
-          <Field Type="Text" Name="Text_7" Row="2" Column="0" Content="275" />
+          <Field Type="Text" Name="Text" Row="0" Column="1" Content="265" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="266" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="267" />
+          <Field Type="Text" Name="Text_7" Row="4" Column="0" Content="268" />
+          <Field Type="Variable" Name="Variable" Row="3" Column="11" Content="AIRGAIA.consigneDHjour" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
+          <Field Type="Variable" Name="Variable_2" Row="4" Column="11" Content="AIRGAIA.consigneDHNuit" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="269" />
+          <Field Type="Variable" Name="Variable_3" Row="7" Column="14" Content="AIRGAIA.ConsigneHRfinal" Class="CL_REAL_1" Format="o+3.1" Min="-999.9" Max="999.9" />
+          <Field Type="Text" Name="Text_9" Row="3" Column="10" Content="270" />
+          <Field Type="Text" Name="Text_10" Row="4" Column="10" Content="271" />
+          <Field Type="Text" Name="Text_11" Row="7" Column="13" Content="272" />
+          <Field Type="Text" Name="Text_13" Row="3" Column="17" Content="273" />
+          <Field Type="Text" Name="Text_15" Row="7" Column="21" Content="274" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="275" />
+          <Field Type="Text" Name="Text_6" Row="4" Column="17" Content="276" />
+          <Field Type="Variable" Name="Variable_4" Row="6" Column="14" Content="AIRGAIA.DHtoHRconsigne" Class="CL_REAL_1" Format="o+3.1" Min="-999.9" Max="999.9" />
+          <Field Type="Text" Name="Text_12" Row="6" Column="0" Content="277" />
+          <Field Type="Text" Name="Text_14" Row="6" Column="13" Content="278" />
+          <Field Type="Text" Name="Text_16" Row="6" Column="21" Content="279" />
+          <Field Type="Variable" Name="Variable_5" Row="1" Column="19" Content="AIRGAIA.onoffConsigneDH" Min="0" Max="1" Class="onoff" Format="iob" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="17" Content="280" />
+          <Field Type="Text" Name="Text_17" Row="5" Column="0" Content="281" />
+          <Field Type="Text" Name="Text_18" Row="5" Column="13" Content="282" />
+          <Field Type="Variable" Name="Variable_6" Row="5" Column="14" Content="AIRGAIA.Tserre" Class="CL_REAL_1" Format="o+3.1" Min="-999.9" Max="999.9" />
+          <Field Type="Text" Name="Text_19" Row="5" Column="21" Content="283" />
+        </Fields>
+        <KeyBindings />
+      </Mask>
+      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_2" Type="Normal" X="2" Y="8" Color="LightCyan">
+        <Fields>
+          <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
+          <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
+          <Field Type="Text" Name="Text" Row="0" Column="1" Content="284" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="285" />
+          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="286" />
+          <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="287" />
+          <Field Type="Text" Name="Text_5" Row="1" Column="0" Content="288" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="289" />
+          <Field Type="Text" Name="Text_7" Row="2" Column="0" Content="290" />
           <Field Type="Variable" Name="Variable" Row="1" Column="14" Content="AIRGAIA.ConsigneHRjour" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="14" Content="AIRGAIA.ConsigneHRnuit" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_8" Row="3" Column="0" Content="276" />
+          <Field Type="Text" Name="Text_8" Row="3" Column="0" Content="291" />
           <Field Type="Variable" Name="Variable_3" Row="3" Column="14" Content="AIRGAIA.ConsigneHRfinal" Class="CL_REAL_1" Format="o+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="13" Content="277" />
-          <Field Type="Text" Name="Text_10" Row="2" Column="13" Content="278" />
-          <Field Type="Text" Name="Text_11" Row="3" Column="13" Content="279" />
-          <Field Type="Text" Name="Text_12" Row="5" Column="13" Content="280" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="13" Content="292" />
+          <Field Type="Text" Name="Text_10" Row="2" Column="13" Content="293" />
+          <Field Type="Text" Name="Text_11" Row="3" Column="13" Content="294" />
+          <Field Type="Text" Name="Text_12" Row="5" Column="13" Content="295" />
           <Field Type="Variable" Name="Variable_4" Row="5" Column="14" Content="AIRGAIA.HYS_besionHR" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_13" Row="1" Column="21" Content="281" />
-          <Field Type="Text" Name="Text_14" Row="2" Column="21" Content="282" />
-          <Field Type="Text" Name="Text_15" Row="3" Column="21" Content="283" />
-          <Field Type="Text" Name="Text_17" Row="5" Column="21" Content="284" />
+          <Field Type="Text" Name="Text_13" Row="1" Column="21" Content="296" />
+          <Field Type="Text" Name="Text_14" Row="2" Column="21" Content="297" />
+          <Field Type="Text" Name="Text_15" Row="3" Column="21" Content="298" />
+          <Field Type="Text" Name="Text_17" Row="5" Column="21" Content="299" />
         </Fields>
         <KeyBindings />
       </Mask>
-      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_2_Clone_2" Type="Normal" X="2" Y="8" Color="LightCyan">
+      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_2_Clone_2" Type="Normal" X="2" Y="9" Color="LightCyan">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="0" Content="285" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="286" />
+          <Field Type="Text" Name="Text" Row="0" Column="0" Content="300" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="301" />
           <Field Type="Variable" Name="Variable" Row="1" Column="15" Content="AIRGAIA.TextLimiteBasseFD" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="14" Content="287" />
-          <Field Type="Text" Name="Text_13" Row="1" Column="21" Content="288" />
-          <Field Type="Text" Name="Text_14" Row="2" Column="21" Content="289" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="14" Content="302" />
+          <Field Type="Text" Name="Text_13" Row="1" Column="21" Content="303" />
+          <Field Type="Text" Name="Text_14" Row="2" Column="21" Content="304" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="15" Content="AIRGAIA.deltaHW_limiteBasseFD" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_4" Row="5" Column="15" Content="AIRGAIA.TserreLimiteHauteFC" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_5" Row="6" Column="15" Content="AIRGAIA.TextLimiteBasseFC" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="14" Content="290" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="14" Content="291" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="14" Content="292" />
-          <Field Type="Text" Name="Text_8" Row="7" Column="14" Content="293" />
-          <Field Type="Text" Name="Text_10" Row="1" Column="0" Content="294" />
-          <Field Type="Text" Name="Text_11" Row="2" Column="0" Content="295" />
-          <Field Type="Text" Name="Text_16" Row="5" Column="0" Content="296" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="14" Content="305" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="14" Content="306" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="14" Content="307" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="14" Content="308" />
+          <Field Type="Text" Name="Text_10" Row="1" Column="0" Content="309" />
+          <Field Type="Text" Name="Text_11" Row="2" Column="0" Content="310" />
+          <Field Type="Text" Name="Text_16" Row="5" Column="0" Content="311" />
           <Field Type="Variable" Name="Variable_7" Row="7" Column="15" Content="AIRGAIA.deltaT_limiteHauteFC" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_18" Row="6" Column="0" Content="297" />
-          <Field Type="Text" Name="Text_19" Row="7" Column="0" Content="298" />
-          <Field Type="Text" Name="Text_21" Row="5" Column="21" Content="299" />
-          <Field Type="Text" Name="Text_17" Row="6" Column="21" Content="300" />
-          <Field Type="Text" Name="Text_23" Row="7" Column="21" Content="301" />
+          <Field Type="Text" Name="Text_18" Row="6" Column="0" Content="312" />
+          <Field Type="Text" Name="Text_19" Row="7" Column="0" Content="313" />
+          <Field Type="Text" Name="Text_21" Row="5" Column="21" Content="314" />
+          <Field Type="Text" Name="Text_17" Row="6" Column="21" Content="315" />
+          <Field Type="Text" Name="Text_23" Row="7" Column="21" Content="316" />
           <Field Type="Variable" Name="Variable_3" Row="3" Column="15" Content="AIRGAIA.deltaT_limiteBasseFD" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="302" />
-          <Field Type="Text" Name="Text_12" Row="3" Column="14" Content="303" />
-          <Field Type="Text" Name="Text_15" Row="3" Column="21" Content="304" />
+          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="317" />
+          <Field Type="Text" Name="Text_12" Row="3" Column="14" Content="318" />
+          <Field Type="Text" Name="Text_15" Row="3" Column="21" Content="319" />
         </Fields>
         <KeyBindings />
       </Mask>
-      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_3" Type="Normal" X="2" Y="9" Color="LightCyan">
+      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_3" Type="Normal" X="2" Y="10" Color="LightCyan">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="1" Content="305" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="306" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="307" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="308" />
-          <Field Type="Text" Name="Text_5" Row="2" Column="0" Content="309" />
-          <Field Type="Text" Name="Text_6" Row="3" Column="0" Content="310" />
-          <Field Type="Text" Name="Text_7" Row="2" Column="11" Content="311" />
-          <Field Type="Text" Name="Text_8" Row="3" Column="11" Content="312" />
-          <Field Type="Text" Name="Text_9" Row="7" Column="0" Content="313" />
-          <Field Type="Text" Name="Text_10" Row="7" Column="11" Content="314" />
-          <Field Type="Text" Name="Text_11" Row="6" Column="0" Content="315" />
-          <Field Type="Text" Name="Text_12" Row="6" Column="11" Content="316" />
-          <Field Type="Text" Name="Text_13" Row="2" Column="19" Content="317" />
-          <Field Type="Text" Name="Text_14" Row="3" Column="19" Content="318" />
-          <Field Type="Text" Name="Text_15" Row="6" Column="19" Content="319" />
-          <Field Type="Text" Name="Text_16" Row="7" Column="19" Content="320" />
+          <Field Type="Text" Name="Text" Row="0" Column="1" Content="320" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="321" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="322" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="323" />
+          <Field Type="Text" Name="Text_5" Row="2" Column="0" Content="324" />
+          <Field Type="Text" Name="Text_6" Row="3" Column="0" Content="325" />
+          <Field Type="Text" Name="Text_7" Row="2" Column="11" Content="326" />
+          <Field Type="Text" Name="Text_8" Row="3" Column="11" Content="327" />
+          <Field Type="Text" Name="Text_9" Row="7" Column="0" Content="328" />
+          <Field Type="Text" Name="Text_10" Row="7" Column="11" Content="329" />
+          <Field Type="Text" Name="Text_11" Row="6" Column="0" Content="330" />
+          <Field Type="Text" Name="Text_12" Row="6" Column="11" Content="331" />
+          <Field Type="Text" Name="Text_13" Row="2" Column="19" Content="332" />
+          <Field Type="Text" Name="Text_14" Row="3" Column="19" Content="333" />
+          <Field Type="Text" Name="Text_15" Row="6" Column="19" Content="334" />
+          <Field Type="Text" Name="Text_16" Row="7" Column="19" Content="335" />
           <Field Type="Variable" Name="Variable" Row="2" Column="12" Content="AIRGAIA.consigneM3HVentBasFreeCoolJour" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
           <Field Type="Variable" Name="Variable_2" Row="3" Column="12" Content="AIRGAIA.consigneM3HVentBasFreeDeshuJour" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="12" Content="AIRGAIA.consigneM3HVentBasFreeDeshuJour" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
@@ -892,22 +910,45 @@
         </Fields>
         <KeyBindings />
       </Mask>
-      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_3_Clone_2" Type="Normal" X="2" Y="10" Color="LightCyan">
+      <Mask Name="SwInfo_Clone_2_Clone_3_Clone_3_Clone_2" Type="Normal" X="2" Y="11" Color="LightCyan">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="0" Content="321" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="322" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="323" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="324" />
-          <Field Type="Text" Name="Text_5" Row="2" Column="0" Content="325" />
-          <Field Type="Text" Name="Text_7" Row="2" Column="11" Content="326" />
-          <Field Type="Text" Name="Text_11" Row="6" Column="0" Content="327" />
-          <Field Type="Text" Name="Text_12" Row="6" Column="11" Content="328" />
-          <Field Type="Text" Name="Text_13" Row="2" Column="19" Content="329" />
-          <Field Type="Text" Name="Text_15" Row="6" Column="19" Content="330" />
+          <Field Type="Text" Name="Text" Row="0" Column="0" Content="336" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="21" Content="337" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="338" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="339" />
+          <Field Type="Text" Name="Text_5" Row="2" Column="0" Content="340" />
+          <Field Type="Text" Name="Text_7" Row="2" Column="11" Content="341" />
+          <Field Type="Text" Name="Text_11" Row="6" Column="0" Content="342" />
+          <Field Type="Text" Name="Text_12" Row="6" Column="11" Content="343" />
+          <Field Type="Text" Name="Text_13" Row="2" Column="19" Content="344" />
+          <Field Type="Text" Name="Text_15" Row="6" Column="19" Content="345" />
           <Field Type="Variable" Name="Variable" Row="2" Column="12" Content="AIRGAIA.consigneM3HVentHautBrassageJour" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="12" Content="AIRGAIA.consigneM3HVentHautBrassageNuit" Class="CL_REAL_0" Format="io+6.0" Min="-999999.0" Max="999999.0" />
+        </Fields>
+        <KeyBindings />
+      </Mask>
+      <Mask Name="SwInfo_Clone_2" Type="Normal" X="2" Y="12" Color="LightCyan">
+        <Fields>
+          <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
+          <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
+          <Field Type="Text" Name="Text" Row="0" Column="1" Content="346" />
+          <Field Type="Variable" Name="Variable" Row="2" Column="9" Content="AIRGAIA.LocalTimeSunrise_SRSS_1.Hours" Class="CL_INT" Format="o2" Min="0" Max="99" />
+          <Field Type="Variable" Name="Variable_2" Row="2" Column="12" Content="AIRGAIA.LocalTimeSunrise_SRSS_1.Minutes" Class="CL_INT" Format="o2" Min="0" Max="99" />
+          <Field Type="Variable" Name="Variable_3" Row="6" Column="9" Content="AIRGAIA.LocalTimeSunset_SRSS_1.Hours" Class="CL_INT" Format="o2" Min="0" Max="99" />
+          <Field Type="Variable" Name="Variable_4" Row="6" Column="12" Content="AIRGAIA.LocalTimeSunset_SRSS_1.Minutes" Class="CL_INT" Format="o2" Min="0" Max="99" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="11" Content="347" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="11" Content="348" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="4" Content="349" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="350" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="21" Content="351" />
+          <Field Type="Text" Name="Text_11" Row="7" Column="0" Content="352" />
+          <Field Type="Text" Name="Text_12" Row="3" Column="0" Content="353" />
+          <Field Type="Variable" Name="Variable_5" Row="3" Column="8" Content="AIRGAIA.OffsetCoucher_1" Class="CL_INT" Format="io+5" Min="-32768" Max="32767" />
+          <Field Type="Variable" Name="Variable_6" Row="7" Column="8" Content="AIRGAIA.OffsetCoucher_1" Class="CL_INT" Format="io+5" Min="-32768" Max="32767" />
+          <Field Type="Text" Name="Text_7" Row="3" Column="14" Content="354" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="14" Content="355" />
         </Fields>
         <KeyBindings />
       </Mask>
@@ -917,26 +958,26 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="0" Content="331" />
-          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="332" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="333" />
-          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="334" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="11" Content="335" />
-          <Field Type="Text" Name="Text_10" Row="2" Column="11" Content="336" />
-          <Field Type="Text" Name="Text_11" Row="3" Column="11" Content="337" />
-          <Field Type="Text" Name="Text_18" Row="3" Column="21" Content="338" />
-          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="339" />
+          <Field Type="Text" Name="Text" Row="0" Column="0" Content="356" />
+          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="357" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="358" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="359" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="11" Content="360" />
+          <Field Type="Text" Name="Text_10" Row="2" Column="11" Content="361" />
+          <Field Type="Text" Name="Text_11" Row="3" Column="11" Content="362" />
+          <Field Type="Text" Name="Text_18" Row="3" Column="21" Content="363" />
+          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="364" />
           <Field Type="Variable" Name="Variable" Row="1" Column="12" Content="AIRGAIA.Kp_VentHaut" Class="CL_REAL_3" Format="io+3.3" Min="-999.999" Max="999.999" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="12" Content="AIRGAIA.Ti_VentHaut" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_3" Row="3" Column="12" Content="AIRGAIA.VitesseMax_VentHaut" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_4" Row="6" Column="14" Content="AIRGAIA.TimeDemarrage_1" Class="CL_UDINT" Format="io6" Min="0" Max="999999" />
-          <Field Type="Text" Name="Text_2" Row="6" Column="21" Content="340" />
+          <Field Type="Text" Name="Text_2" Row="6" Column="21" Content="365" />
           <Field Type="Variable" Name="Variable_5" Row="7" Column="14" Content="AIRGAIA.VitesseDemarrage_1" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="341" />
-          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="342" />
-          <Field Type="Text" Name="Text_8" Row="6" Column="13" Content="343" />
-          <Field Type="Text" Name="Text_12" Row="7" Column="13" Content="344" />
-          <Field Type="Text" Name="Text_13" Row="7" Column="21" Content="345" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="366" />
+          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="367" />
+          <Field Type="Text" Name="Text_8" Row="6" Column="13" Content="368" />
+          <Field Type="Text" Name="Text_12" Row="7" Column="13" Content="369" />
+          <Field Type="Text" Name="Text_13" Row="7" Column="21" Content="370" />
         </Fields>
         <KeyBindings />
       </Mask>
@@ -944,15 +985,15 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="0" Content="346" />
-          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="347" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="348" />
-          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="349" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="11" Content="350" />
-          <Field Type="Text" Name="Text_10" Row="2" Column="11" Content="351" />
-          <Field Type="Text" Name="Text_11" Row="3" Column="11" Content="352" />
-          <Field Type="Text" Name="Text_18" Row="3" Column="21" Content="353" />
-          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="354" />
+          <Field Type="Text" Name="Text" Row="0" Column="0" Content="371" />
+          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="372" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="373" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="374" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="11" Content="375" />
+          <Field Type="Text" Name="Text_10" Row="2" Column="11" Content="376" />
+          <Field Type="Text" Name="Text_11" Row="3" Column="11" Content="377" />
+          <Field Type="Text" Name="Text_18" Row="3" Column="21" Content="378" />
+          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="379" />
           <Field Type="Variable" Name="Variable" Row="1" Column="12" Content="AIRGAIA.Kp_VentBas" Class="CL_REAL_3" Format="io+3.3" Min="-999.999" Max="999.999" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="12" Content="AIRGAIA.Ti_VentBas" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_3" Row="3" Column="12" Content="AIRGAIA.VitesseMax_VentBas" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
@@ -963,20 +1004,26 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_12" Row="0" Column="0" Content="dummy" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text" Row="0" Column="0" Content="355" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="356" />
-          <Field Type="Text" Name="Text_9" Row="2" Column="13" Content="357" />
-          <Field Type="Text" Name="Text_10" Row="3" Column="13" Content="358" />
-          <Field Type="Text" Name="Text_11" Row="4" Column="13" Content="359" />
-          <Field Type="Text" Name="Text_17" Row="3" Column="21" Content="360" />
-          <Field Type="Text" Name="Text_18" Row="4" Column="21" Content="361" />
-          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="362" />
+          <Field Type="Text" Name="Text" Row="0" Column="0" Content="380" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="381" />
+          <Field Type="Text" Name="Text_9" Row="2" Column="13" Content="382" />
+          <Field Type="Text" Name="Text_10" Row="3" Column="13" Content="383" />
+          <Field Type="Text" Name="Text_11" Row="4" Column="13" Content="384" />
+          <Field Type="Text" Name="Text_17" Row="3" Column="21" Content="385" />
+          <Field Type="Text" Name="Text_18" Row="4" Column="21" Content="386" />
+          <Field Type="Text" Name="Text_20" Row="0" Column="21" Content="387" />
           <Field Type="Variable" Name="Variable" Row="2" Column="14" Content="AIRGAIA.ouvertureRegiste1" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_2" Row="3" Column="14" Content="AIRGAIA.ouvertureRegiste2" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_3" Row="4" Column="14" Content="AIRGAIA.ouvertureRegiste3" Class="CL_REAL_1" Format="io+3.1" Min="-999.9" Max="999.9" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="363" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="364" />
-          <Field Type="Text" Name="Text_5" Row="2" Column="21" Content="365" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="388" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="389" />
+          <Field Type="Text" Name="Text_5" Row="2" Column="21" Content="390" />
+          <Field Type="Variable" Name="Variable_4" Row="6" Column="11" Content="AIRGAIA.kwhReset" Min="0" Max="1" Class="onoff" Format="iob" />
+          <Field Type="Variable" Name="Variable_5" Row="7" Column="11" Content="AIRGAIA.kwhTotal" Class="CL_DINT" Format="io6" Min="0" Max="999999" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="391" />
+          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="392" />
+          <Field Type="Text" Name="Text_8" Row="6" Column="10" Content="393" />
+          <Field Type="Text" Name="Text_12" Row="7" Column="10" Content="394" />
         </Fields>
         <KeyBindings />
       </Mask>
@@ -987,18 +1034,18 @@
       <Mask Name="ParamsImpExp" Type="Normal" X="4" Y="3" Color="LightGreen">
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="397" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="0" Content="398" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="426" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="0" Content="427" />
           <Field Type="Variable" Name="Variable_7" Row="5" Column="0" Content="DriveTyp" Class="DriveType" Format="io1" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_6" Row="3" Column="0" Content="ImpExpSel" Class="ImpExpSel" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="399" />
-          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="400" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="428" />
+          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="429" />
           <Field Type="Variable" Name="Variable_8" Row="7" Column="15" Content="EnImpExpTmp" Class="EnParamsImpExp" Format="io1" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_9" Row="6" Column="20" Content="ImpExpMng.ParamsImpExpFileName" Class="CL_INT" Format="io2z" Min="0" Max="99" />
-          <Field Type="Text" Name="Text_8" Row="6" Column="13" Content="401" />
+          <Field Type="Text" Name="Text_8" Row="6" Column="13" Content="430" />
           <Field Type="Variable" Name="Variable_10" Row="0" Column="0" Content="dummy" Class="DummyService" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="402" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="403" />
+          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="431" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="432" />
         </Fields>
         <KeyBindings />
       </Mask>
@@ -1006,16 +1053,16 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="404" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="433" />
           <Field Type="Variable" Name="Variable_1" Row="4" Column="0" Content="DriveTyp" Class="DriveType" Format="io1" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="405" />
-          <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="406" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="434" />
+          <Field Type="Text" Name="Text_5" Row="7" Column="0" Content="435" />
           <Field Type="Variable" Name="Variable_3" Row="7" Column="15" Content="EnAlrmExpTmp" Class="EnAlrmExp" Format="io1" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_4" Row="5" Column="20" Content="GeneralMng.AlrmExpFileName" Class="CL_INT" Format="io2z" Min="0" Max="99" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="10" Content="407" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="10" Content="436" />
           <Field Type="Variable" Name="Variable_5" Row="0" Column="0" Content="dummy" Class="DummyService" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_7" Row="1" Column="0" Content="408" />
-          <Field Type="Text" Name="Text_8" Row="0" Column="1" Content="409" />
+          <Field Type="Text" Name="Text_7" Row="1" Column="0" Content="437" />
+          <Field Type="Text" Name="Text_8" Row="0" Column="1" Content="438" />
         </Fields>
       </Mask>
     </Loop>
@@ -1023,12 +1070,12 @@
       <Fields>
         <Field Type="Image" Name="Image_1" Row="1" Column="0" Content="DOOR.bmp" />
         <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="5" Column="8" Content="417" />
-        <Field Type="Text" Name="Text_3" Row="6" Column="8" Content="418" />
-        <Field Type="Text" Name="Text_4" Row="1" Column="8" Content="419" />
-        <Field Type="Text" Name="Text_5" Row="2" Column="8" Content="420" />
+        <Field Type="Text" Name="Text_1" Row="5" Column="8" Content="446" />
+        <Field Type="Text" Name="Text_3" Row="6" Column="8" Content="447" />
+        <Field Type="Text" Name="Text_4" Row="1" Column="8" Content="448" />
+        <Field Type="Text" Name="Text_5" Row="2" Column="8" Content="449" />
         <Field Type="Variable" Name="Variable_1" Row="3" Column="8" Content="PwdTyp" Class="PwdType" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="421" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="450" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ENTER" BindOn="PwdLogOut" />
@@ -1045,14 +1092,14 @@
         <Field Type="Variable" Name="Variable_11" Row="7" Column="3" Content="IdxMenuMsk" Class="MainTxtBOTTOM" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_15" Row="0" Column="21" Content="MenuItemsNo" Class="CL_INT" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_16" Row="0" Column="19" Content="CurrItemNo" Class="CL_INT" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_7" Row="0" Column="20" Content="422" />
+        <Field Type="Text" Name="Text_7" Row="0" Column="20" Content="451" />
         <Field Type="Variable" Name="Variable_12" Row="2" Column="0" Content="IdxImg1" Class="IdxImgMain" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_13" Row="4" Column="0" Content="IdxImg2" Class="IdxImgMain" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_14" Row="6" Column="0" Content="IdxImg3" Class="IdxImgMain" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_6" Row="2" Column="2" Content="BarPos" Class="PosBarMenuTOP" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_7" Row="4" Column="2" Content="BarPos" Class="PosBarMenuMIDDLE" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_8" Row="6" Column="2" Content="BarPos" Class="PosBarMenuBOTTOM" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="423" />
+        <Field Type="Text" Name="Text_1" Row="0" Column="0" Content="452" />
         <Field Type="Variable" Name="Variable_1" Row="1" Column="0" Content="PwdTypMenu" Class="UserAccesMenu" Format="o1" Min="0" Max="9" />
       </Fields>
       <KeyBindings>
@@ -1066,10 +1113,10 @@
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="1" Column="8" Content="Key_36x16.bmp" />
         <Field Type="Image" Name="Image_3" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="4" Column="0" Content="424" />
+        <Field Type="Text" Name="Text_1" Row="4" Column="0" Content="453" />
         <Field Type="Variable" Name="Variable_1" Row="4" Column="18" Content="PwdIn" Class="PwdIn" Format="io4z" Min="0" Max="9999" />
         <Field Type="Variable" Name="Variable_2" Row="7" Column="0" Content="PwdRes" Class="PwdRes" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="425" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="454" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ENTER" BindOn="PwdLogIn" />
@@ -1079,11 +1126,11 @@
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="426" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="427" />
-        <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="428" />
-        <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="429" />
-        <Field Type="Text" Name="Text_5" Row="4" Column="0" Content="430" />
+        <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="455" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="456" />
+        <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="457" />
+        <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="458" />
+        <Field Type="Text" Name="Text_5" Row="4" Column="0" Content="459" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ALARM" BindOn="DoNothing" />
@@ -1098,8 +1145,8 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="415" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="416" />
+          <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="444" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="445" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="0" Content="ImpExpMng.ErrParamImpExp" Class="ErrImpExp" Format="o1" Min="0" Max="9" />
         </Fields>
         <KeyBindings />
@@ -1109,8 +1156,8 @@
       <Fields>
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="431" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="432" />
+        <Field Type="Text" Name="Text_1" Row="7" Column="0" Content="460" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="461" />
         <Field Type="Variable" Name="Variable_1" Row="3" Column="0" Content="GeneralMng.ErrAlrmExp" Class="ErrImpExp" Format="o1" Min="0" Max="9" />
       </Fields>
       <KeyBindings />
@@ -1120,7 +1167,7 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Name="Variable_6" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="410" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="439" />
         </Fields>
         <KeyBindings>
           <KeyBinding Key="PRG" BindOn="GotoMainMenu" />
@@ -1132,7 +1179,7 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Name="Variable_6" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="411" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="440" />
         </Fields>
         <KeyBindings>
           <KeyBinding Key="PRG" BindOn="GotoMainMenu" />
@@ -1144,19 +1191,19 @@
         <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Image" Name="Image_2" Row="1" Column="8" Content="Key_36x16.bmp" />
         <Field Type="Image" Name="Image_3" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="437" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="466" />
         <Field Type="Variable" Name="Variable" Row="4" Column="9" Content="BrowserAuth.AuthLevel" Class="CL_USINT" Format="o1" Min="0" Max="3" SimulationValue="0" />
-        <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="438" />
-        <Field Type="Text" Name="Text" Row="4" Column="0" Content="439" />
+        <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="467" />
+        <Field Type="Text" Name="Text" Row="4" Column="0" Content="468" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ESC" BindOn="GotoMain" />
       </KeyBindings>
       <ResourceUsedOnInt>
-        <Index Value="0" Content="433" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
-        <Index Value="1" Content="434" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
-        <Index Value="2" Content="435" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
-        <Index Value="3" Content="436" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+        <Index Value="0" Content="462" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+        <Index Value="1" Content="463" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+        <Index Value="2" Content="464" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+        <Index Value="3" Content="465" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
       </ResourceUsedOnInt>
     </Mask>
     <Loop Name="DEVICEn" X="3" Y="2">
@@ -1164,8 +1211,8 @@
         <Fields>
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Name="Variable_6" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="412" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="413" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="441" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="442" />
         </Fields>
         <KeyBindings>
           <KeyBinding Key="PRG" BindOn="GotoMainMenu" />
@@ -1177,7 +1224,7 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="414" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="443" />
         </Fields>
       </Mask>
     </Loop>
@@ -1188,12 +1235,12 @@
         <Field Type="Variable" Name="Variable_8" Row="5" Column="3" Content="IdxMenuMsk" Class="SettingsTxtMIDDLE" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_11" Row="7" Column="3" Content="IdxMenuMsk" Class="SettingsTxtBOTTOM" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_12" Row="0" Column="19" Content="CurrItemNo" Class="CL_INT" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_1" Row="0" Column="20" Content="440" />
+        <Field Type="Text" Name="Text_1" Row="0" Column="20" Content="469" />
         <Field Type="Variable" Name="Variable_13" Row="0" Column="21" Content="MenuItemsNo" Class="CL_INT" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_14" Row="2" Column="0" Content="IdxImg1" Class="IdxImgSettings" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_15" Row="4" Column="0" Content="IdxImg2" Class="IdxImgSettings" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_16" Row="6" Column="0" Content="IdxImg3" Class="IdxImgSettings" Format="o1" Min="0" Max="9" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="441" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="470" />
         <Field Type="Variable" Name="Variable_1" Row="2" Column="2" Content="BarPos" Class="PosBarMenuTOP" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_2" Row="4" Column="2" Content="BarPos" Class="PosBarMenuMIDDLE" Format="o1" Min="0" Max="9" />
         <Field Type="Variable" Name="Variable_3" Row="6" Column="2" Content="BarPos" Class="PosBarMenuBOTTOM" Format="o1" Min="0" Max="9" />
@@ -1211,19 +1258,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="442" />
+          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="471" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="1" Content="EbmpapstFan_1_Mng.SpeedReq_perc_EBM_1" Class="Speed_perc_EBM" Format="io+3.1" Min="0.0" Max="100.0" />
           <Field Type="Variable" Name="Variable_3" Row="2" Column="0" Content="EbmpapstFan_1_Mng.SpeedReq_V_EBM_1" Class="Speed_Volt_EBM" Format="io+4.1" Min="0.0" Max="EbmpapstFan_1_Mng.ClosedLoopSensor_Max" />
           <Field Type="Variable" Name="Variable_4" Row="2" Column="3" Content="EbmpapstFan_1_Mng.SpeedReq_rpm_EBM_1" Class="Closed_loop_EBM" Format="io4" Min="0" Max="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.MaxSpeed" />
           <Field Type="Variable" Name="Variable_5" Row="2" Column="7" Content="EbmpapstFan_1_Mng.SetUoM_EBM" Class="ActiveCtrlMode_EBM" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="443" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="472" />
           <Field Type="Variable" Name="Variable_6" Row="3" Column="17" Content="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.DefSetVal" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="444" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="19" Content="445" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="473" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="19" Content="474" />
           <Field Type="Variable" Name="Variable_7" Row="4" Column="14" Content="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.CurrSpeed" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="446" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="475" />
           <Field Type="Variable" Name="Variable_8" Row="6" Column="17" Content="EbmpapstFan_1_Mng.DayNightInternalBool" Class="InternalParamSet_EBM" Format="ob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="1" Content="447" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="1" Content="476" />
           <Field Type="Variable" Name="Variable_1" Row="0" Column="11" Content="EbmpapstFan_1_Mng.ComStatus_EBM_1" Class="ComStatus_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_9" Row="5" Column="0" Content="EbmpapstFan_1_Mng.WriteParamsReq_EBM_1" Class="WriteParamsReq_EBM" Format="ob" Min="0" Max="1" />
         </Fields>
@@ -1232,34 +1279,34 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="450" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="479" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="19" Content="EbmpapstFan_1_Mng.En_EbmpapstFan_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="451" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="480" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng.Online_EBM_1" Class="FanStatus_EBM" Format="ob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="452" />
-          <Field Type="Text" Name="Text_4" Row="6" Column="20" Content="453" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="481" />
+          <Field Type="Text" Name="Text_4" Row="6" Column="20" Content="482" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="14" Content="EbmpapstFan_1_Mng.PollingT" Class="CL_UDINT" Format="o6" Min="0" Max="999999" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="448" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="449" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="477" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="478" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanStatus_1_EBM_1" Type="Normal" X="1" Y="2">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="454" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="455" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="456" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="483" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="484" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="485" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="15" Content="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.CurrSpeed" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="457" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="486" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="17" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.DC_Link_V" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="458" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="459" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="20" Content="460" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="487" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="488" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="20" Content="489" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="16" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.DC_Link_A" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_8" Row="0" Column="17" Content="461" />
+          <Field Type="Text" Name="Text_8" Row="0" Column="17" Content="490" />
           <Field Type="Variable" Name="Variable_4" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
         </Fields>
       </Mask>
@@ -1267,30 +1314,30 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="462" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="463" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="20" Content="464" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="491" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="492" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="20" Content="493" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="17" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.ElectrTemp" Class="CL_UINT" Format="o3" Min="0" Max="999" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="465" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="494" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="16" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.CurrPower" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="466" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="495" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="467" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="496" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_3_EBM_1" Type="Normal" X="1" Y="4">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="468" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="469" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="470" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="497" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="498" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="499" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="15" Content="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.MaxSpeed" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="471" />
+          <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="500" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="16" Content="EbmpapstFan_1_Mng.CntWorkHrsBkp_EBM_1" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="472" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="501" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="473" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="502" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="16" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.MaxPower" Class="MaxPower_EBM" Format="o5" Min="0" Max="9999" />
           <Field Type="Variable" Name="Variable" Row="4" Column="0" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.Version6" Min="0" Max="1" Class="MaxPowerText_EBM" Format="ob" SimulationValue="" />
         </Fields>
@@ -1299,19 +1346,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="474" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="475" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="503" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="504" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.CurrSenValSrc" Class="CurrSenValSrc_EBM" Format="io1" Min="0" Max="4" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="476" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="477" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="478" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="479" />
-          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="480" />
-          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="481" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="505" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="506" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="507" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="508" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="509" />
+          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="510" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.Ain1" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.Ain2" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="482" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="511" />
         </Fields>
         <EnableOn>
           <Var Name="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.NotRadiCal" />
@@ -1321,19 +1368,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="483" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="484" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="512" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="513" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.CurrSenValSrc" Class="CurrSenValSrcRadical_EBM" Format="io1" Min="0" Max="6" SimulationValue="" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="485" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="486" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="487" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="488" />
-          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="489" />
-          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="490" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="514" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="515" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="516" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="517" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="518" />
+          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="519" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.Ain1" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.Ain2" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="491" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="520" />
         </Fields>
         <EnableOn>
           <Var Name="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.RadiCal" />
@@ -1343,60 +1390,60 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="492" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="521" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="493" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="494" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="522" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="523" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="18" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FW_Info.Identification" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="7" Content="EbmpapstFan_1_Mng.CurrParam_EBM_1" Class="CurrParamSet_EBM" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="495" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="524" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_6_EBM_1" Type="Normal" X="1" Y="8">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="496" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="525" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="497" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="498" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="526" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="527" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="17" Content="EbmpapstFan_1_Mng.MotStatus_EBM_1.IR_MotStatus" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="499" />
+          <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="528" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="17" Content="EbmpapstFan_1_Mng.Warn_EBM_1.IR_Warn" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="500" />
+          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="529" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_7_EBM_1" Type="Normal" X="1" Y="9">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="501" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="530" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="502" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="503" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="531" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="532" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="17" Content="EbmpapstFan_1_Mng.CurrRotDir_EBM_1" Class="CurrRotDir_EBM" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="21" Content="504" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="21" Content="533" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="18" Content="EbmpapstFan_1_Mng.ElectrInfo_EBM_1.CurrModulLev" Class="CL_UINT" Format="o3" Min="0" Max="999" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="505" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="534" />
           <Field Type="Variable" Name="Variable_2" Row="7" Column="19" Content="EbmpapstFan_1_Mng.CtrlModeAct_EBM_1" Class="SpeedUnitMeas_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_5" Row="7" Column="14" Content="EbmpapstFan_1_Mng.CurrSetVal_rpm" Class="CurrSetVal_rpm_EBM" Format="o5" Min="0" Max="65535" />
           <Field Type="Variable" Name="Variable_6" Row="7" Column="13" Content="EbmpapstFan_1_Mng.CurrSetVal_perc" Class="CUrrSetVal_perc_EBM" Format="o+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_7" Row="7" Column="14" Content="EbmpapstFan_1_Mng.CurrSetVal_volt" Class="CurrSetVal_volt_EBM" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="506" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="535" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_7b_EBM_1" Type="Normal" X="1" Y="10">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="507" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="536" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="508" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="537" />
           <Field Type="Variable" Name="Variable" Row="2" Column="14" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.AnemometerSpeed" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text" Row="2" Column="0" Content="509" />
+          <Field Type="Text" Name="Text" Row="2" Column="0" Content="538" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="13" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.MassFlow" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="510" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="511" />
+          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="539" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="540" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="13" Content="EbmpapstFan_1_Mng.SenVal_EBM_1.AirFlow" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
         </Fields>
         <EnableOn>
@@ -1407,17 +1454,17 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="512" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="541" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="513" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="514" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="542" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="543" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="12" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.Prod_year" Class="CL_USINT" Format="o2" Min="0" Max="99" />
           <Field Type="Variable" Name="Variable_2" Row="3" Column="14" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.Prod_wk" Class="CL_USINT" Format="o2" Min="0" Max="99" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="18" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.SerNo_dig1" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_5" Row="3" Column="19" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.SerNo_dig2" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_6" Row="3" Column="20" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.SerNo_dig3" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_7" Row="3" Column="21" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.SerNo.SerNo_dig4" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="515" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="544" />
           <Field Type="Variable" Name="Variable_8" Row="5" Column="10" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char01" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_9" Row="5" Column="11" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char02" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_10" Row="5" Column="12" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char03" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
@@ -1430,68 +1477,68 @@
           <Field Type="Variable" Name="Variable_17" Row="5" Column="19" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char10" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_18" Row="5" Column="20" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char11" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_19" Row="5" Column="21" Content="EbmpapstFan_1_Mng.FanInfo_EBM_1.FanTyp.Char12" Class="ASCII_Dig_EBM" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="516" />
+          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="545" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_1_EBM_1" Type="Normal" X="1" Y="12">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="517" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="546" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="518" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="547" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="9" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.SrcSetVal" Class="SrcSetVal_EBM" Format="io1" Min="0" Max="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.SrcSetVal_LimUp" SimulationValue="" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="519" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="548" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.CtrlModeDay" Class="CtrModeDayNight_EBM" Format="io1" Min="0" Max="2" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="520" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="549" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.CtrlModeNight" Class="CtrModeDayNight_EBM" Format="io1" Min="0" Max="2" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="521" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="550" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_2_EBM_1" Type="Normal" X="1" Y="13">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="522" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="551" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="523" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="552" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="18" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.RampUpT" Class="CL_UINT" Format="io3" Min="0" Max="625" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="21" Content="524" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="525" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="526" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="21" Content="553" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="554" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="555" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="18" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.RampDwnT" Class="CL_UINT" Format="io3" Min="0" Max="625" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="527" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="556" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_3_EBM_1" Type="Normal" X="1" Y="14">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="530" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="559" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="531" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="532" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="533" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="560" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="561" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="562" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.ParamSetSrc" Class="ParamSetSrc_EBM" Format="io1" Min="0" Max="EbmpapstFan_1_Mng.FanInfo_EBM_1.UiParams.ParamSetSrc_LimUp" SimulationValue="1" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.InternParamSet" Class="InternalParam_EBM" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.PrefRunDir" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="534" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="563" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="528" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="529" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="557" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="558" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_4_EBM_1" Type="Normal" X="1" Y="15">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="535" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="536" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="564" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="565" />
           <Field Type="Variable" Name="Variable_2" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="537" />
-          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="538" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="539" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="566" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="567" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="568" />
           <Field Type="Variable" Name="Variable" Row="2" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.IOConf1" Class="IOConf1_EBM" Format="io1" Min="0" Max="3" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="4" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.IOConf2" Class="IOConf2_EBM" Format="io1" Min="0" Max="2" SimulationValue="" />
           <Field Type="Variable" Name="Variable_4" Row="6" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.IOConf3" Class="IOConf3_EBM" Format="io1" Min="0" Max="5" SimulationValue="" />
@@ -1504,11 +1551,11 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="540" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="541" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="569" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="570" />
           <Field Type="Variable" Name="Variable_2" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="542" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="543" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="571" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="572" />
           <Field Type="Variable" Name="Variable" Row="3" Column="0" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.SwitchEnableSource" Class="SwitchEnableSource_EBM" Format="io1" Min="0" Max="6" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="5" Column="15" Content="EbmpapstFan_1_Mng.CfgParams_EBM_1.RFIDen" Class="Rfid_EBM" Format="io1" Min="0" Max="1" SimulationValue="" />
         </Fields>
@@ -1520,33 +1567,33 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="546" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="575" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="2" Column="0" Content="547" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="548" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="549" />
+          <Field Type="Text" Name="Text_9" Row="2" Column="0" Content="576" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="577" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="578" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="19" Content="EbmpapstFan_1_Mng.FW_Reboot_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="19" Content="EbmpapstFan_1_Mng.LdNewVal_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="19" Content="EbmpapstFan_1_Mng.ResAlrmInternal_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="550" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="579" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="544" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="545" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="573" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="574" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_7_EBM_1" Type="Normal" X="1" Y="18">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="551" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="580" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="552" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="553" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="554" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="555" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="556" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="20" Content="557" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="581" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="582" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="583" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="584" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="585" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="20" Content="586" />
           <Field Type="Variable" Name="Variable_1" Row="1" Column="18" Content="EbmpapstFan_1_Mng.EmergencySet_rpm_EBM_1" Class="CL_DINT" Format="io4" Min="0" Max="EbmpapstFan_1_Mng.InfoSpeed_EBM_1.MaxSpeed" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="16" Content="EbmpapstFan_1_Mng.EmergencySet_perc_EBM_1" Class="CL_REAL_1" Format="io+3.1" Min="0.0" Max="100.0" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="17" Content="EbmpapstFan_1_Mng.EmergencySet_V_EBM_1" Class="CL_REAL_1" Format="io+2.1" Min="0.0" Max="10.0" />
@@ -1560,41 +1607,41 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="560" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="589" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="561" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="590" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="16" Content="EbmpapstFan_1_Mng.SerInterfaceSet_EBM_1.CfgProtocol.DevAddr" Class="CL_UDINT" Format="io6" Min="0" Max="999999" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="562" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="563" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="564" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="591" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="592" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="593" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="19" Content="EbmpapstFan_1_Mng.SerInterfaceSet_EBM_1.FanSerInterfSet.En_ChgAddr" Class="ChgAddr_EBM" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="565" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="594" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="0" Content="EbmpapstFan_1_Mng.ParamsChgComStatus_EBM_1.StatusNewAddrProc" Class="NewAddrProc_EBM" Format="o1" Min="0" Max="9" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="558" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="559" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="587" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="588" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_9_EBM_1" Type="Normal" X="1" Y="20">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="568" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="597" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="569" />
-          <Field Type="Text" Name="Text_2" Row="5" Column="0" Content="570" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="571" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="598" />
+          <Field Type="Text" Name="Text_2" Row="5" Column="0" Content="599" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="600" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="19" Content="EbmpapstFan_1_Mng.SerInterfaceSet_EBM_1.FanSerInterfSet.En_ChgCommInterfaceSet" Class="ChgSernIterface_EBM" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="572" />
-          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="573" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="601" />
+          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="602" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="16" Content="EbmpapstFan_1_Mng.SerInterfaceSet_EBM_1.FanSerInterfSet.Baudrate" Class="FanBaudrate_EBM" Format="io1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="19" Content="EbmpapstFan_1_Mng.SerInterfaceSet_EBM_1.FanSerInterfSet.ParityConf" Class="ParityCfg_EBM" Format="io1" Min="0" Max="3" />
           <Field Type="Variable" Name="Variable_5" Row="7" Column="0" Content="EbmpapstFan_1_Mng.ParamsChgComStatus_EBM_1.CommChangeStatus" Class="ComChangeProc_EBM" Format="o1" Min="0" Max="9" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="566" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="567" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="595" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="596" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
     </Loop>
@@ -1605,19 +1652,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="574" />
+          <Field Type="Text" Name="Text_1" Row="1" Column="0" Content="603" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="1" Content="EbmpapstFan_1_Mng_2.SpeedReq_perc_EBM_1" Class="Speed_perc_EBM_2" Format="io+3.1" Min="0.0" Max="100.0" />
           <Field Type="Variable" Name="Variable_3" Row="2" Column="0" Content="EbmpapstFan_1_Mng_2.SpeedReq_V_EBM_1" Class="Speed_Volt_EBM_2" Format="io+4.1" Min="0.0" Max="EbmpapstFan_1_Mng_2.ClosedLoopSensor_Max" />
           <Field Type="Variable" Name="Variable_4" Row="2" Column="3" Content="EbmpapstFan_1_Mng_2.SpeedReq_rpm_EBM_1" Class="Closed_loop_EBM_2" Format="io4" Min="0" Max="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.MaxSpeed" />
           <Field Type="Variable" Name="Variable_5" Row="2" Column="7" Content="EbmpapstFan_1_Mng_2.SetUoM_EBM" Class="ActiveCtrlMode_EBM_2" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="575" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="604" />
           <Field Type="Variable" Name="Variable_6" Row="3" Column="17" Content="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.DefSetVal" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="576" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="19" Content="577" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="605" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="19" Content="606" />
           <Field Type="Variable" Name="Variable_7" Row="4" Column="14" Content="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.CurrSpeed" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="578" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="607" />
           <Field Type="Variable" Name="Variable_8" Row="6" Column="17" Content="EbmpapstFan_1_Mng_2.DayNightInternalBool" Class="InternalParamSet_EBM_2" Format="ob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="1" Content="579" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="1" Content="608" />
           <Field Type="Variable" Name="Variable_1" Row="0" Column="11" Content="EbmpapstFan_1_Mng_2.ComStatus_EBM_1" Class="ComStatus_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_9" Row="5" Column="0" Content="EbmpapstFan_1_Mng_2.WriteParamsReq_EBM_1" Class="WriteParamsReq_EBM_2" Format="ob" Min="0" Max="1" />
         </Fields>
@@ -1626,34 +1673,34 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="582" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="611" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="19" Content="EbmpapstFan_1_Mng_2.En_EbmpapstFan_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="583" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="612" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng_2.Online_EBM_1" Class="FanStatus_EBM_2" Format="ob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="584" />
-          <Field Type="Text" Name="Text_4" Row="6" Column="20" Content="585" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="613" />
+          <Field Type="Text" Name="Text_4" Row="6" Column="20" Content="614" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="14" Content="EbmpapstFan_1_Mng_2.PollingT" Class="CL_UDINT" Format="o6" Min="0" Max="999999" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="580" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="581" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="609" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="610" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanStatus_1_EBM_1_Clone_2" Type="Normal" X="1" Y="2">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="586" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="587" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="588" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="615" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="616" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="617" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="15" Content="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.CurrSpeed" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="589" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="618" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="17" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.DC_Link_V" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="590" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="591" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="20" Content="592" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="619" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="620" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="20" Content="621" />
           <Field Type="Variable" Name="Variable_3" Row="6" Column="16" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.DC_Link_A" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_8" Row="0" Column="17" Content="593" />
+          <Field Type="Text" Name="Text_8" Row="0" Column="17" Content="622" />
           <Field Type="Variable" Name="Variable_4" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
         </Fields>
       </Mask>
@@ -1661,30 +1708,30 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="594" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="595" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="20" Content="596" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="623" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="624" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="20" Content="625" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="17" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.ElectrTemp" Class="CL_UINT" Format="o3" Min="0" Max="999" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="597" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="626" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="16" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.CurrPower" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="598" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="627" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="599" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="628" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_3_EBM_1_2" Type="Normal" X="1" Y="4">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="600" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="601" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="602" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="629" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="630" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="19" Content="631" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="15" Content="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.MaxSpeed" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
-          <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="603" />
+          <Field Type="Text" Name="Text_4" Row="6" Column="0" Content="632" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="16" Content="EbmpapstFan_1_Mng_2.CntWorkHrsBkp_EBM_1" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="604" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="21" Content="633" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="605" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="634" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="16" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.MaxPower" Class="MaxPower_EBM_2" Format="o5" Min="0" Max="9999" />
           <Field Type="Variable" Name="Variable" Row="4" Column="0" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.Version6" Min="0" Max="1" Class="MaxPowerText_EBM_2" Format="ob" SimulationValue="" />
         </Fields>
@@ -1693,19 +1740,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="606" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="607" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="635" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="636" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.CurrSenValSrc" Class="CurrSenValSrc_EBM_2" Format="io1" Min="0" Max="4" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="608" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="609" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="610" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="611" />
-          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="612" />
-          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="613" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="637" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="638" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="639" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="640" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="641" />
+          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="642" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.Ain1" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.Ain2" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="614" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="643" />
         </Fields>
         <EnableOn>
           <Var Name="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.NotRadiCal" />
@@ -1715,19 +1762,19 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="615" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="616" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="644" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="645" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.CurrSenValSrc" Class="CurrSenValSrcRadical_EBM_2" Format="io1" Min="0" Max="6" SimulationValue="" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="617" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="618" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="619" />
-          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="620" />
-          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="621" />
-          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="622" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="646" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="647" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="648" />
+          <Field Type="Text" Name="Text_7" Row="6" Column="0" Content="649" />
+          <Field Type="Text" Name="Text_8" Row="7" Column="0" Content="650" />
+          <Field Type="Text" Name="Text_9" Row="7" Column="21" Content="651" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.Ain1" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.Ain2" Class="CL_REAL_1" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="623" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="652" />
         </Fields>
         <EnableOn>
           <Var Name="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.RadiCal" />
@@ -1737,60 +1784,60 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="624" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="653" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="625" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="626" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="654" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="655" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="18" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FW_Info.Identification" Class="CL_UINT" Format="o4" Min="0" Max="9999" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="7" Content="EbmpapstFan_1_Mng_2.CurrParam_EBM_1" Class="CurrParamSet_EBM_2" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="627" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="656" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_6_EBM_1_2" Type="Normal" X="1" Y="8">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="628" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="657" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="629" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="630" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="658" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="659" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="17" Content="EbmpapstFan_1_Mng_2.MotStatus_EBM_1.IR_MotStatus" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="631" />
+          <Field Type="Text" Name="Text_4" Row="3" Column="0" Content="660" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="17" Content="EbmpapstFan_1_Mng_2.Warn_EBM_1.IR_Warn" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="632" />
+          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="661" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_7_EBM_1_2" Type="Normal" X="1" Y="9">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="633" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="662" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="634" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="635" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="663" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="664" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="17" Content="EbmpapstFan_1_Mng_2.CurrRotDir_EBM_1" Class="CurrRotDir_EBM_2" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="21" Content="636" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="21" Content="665" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="18" Content="EbmpapstFan_1_Mng_2.ElectrInfo_EBM_1.CurrModulLev" Class="CL_UINT" Format="o3" Min="0" Max="999" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="637" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="666" />
           <Field Type="Variable" Name="Variable_2" Row="7" Column="19" Content="EbmpapstFan_1_Mng_2.CtrlModeAct_EBM_1" Class="SpeedUnitMeas_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_5" Row="7" Column="14" Content="EbmpapstFan_1_Mng_2.CurrSetVal_rpm" Class="CurrSetVal_rpm_EBM_2" Format="o5" Min="0" Max="65535" />
           <Field Type="Variable" Name="Variable_6" Row="7" Column="13" Content="EbmpapstFan_1_Mng_2.CurrSetVal_perc" Class="CUrrSetVal_perc_EBM_2" Format="o+3.1" Min="-999.9" Max="999.9" />
           <Field Type="Variable" Name="Variable_7" Row="7" Column="14" Content="EbmpapstFan_1_Mng_2.CurrSetVal_volt" Class="CurrSetVal_volt_EBM_2" Format="o+2.1" Min="-99.9" Max="99.9" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="638" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="667" />
         </Fields>
       </Mask>
       <Mask Name="FanStatus_7b_EBM_1_2" Type="Normal" X="1" Y="10">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="639" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="668" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="640" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="669" />
           <Field Type="Variable" Name="Variable" Row="2" Column="14" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.AnemometerSpeed" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text" Row="2" Column="0" Content="641" />
+          <Field Type="Text" Name="Text" Row="2" Column="0" Content="670" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="13" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.MassFlow" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
-          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="642" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="643" />
+          <Field Type="Text" Name="Text_2" Row="6" Column="0" Content="671" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="672" />
           <Field Type="Variable" Name="Variable_4" Row="4" Column="13" Content="EbmpapstFan_1_Mng_2.SenVal_EBM_1.AirFlow" Class="CL_UINT" Format="o5" Min="0" Max="65535" />
         </Fields>
         <EnableOn>
@@ -1801,17 +1848,17 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="644" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="673" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="645" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="646" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="674" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="675" />
           <Field Type="Variable" Name="Variable_1" Row="3" Column="12" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.Prod_year" Class="CL_USINT" Format="o2" Min="0" Max="99" />
           <Field Type="Variable" Name="Variable_2" Row="3" Column="14" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.Prod_wk" Class="CL_USINT" Format="o2" Min="0" Max="99" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="18" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.SerNo_dig1" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_5" Row="3" Column="19" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.SerNo_dig2" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_6" Row="3" Column="20" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.SerNo_dig3" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_7" Row="3" Column="21" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.SerNo.SerNo_dig4" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="647" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="676" />
           <Field Type="Variable" Name="Variable_8" Row="5" Column="10" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char01" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_9" Row="5" Column="11" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char02" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_10" Row="5" Column="12" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char03" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
@@ -1824,68 +1871,68 @@
           <Field Type="Variable" Name="Variable_17" Row="5" Column="19" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char10" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_18" Row="5" Column="20" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char11" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_19" Row="5" Column="21" Content="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.FanTyp.Char12" Class="ASCII_Dig_EBM_2" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="648" />
+          <Field Type="Text" Name="Text_5" Row="0" Column="17" Content="677" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_1_EBM_1_2" Type="Normal" X="1" Y="12">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="649" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="678" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="650" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="679" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="9" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.SrcSetVal" Class="SrcSetVal_EBM_2" Format="io1" Min="0" Max="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.SrcSetVal_LimUp" SimulationValue="" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="651" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="680" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.CtrlModeDay" Class="CtrModeDayNight_EBM_2" Format="io1" Min="0" Max="2" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="652" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="681" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.CtrlModeNight" Class="CtrModeDayNight_EBM_2" Format="io1" Min="0" Max="2" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="653" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="682" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_2_EBM_1_2" Type="Normal" X="1" Y="13">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="654" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="683" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="655" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="684" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="18" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.RampUpT" Class="CL_UINT" Format="io3" Min="0" Max="625" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="21" Content="656" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="657" />
-          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="658" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="21" Content="685" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="686" />
+          <Field Type="Text" Name="Text_5" Row="4" Column="21" Content="687" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="18" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.RampDwnT" Class="CL_UINT" Format="io3" Min="0" Max="625" />
-          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="659" />
+          <Field Type="Text" Name="Text_6" Row="0" Column="17" Content="688" />
         </Fields>
       </Mask>
       <Mask Name="FanCfg_3_EBM_1_2" Type="Normal" X="1" Y="14">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="662" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="691" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="663" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="664" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="665" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="692" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="693" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="694" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.ParamSetSrc" Class="ParamSetSrc_EBM_2" Format="io1" Min="0" Max="EbmpapstFan_1_Mng_2.FanInfo_EBM_1.UiParams.ParamSetSrc_LimUp" SimulationValue="1" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.InternParamSet" Class="InternalParam_EBM_2" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="16" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.PrefRunDir" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="666" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="695" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="660" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="661" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="689" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="690" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_4_EBM_1_2" Type="Normal" X="1" Y="15">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="667" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="668" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="696" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="697" />
           <Field Type="Variable" Name="Variable_2" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="669" />
-          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="670" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="671" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="698" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="0" Content="699" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="0" Content="700" />
           <Field Type="Variable" Name="Variable" Row="2" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.IOConf1" Class="IOConf1_EBM_2" Format="io1" Min="0" Max="3" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="4" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.IOConf2" Class="IOConf2_EBM_2" Format="io1" Min="0" Max="2" SimulationValue="" />
           <Field Type="Variable" Name="Variable_4" Row="6" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.IOConf3" Class="IOConf3_EBM_2" Format="io1" Min="0" Max="5" SimulationValue="" />
@@ -1898,11 +1945,11 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="672" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="673" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="701" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="17" Content="702" />
           <Field Type="Variable" Name="Variable_2" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="674" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="675" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="703" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="704" />
           <Field Type="Variable" Name="Variable" Row="3" Column="0" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.SwitchEnableSource" Class="SwitchEnableSource_EBM_2" Format="io1" Min="0" Max="6" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="5" Column="15" Content="EbmpapstFan_1_Mng_2.CfgParams_EBM_1.RFIDen" Class="Rfid_EBM_2" Format="io1" Min="0" Max="1" SimulationValue="" />
         </Fields>
@@ -1914,33 +1961,33 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="678" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="707" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="2" Column="0" Content="679" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="680" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="681" />
+          <Field Type="Text" Name="Text_9" Row="2" Column="0" Content="708" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="709" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="710" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="19" Content="EbmpapstFan_1_Mng_2.FW_Reboot_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="19" Content="EbmpapstFan_1_Mng_2.LdNewVal_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="19" Content="EbmpapstFan_1_Mng_2.ResAlrmInternal_EBM_1" Class="CL_BOOL_SWAP" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="682" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="711" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="676" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="677" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="705" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="706" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_7_EBM_1_2" Type="Normal" X="1" Y="18">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="683" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="712" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="684" />
-          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="685" />
-          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="686" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="687" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="688" />
-          <Field Type="Text" Name="Text_6" Row="5" Column="20" Content="689" />
+          <Field Type="Text" Name="Text_9" Row="1" Column="0" Content="713" />
+          <Field Type="Text" Name="Text_2" Row="2" Column="0" Content="714" />
+          <Field Type="Text" Name="Text_3" Row="3" Column="0" Content="715" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="716" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="717" />
+          <Field Type="Text" Name="Text_6" Row="5" Column="20" Content="718" />
           <Field Type="Variable" Name="Variable_1" Row="1" Column="18" Content="EbmpapstFan_1_Mng_2.EmergencySet_rpm_EBM_1" Class="CL_DINT" Format="io4" Min="0" Max="EbmpapstFan_1_Mng_2.InfoSpeed_EBM_1.MaxSpeed" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="16" Content="EbmpapstFan_1_Mng_2.EmergencySet_perc_EBM_1" Class="CL_REAL_1" Format="io+3.1" Min="0.0" Max="100.0" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="17" Content="EbmpapstFan_1_Mng_2.EmergencySet_V_EBM_1" Class="CL_REAL_1" Format="io+2.1" Min="0.0" Max="10.0" />
@@ -1954,41 +2001,41 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="692" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="721" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="693" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="722" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="16" Content="EbmpapstFan_1_Mng_2.SerInterfaceSet_EBM_1.CfgProtocol.DevAddr" Class="CL_UDINT" Format="io6" Min="0" Max="999999" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="694" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="695" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="696" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="723" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="724" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="725" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="19" Content="EbmpapstFan_1_Mng_2.SerInterfaceSet_EBM_1.FanSerInterfSet.En_ChgAddr" Class="ChgAddr_EBM_2" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="697" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="726" />
           <Field Type="Variable" Name="Variable_4" Row="7" Column="0" Content="EbmpapstFan_1_Mng_2.ParamsChgComStatus_EBM_1.StatusNewAddrProc" Class="NewAddrProc_EBM_2" Format="o1" Min="0" Max="9" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="690" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="691" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="719" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="720" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="FanCfg_9_EBM_1_2" Type="Normal" X="1" Y="20">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="700" />
+          <Field Type="Text" Name="Text_1" Row="2" Column="0" Content="729" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="19" Content="DevNo_EBM_1" Class="CL_USINT" Format="o3" Min="0" Max="255" />
-          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="701" />
-          <Field Type="Text" Name="Text_2" Row="5" Column="0" Content="702" />
-          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="703" />
+          <Field Type="Text" Name="Text_4" Row="0" Column="17" Content="730" />
+          <Field Type="Text" Name="Text_2" Row="5" Column="0" Content="731" />
+          <Field Type="Text" Name="Text_3" Row="6" Column="0" Content="732" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="19" Content="EbmpapstFan_1_Mng_2.SerInterfaceSet_EBM_1.FanSerInterfSet.En_ChgCommInterfaceSet" Class="ChgSernIterface_EBM_2" Format="iob" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="704" />
-          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="705" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="19" Content="733" />
+          <Field Type="Text" Name="Text_7" Row="3" Column="0" Content="734" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="16" Content="EbmpapstFan_1_Mng_2.SerInterfaceSet_EBM_1.FanSerInterfSet.Baudrate" Class="FanBaudrate_EBM_2" Format="io1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="19" Content="EbmpapstFan_1_Mng_2.SerInterfaceSet_EBM_1.FanSerInterfSet.ParityConf" Class="ParityCfg_EBM_2" Format="io1" Min="0" Max="3" />
           <Field Type="Variable" Name="Variable_5" Row="7" Column="0" Content="EbmpapstFan_1_Mng_2.ParamsChgComStatus_EBM_1.CommChangeStatus" Class="ComChangeProc_EBM_2" Format="o1" Min="0" Max="9" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="698" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="699" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="727" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="728" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
     </Loop>
@@ -1998,10 +2045,10 @@
       <Fields>
         <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgRebootDummy" Format="ib" Min="0" Max="1" />
         <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-        <Field Type="Text" Name="Text" Row="0" Column="1" Content="766" />
-        <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="767" />
-        <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="768" />
-        <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="769" />
+        <Field Type="Text" Name="Text" Row="0" Column="1" Content="795" />
+        <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="796" />
+        <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="797" />
+        <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="798" />
         <Field Type="Variable" Name="Variable" Row="5" Column="19" Content="IPCfgMng.GenNetCfg.EnReboot" Class="IPCfg_EnReboot" Format="io1" Min="0" Max="1" SimulationValue="0" />
       </Fields>
       <KeyBindings>
@@ -2011,22 +2058,22 @@
     <Loop Name="DATETIME" X="0" Y="1">
       <Mask Name="DateTimeChg" Type="Normal" X="0" Y="2" Color="LightCoral">
         <Fields>
-          <Field Type="Text" Name="Text_1" Row="3" Column="16" Content="706" />
-          <Field Type="Text" Name="Text_5" Row="3" Column="19" Content="707" />
+          <Field Type="Text" Name="Text_1" Row="3" Column="16" Content="735" />
+          <Field Type="Text" Name="Text_5" Row="3" Column="19" Content="736" />
           <Field Type="Variable" Name="Variable_9" Row="4" Column="17" Content="GeneralMng.MinuteIn" Class="EnDateChg" Format="io2z" Min="0" Max="59" />
           <Field Type="Variable" Name="Variable_10" Row="4" Column="14" Content="GeneralMng.HourIn" Class="EnDateChg" Format="io2z" Min="0" Max="24" />
-          <Field Type="Text" Name="Text_6" Row="4" Column="16" Content="708" />
-          <Field Type="Text" Name="Text_7" Row="0" Column="1" Content="709" />
-          <Field Type="Text" Name="Text_8" Row="4" Column="19" Content="710" />
+          <Field Type="Text" Name="Text_6" Row="4" Column="16" Content="737" />
+          <Field Type="Text" Name="Text_7" Row="0" Column="1" Content="738" />
+          <Field Type="Text" Name="Text_8" Row="4" Column="19" Content="739" />
           <Field Type="Variable" Name="Variable_11" Row="4" Column="20" Content="GeneralMng.SecondIn" Class="EnDateChg" Format="io2z" Min="0" Max="59" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="711" />
-          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="712" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="740" />
+          <Field Type="Text" Name="Text_3" Row="4" Column="0" Content="741" />
           <Field Type="Variable" Name="Variable_1" Row="0" Column="0" Content="dummy" Class="DummyService" Format="ib" Min="0" Max="1" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="12" Content="GeneralMng.DayOfWeek" Class="DayOfWeek" Format="o1" Min="0" Max="9" />
-          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="713" />
+          <Field Type="Text" Name="Text_4" Row="2" Column="0" Content="742" />
           <Field Type="Variable" Name="Variable_3" Row="2" Column="14" Content="GeneralMng.DateFormat" Class="DateFormat" Format="io1" Min="0" Max="2" />
-          <Field Type="Text" Name="Text_9" Row="5" Column="0" Content="714" />
+          <Field Type="Text" Name="Text_9" Row="5" Column="0" Content="743" />
           <Field Type="Variable" Name="Variable" Row="3" Column="14" Content="GeneralMng.DayIn" Min="1" Max="31" Class="EnDateDDMMYY" Format="io2z" />
           <Field Type="Variable" Name="Variable_4" Row="3" Column="14" Content="GeneralMng.MonthIn" Min="1" Max="12" Class="EnDateMMDDYY" Format="io2z" />
           <Field Type="Variable" Name="Variable_5" Row="3" Column="14" Content="GeneralMng.YearIn" Min="0" Max="99" Class="EnDateYYMMDD" Format="io2z" />
@@ -2046,8 +2093,8 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="DummyService" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="717" />
-          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="718" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="746" />
+          <Field Type="Text" Name="Text_3" Row="1" Column="0" Content="747" />
           <Field Type="Variable" Name="Variable" Row="2" Column="0" Content="GeneralMng.TZ_Name" Class="CL_STRING" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_2" Row="2" Column="0" Content="GeneralMng.TZ_Idx" Min="1" Max="GeneralMng.TZ_IdxMax" Class="TZ_IdxChg" Format="i3" />
         </Fields>
@@ -2056,8 +2103,8 @@
           <KeyBinding Key="UP" BindOn="Move_UP" />
         </KeyBindings>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="715" Type="Text" Font="SimSun" />
-          <Index Value="1" Content="716" Type="Text" Font="SimSun" />
+          <Index Value="0" Content="744" Type="Text" Font="SimSun" />
+          <Index Value="1" Content="745" Type="Text" Font="SimSun" />
         </ResourceUsedOnBool>
       </Mask>
     </Loop>
@@ -2066,13 +2113,13 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="721" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="722" />
-          <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="723" />
-          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="724" />
-          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="725" />
-          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="726" />
-          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="727" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="750" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="751" />
+          <Field Type="Text" Name="Text_3" Row="2" Column="0" Content="752" />
+          <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="753" />
+          <Field Type="Text" Name="Text_5" Row="5" Column="0" Content="754" />
+          <Field Type="Text" Name="Text_6" Row="6" Column="0" Content="755" />
+          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="756" />
           <Field Type="Variable" Name="Variable" Row="6" Column="18" Content="GeneralMng.PARITY" Class="Parity" Format="io4" Min="0" Max="2" />
           <Field Type="Variable" Name="Variable_2" Row="4" Column="16" Content="GeneralMng.SPEED" Class="Baudrate" Format="io6" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_3" Row="3" Column="3" Content="GeneralMng.ProtTyp_BMS2" Class="ProtTyp_BMS" Format="io3" Min="0" Max="2" />
@@ -2080,17 +2127,17 @@
           <Field Type="Variable" Name="Variable_5" Row="5" Column="21" Content="GeneralMng.STOP" Class="StopBit" Format="io1" Min="1" Max="2" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="719" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
-          <Index Value="1" Content="720" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+          <Index Value="0" Content="748" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+          <Index Value="1" Content="749" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
         </ResourceUsedOnBool>
       </Mask>
       <Mask Name="EnterIPCfg" Type="Normal" X="2" Y="3" Color="255, 155, 160">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgMainDummy" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="728" />
-          <Field Type="Text" Name="Text" Row="3" Column="0" Content="729" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="730" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="757" />
+          <Field Type="Text" Name="Text" Row="3" Column="0" Content="758" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="759" />
         </Fields>
         <KeyBindings>
           <KeyBinding Key="ENTER" BindOn="IPCFG_Dummy_ENTER" />
@@ -2100,13 +2147,13 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="731" />
-          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="732" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="760" />
+          <Field Type="Text" Name="Text_2" Row="3" Column="0" Content="761" />
           <Field Type="Variable" Name="Variable" Row="5" Column="3" Content="GeneralMng.IPAddress_1" Min="0" Max="255" Class="CL_UDINT" Format="io3" />
-          <Field Type="Text" Name="Text" Row="5" Column="6" Content="733" />
+          <Field Type="Text" Name="Text" Row="5" Column="6" Content="762" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="7" Content="GeneralMng.IPAddress_2" Min="0" Max="255" Class="CL_UDINT" Format="io3" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="10" Content="734" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="14" Content="735" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="10" Content="763" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="14" Content="764" />
           <Field Type="Variable" Name="Variable_3" Row="5" Column="11" Content="GeneralMng.IPAddress_3" Min="0" Max="255" Class="CL_UDINT" Format="io3" />
           <Field Type="Variable" Name="Variable_4" Row="5" Column="15" Content="GeneralMng.IPAddress_4" Min="0" Max="255" Class="CL_UDINT" Format="io3" />
         </Fields>
@@ -2115,13 +2162,13 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="738" />
-          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="739" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="767" />
+          <Field Type="Text" Name="Text_2" Row="4" Column="0" Content="768" />
           <Field Type="Variable" Name="Variable" Row="4" Column="18" Content="OnOffUnitMng.EnBmsOnOff" Min="0" Max="1" Class="BoolGenericClass" Format="iob" SimulationValue="" />
         </Fields>
         <ResourceUsedOnBool>
-          <Index Value="0" Content="736" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
-          <Index Value="1" Content="737" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+          <Index Value="0" Content="765" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
+          <Index Value="1" Content="766" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_STD" FontHeight="10" ProportionalCharWidth="true" />
         </ResourceUsedOnBool>
       </Mask>
     </Loop>
@@ -2130,7 +2177,7 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="740" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="769" />
           <Field Type="Image" Name="Image_2" Row="2" Column="0" Content="Key_36x16.bmp" />
           <Field Type="Image" Name="Image_3" Row="7" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_1" Row="2" Column="18" Content="PwdUser" Class="PwdChgU" Format="io4z" Min="0" Max="9999" />
@@ -2149,15 +2196,15 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="DummyManuf" Format="ib" Min="0" Max="1" SimulationValue="" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="3" Column="0" Content="741" />
+          <Field Type="Text" Name="Text_1" Row="3" Column="0" Content="770" />
           <Field Type="Variable" Name="Variable_1" Row="4" Column="18" Content="AlrmLogDelete" Class="AlarmLogDelete" Format="iob" Min="0" Max="1" SimulationValue="" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="742" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="1" Content="743" />
-          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="744" />
-          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="745" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="771" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="1" Content="772" />
+          <Field Type="Text" Name="Text_4" Row="5" Column="0" Content="773" />
+          <Field Type="Text" Name="Text_5" Row="6" Column="0" Content="774" />
           <Field Type="Variable" Name="Variable_2" Row="6" Column="18" Content="ClrAutoResCounters" Class="ClrAutoResCounters" Format="iob" Min="0" Max="1" SimulationValue="" />
-          <Field Type="Text" Name="Text_6" Row="4" Column="0" Content="746" />
-          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="747" />
+          <Field Type="Text" Name="Text_6" Row="4" Column="0" Content="775" />
+          <Field Type="Text" Name="Text_7" Row="7" Column="0" Content="776" />
           <Field Type="Variable" Name="Variable_3" Row="7" Column="18" Content="GeneralMng.RESERVED3" Class="BoolGenericClass" Format="iob" Min="0" Max="1" />
         </Fields>
         <KeyBindings />
@@ -2166,11 +2213,11 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="DummyManufUnitOff" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_1" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="748" />
-          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="749" />
-          <Field Type="Text" Name="Text" Row="3" Column="0" Content="750" />
-          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="751" />
-          <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="752" />
+          <Field Type="Text" Name="Text_1" Row="0" Column="1" Content="777" />
+          <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="778" />
+          <Field Type="Text" Name="Text" Row="3" Column="0" Content="779" />
+          <Field Type="Text" Name="Text_3" Row="5" Column="0" Content="780" />
+          <Field Type="Text" Name="Text_4" Row="7" Column="0" Content="781" />
           <Field Type="Variable" Name="Variable" Row="3" Column="18" Content="En_WipeRetain" Class="WipeMem" Format="iob" Min="0" Max="1" SimulationValue="" />
           <Field Type="Variable" Name="Variable_2" Row="5" Column="18" Content="En_WipeNVRAM" Class="WipeMem" Format="iob" Min="0" Max="1" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="7" Column="18" Content="En_WipeAll" Class="WipeMem" Format="iob" Min="0" Max="1" />
@@ -2182,7 +2229,7 @@
       <Mask Name="UoM_UI" Type="Normal" X="1" Y="2" Color="255, 140, 160" ZoomCode="4">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="753" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="0" Content="782" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable" Row="3" Column="0" Content="STD_UOM_ZONE_UI" Min="0" Max="6" Class="STD_UOM_ZONE_UI" Format="io1" />
         </Fields>
@@ -2190,7 +2237,7 @@
       <Mask Name="UoM_WEB" Type="Normal" X="1" Y="3" Color="255, 140, 160" ZoomCode="4">
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="CL_Move" Format="ib" Min="0" Max="1" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="754" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="783" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
           <Field Type="Variable" Name="Variable_2" Row="3" Column="0" Content="STD_UOM_ZONE_WEB" Min="0" Max="6" Class="STD_UOM_ZONE_WEB" Format="io1" />
         </Fields>
@@ -2198,8 +2245,8 @@
     </Loop>
     <Mask Name="RebootingIPCfg" Type="Normal" X="2" Y="0" Color="211, 211, 211">
       <Fields>
-        <Field Type="Text" Name="Text" Row="2" Column="6" Content="770" />
-        <Field Type="Text" Name="Text_2" Row="5" Column="4" Content="771" />
+        <Field Type="Text" Name="Text" Row="2" Column="6" Content="799" />
+        <Field Type="Text" Name="Text_2" Row="5" Column="4" Content="800" />
       </Fields>
       <KeyBindings>
         <KeyBinding Key="ALARM" BindOn="DoNothing" />
@@ -2213,23 +2260,23 @@
     <Mask Name="ErrorIPCfg" Type="Normal" X="1" Y="0" Color="211, 211, 211">
       <Fields>
         <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgErrDummy" Format="ib" Min="0" Max="1" />
-        <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="772" />
+        <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="801" />
         <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Type="Variable" Name="Variable_2" Row="5" Column="0" Content="IPCfgMng.GenNetCfg.SysErr" Class="SystemErrorsMsg" Format="o2" Min="0" Max="99" SimulationValue="9" />
-        <Field Type="Text" Name="Text" Row="2" Column="0" Content="773" />
+        <Field Type="Text" Name="Text" Row="2" Column="0" Content="802" />
       </Fields>
     </Mask>
     <Mask Name="SettingsIPCfg" Type="Normal" X="3" Y="0" Color="211, 211, 211">
       <Fields>
-        <Field Type="Text" Name="Text_3" Row="0" Column="1" Content="776" />
+        <Field Type="Text" Name="Text_3" Row="0" Column="1" Content="805" />
         <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
         <Field Name="Variable_2" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgDummySettings" Format="ib" Min="0" Max="1" />
-        <Field Type="Text" Name="Text" Row="2" Column="0" Content="777" />
-        <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="778" />
-        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="779" />
+        <Field Type="Text" Name="Text" Row="2" Column="0" Content="806" />
+        <Field Type="Text" Name="Text_2" Row="1" Column="0" Content="807" />
+        <Field Type="Text" Name="Text_4" Row="4" Column="0" Content="808" />
         <Field Type="Variable" Name="Variable" Row="2" Column="19" Content="IPCfgMng.GenNetCfg.DisableConstantReading" Min="0" Max="1" Class="IPCfg_EnContinuousReading" Format="iob" SimulationValue="0" />
         <Field Type="Variable" Name="Variable_3" Row="4" Column="17" Content="IPCfgMng.GenNetCfg.IntervalReadIP_msk" Class="CL_UDINT" Format="io2" Min="5" Max="60" SimulationValue="15" />
-        <Field Type="Text" Name="Text_5" Row="4" Column="19" Content="780" />
+        <Field Type="Text" Name="Text_5" Row="4" Column="19" Content="809" />
         <Field Type="Variable" Name="Variable_4" Row="6" Column="15" Content="IPCfgMng.GenNetCfg.DisableIP_msk" Class="IPCfgShowTimeout" Format="io4" Min="5" Max="1440" SimulationValue="5" />
       </Fields>
       <KeyBindings>
@@ -2238,8 +2285,8 @@
         <KeyBinding Key="ALARM" BindOn="DoNothing" />
       </KeyBindings>
       <ResourceUsedOnBool>
-        <Index Value="0" Content="774" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
-        <Index Value="1" Content="775" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+        <Index Value="0" Content="803" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
+        <Index Value="1" Content="804" Type="Text" TextFactor="2" LimitText="false" Font="CAREL_TERM_INT" FontHeight="9" ProportionalCharWidth="true" />
       </ResourceUsedOnBool>
     </Mask>
     <Loop Name="IPCFG_LOOP" X="5" Y="1">
@@ -2247,9 +2294,9 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgConfigDummy" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="755" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="756" />
-          <Field Type="Text" Name="Text" Row="1" Column="0" Content="757" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="784" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="785" />
+          <Field Type="Text" Name="Text" Row="1" Column="0" Content="786" />
           <Field Type="Variable" Name="Variable_14" Row="0" Column="21" Content="IPCfgMng.GenNetCfg.PgLimit" Class="CL_SINT" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_13" Row="1" Column="8" Content="IPCfgMng.IPV4Cfg.Status" Class="IPCfg_v4_Status" Format="io1" Min="0" Max="2" SimulationValue="" />
           <Field Type="Variable" Name="Variable_15" Row="3" Column="0" Content="IPCfgMng.IPV4Cfg.EnAddr" Min="0" Max="1" Class="IPCfg_v4_IP" Format="ob" />
@@ -2310,9 +2357,9 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgConfigDummy" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="758" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="759" />
-          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="760" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="787" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="788" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="789" />
           <Field Type="Variable" Name="Variable_2" Row="1" Column="8" Content="IPCfgMng.IPV6Cfg.Status" Class="IPCfg_v6_Status" Format="io1" Min="0" Max="2" SimulationValue="" />
           <Field Type="Variable" Name="Variable_3" Row="5" Column="0" Content="IPCfgMng.IPV6Cfg.EnAddr" Min="0" Max="1" Class="IPCfg_v6_PA" Format="ob" />
           <Field Type="Variable" Name="Variable_4" Row="2" Column="0" Content="IPCfgMng.IPV6Cfg.EnAddr" Min="0" Max="1" Class="IPCfg_v6_LL" Format="ob" />
@@ -2439,9 +2486,9 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgConfigDummy" Format="ib" Min="0" Max="1" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="761" />
-          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="762" />
-          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="763" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="790" />
+          <Field Type="Text" Name="Text_3" Row="0" Column="19" Content="791" />
+          <Field Type="Text" Name="Text_4" Row="1" Column="0" Content="792" />
           <Field Type="Variable" Name="Variable_2" Row="1" Column="8" Content="IPCfgMng.IPV6Cfg.Status" Class="IPCfg_v6_Status" Format="io1" Min="0" Max="2" SimulationValue="" />
           <Field Type="Variable" Name="Variable_4" Row="5" Column="0" Content="IPCfgMng.IPV6Cfg.EnAddr" Min="0" Max="1" Class="IPCfg_v6_DNS" Format="ob" />
           <Field Type="Variable" Name="Variable_5" Row="2" Column="0" Content="IPCfgMng.IPV6Cfg.EnAddr" Min="0" Max="1" Class="IPCfg_v6_GW" Format="ob" />
@@ -2600,8 +2647,8 @@
         <Fields>
           <Field Name="Move" Type="Variable" Content="dummy" Column="0" Row="0" Class="IPCfgConfigDummy" Format="ib" Min="0" Max="1" SimulationValue="" />
           <Field Type="Image" Name="Image_2" Row="0" Column="0" Content="BLACK_ROWS_132X8.BMP" />
-          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="764" />
-          <Field Type="Text" Name="Text" Row="0" Column="20" Content="765" />
+          <Field Type="Text" Name="Text_2" Row="0" Column="1" Content="793" />
+          <Field Type="Text" Name="Text" Row="0" Column="20" Content="794" />
           <Field Type="Variable" Name="Variable_2" Row="0" Column="19" Content="IPCfgMng.GenNetCfg.PgLimit" Class="CL_SINT" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_3" Row="0" Column="21" Content="IPCfgMng.GenNetCfg.PgLimit" Class="CL_SINT" Format="o1" Min="0" Max="9" />
           <Field Type="Variable" Name="Variable_5" Row="4" Column="17" Content="IPCfgMng.GenNetCfg.UpdCfg" Class="IPCfg_SaveCfg" Format="io1" Min="0" Max="1" SimulationValue="" />

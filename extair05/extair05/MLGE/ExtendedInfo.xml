@@ -69,6 +69,9 @@
   <AcfElementGuid Guid="1a69bdf7-4f70-4d75-93a1-ccfa93175725">
     <File>ElectricalInfo_Ebmpapst.acfmlge</File>
   </AcfElementGuid>
+  <AcfElementGuid Guid="1a7c2b98-9b46-4ac8-b5c6-11d34afcab51">
+    <File>HWtoHumidityRelative.AcfMlge</File>
+  </AcfElementGuid>
   <AcfElementGuid Guid="1c968a6b-fca2-485c-8456-a31c2d9869f3">
     <File>selectmode.acfmlge</File>
   </AcfElementGuid>
@@ -167,6 +170,9 @@
   </AcfElementGuid>
   <AcfElementGuid Guid="46810cdf-6174-410f-ac46-a44764700379">
     <File>RealToInt.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="478365c1-6f3c-404c-b080-82408d564835">
+    <File>HW_DH_Copy_1.acfmlge</File>
   </AcfElementGuid>
   <AcfElementGuid Guid="49da0c80-d7ab-4ca5-8fb1-a6fd899d0749">
     <File>UnitMeasTempDelta_INT.AcfMlge</File>

@@ -202,6 +202,8 @@ HW delta
 T delta S-ext
 Ž
 g
+kwh Total
+kwh
 OVER VIEW
 4
 VENT Haut
@@ -365,6 +367,10 @@ Registre ON 1
 Registre ON 2
 Registre ON 3
 %
+reset kwh
+kwh total
+:
+:
 HAUPTSEITE
 /
 /
@@ -865,10 +871,12 @@ Line imp. high EBM 2
 Speed limit exceed EBM 2
 Rotor position sensor calibration error EBM 2
 Calibration of rotor position sensor in progress EBM 2
+Filtre sature
 Start
 Stopp
 AL*01
 AL*02
+ AL*02
  AL*03
  AL*04
  AL*05
@@ -2391,6 +2399,7 @@ FREECOOL
 FREEDESHU
 DESHU
 BRASSAGE
+ETALONNAGE
 Speic. schr:
 Beispiel1:
 Beispiel1:

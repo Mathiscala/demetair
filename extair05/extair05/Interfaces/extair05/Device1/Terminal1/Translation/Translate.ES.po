@@ -438,6 +438,11 @@ msgid "Calibration of rotor position sensor in progress EBM 2"
 msgstr ""
 
 #: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:73]"
+msgid "Filtre sature"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:AlrmLogEvent][Resource:0]"
 msgid "Start"
 msgstr "Start"
@@ -2445,6 +2450,11 @@ msgstr ""
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:399]"
 msgid " T:AL*400"
+msgstr ""
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:400]"
+msgid " AL*400"
 msgstr ""
 
 #: Classes.otsf
@@ -8088,6 +8098,11 @@ msgid "BREASSAGE"
 msgstr ""
 
 #: Classes.otsf
+msgctxt "[Class:MODE][Resource:7]"
+msgid "ETALONNAGE"
+msgstr ""
+
+#: Classes.otsf
 msgctxt "[Class:Month][Resource:0]"
 msgid ""
 msgstr ""
@@ -12068,6 +12083,21 @@ msgid "%"
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_6]"
+msgid "reset KWH"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_7]"
+msgid "reset KWH"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_9]"
 msgid ":"
 msgstr ""
@@ -12079,6 +12109,11 @@ msgstr ""
 
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_12]"
 msgid ":"
 msgstr ""
 
@@ -12183,6 +12218,26 @@ msgid "4"
 msgstr ""
 
 #: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_7]"
+msgid "m"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_8]"
+msgid "m"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_11]"
+msgid "OFFSET"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_12]"
+msgid "OFFSET"
+msgstr ""
+
+#: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text]"
 msgid "Normal mode"
 msgstr ""
@@ -12250,6 +12305,16 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text_11]"
 msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_4]"
+msgid "LIMminM3H"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_5]"
+msgid "M3H"
 msgstr ""
 
 #: 02_Main.otws
@@ -12825,6 +12890,101 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_23]"
 msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text]"
+msgid "SEL DESHU"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_2]"
+msgid "SP DH"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_3]"
+msgid "1"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_4]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_5]"
+msgid "SP Jour HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_6]"
+msgid "g/M^3"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_7]"
+msgid "SP Nuit HR"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_8]"
+msgid "SP Actu"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_9]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_10]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_12]"
+msgid "SP Nuit DH"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_13]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_14]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_15]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_16]"
+msgid "%"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_17]"
+msgid "SP Nuit DH"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_18]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_19]"
+msgid "g/m^3"
 msgstr ""
 
 #: 02_Main.otws

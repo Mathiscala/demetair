@@ -438,6 +438,11 @@ msgid "Calibration of rotor position sensor in progress EBM 2"
 msgstr ""
 
 #: Classes.otsf
+msgctxt "[Class:AlrmDescr][Resource:73]"
+msgid "Filtre sature"
+msgstr "Filtre sature"
+
+#: Classes.otsf
 msgctxt "[Class:AlrmLogEvent][Resource:0]"
 msgid "Start"
 msgstr "Start"
@@ -450,2002 +455,2007 @@ msgstr " Stop"
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:0]"
 msgid "AL*01"
-msgstr "AL*01"
+msgstr "AL*00"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:1]"
 msgid "AL*02"
-msgstr " AL*02"
+msgstr "AL*01"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:2]"
 msgid " T:AL*03"
-msgstr " AL*03"
+msgstr " AL*02"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:3]"
 msgid " T:AL*04"
-msgstr " AL*04"
+msgstr " AL*03"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:4]"
 msgid " T:AL*05"
-msgstr " AL*05"
+msgstr " AL*04"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:5]"
 msgid " T:AL*06"
-msgstr " AL*06"
+msgstr " AL*05"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:6]"
 msgid " T:AL*07"
-msgstr " AL*07"
+msgstr " AL*06"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:7]"
 msgid " T:AL*08"
-msgstr " AL*08"
+msgstr " AL*07"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:8]"
 msgid " T:AL*09"
-msgstr " AL*09"
+msgstr " AL*08"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:9]"
 msgid " T:AL*10"
-msgstr " AL*10"
+msgstr " AL*09"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:10]"
 msgid "AL*11"
-msgstr ""
+msgstr " AL*10"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:11]"
 msgid " T:AL*12"
-msgstr " AL*12"
+msgstr "AL*11"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:12]"
 msgid " T:AL*13"
-msgstr " AL*13"
+msgstr " AL*12"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:13]"
 msgid " T:AL*14"
-msgstr " AL*14"
+msgstr " AL*13"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:14]"
 msgid " T:AL*15"
-msgstr " AL*15"
+msgstr " AL*14"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:15]"
 msgid " T:AL*16"
-msgstr " AL*16"
+msgstr " AL*15"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:16]"
 msgid " T:AL*17"
-msgstr " AL*17"
+msgstr " AL*16"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:17]"
 msgid " T:AL*18"
-msgstr " AL*18"
+msgstr " AL*17"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:18]"
 msgid " T:AL*19"
-msgstr " AL*19"
+msgstr " AL*18"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:19]"
 msgid " T:AL*20"
-msgstr " AL*20"
+msgstr " AL*19"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:20]"
 msgid "AL*21"
-msgstr ""
+msgstr " AL*20"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:21]"
 msgid " T:AL*22"
-msgstr " AL*22"
+msgstr "AL*21"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:22]"
 msgid " T:AL*23"
-msgstr " AL*23"
+msgstr " AL*22"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:23]"
 msgid " T:AL*24"
-msgstr " AL*24"
+msgstr " AL*23"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:24]"
 msgid " T:AL*25"
-msgstr " AL*25"
+msgstr " AL*24"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:25]"
 msgid " T:AL*26"
-msgstr " AL*26"
+msgstr " AL*25"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:26]"
 msgid " T:AL*27"
-msgstr " AL*27"
+msgstr " AL*26"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:27]"
 msgid " T:AL*28"
-msgstr " AL*28"
+msgstr " AL*27"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:28]"
 msgid " T:AL*29"
-msgstr " AL*29"
+msgstr " AL*28"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:29]"
 msgid " T:AL*30"
-msgstr " AL*30"
+msgstr " AL*29"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:30]"
 msgid "AL*31"
-msgstr ""
+msgstr " AL*30"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:31]"
 msgid " T:AL*32"
-msgstr " AL*32"
+msgstr "AL*31"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:32]"
 msgid " T:AL*33"
-msgstr " AL*33"
+msgstr " AL*32"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:33]"
 msgid " T:AL*34"
-msgstr " AL*34"
+msgstr " AL*33"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:34]"
 msgid " T:AL*35"
-msgstr " AL*35"
+msgstr " AL*34"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:35]"
 msgid " T:AL*36"
-msgstr " AL*36"
+msgstr " AL*35"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:36]"
 msgid " T:AL*37"
-msgstr " AL*37"
+msgstr " AL*36"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:37]"
 msgid " T:AL*38"
-msgstr " AL*38"
+msgstr " AL*37"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:38]"
 msgid " T:AL*39"
-msgstr " AL*39"
+msgstr " AL*38"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:39]"
 msgid " T:AL*40"
-msgstr " AL*40"
+msgstr " AL*39"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:40]"
 msgid "AL*41"
-msgstr ""
+msgstr " AL*40"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:41]"
 msgid " T:AL*42"
-msgstr " AL*42"
+msgstr "AL*41"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:42]"
 msgid " T:AL*43"
-msgstr " AL*43"
+msgstr " AL*42"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:43]"
 msgid " T:AL*44"
-msgstr " AL*44"
+msgstr " AL*43"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:44]"
 msgid " T:AL*45"
-msgstr " AL*45"
+msgstr " AL*44"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:45]"
 msgid " T:AL*46"
-msgstr " AL*46"
+msgstr " AL*45"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:46]"
 msgid " T:AL*47"
-msgstr " AL*47"
+msgstr " AL*46"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:47]"
 msgid " T:AL*48"
-msgstr " AL*48"
+msgstr " AL*47"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:48]"
 msgid " T:AL*49"
-msgstr " AL*49"
+msgstr " AL*48"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:49]"
 msgid " T:AL*50"
-msgstr " AL*50"
+msgstr " AL*49"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:50]"
 msgid "AL*51"
-msgstr ""
+msgstr " AL*50"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:51]"
 msgid " T:AL*52"
-msgstr " AL*52"
+msgstr "AL*51"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:52]"
 msgid " T:AL*53"
-msgstr " AL*53"
+msgstr " AL*52"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:53]"
 msgid " T:AL*54"
-msgstr " AL*54"
+msgstr " AL*53"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:54]"
 msgid " T:AL*55"
-msgstr " AL*55"
+msgstr " AL*54"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:55]"
 msgid " T:AL*56"
-msgstr " AL*56"
+msgstr " AL*55"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:56]"
 msgid " T:AL*57"
-msgstr " AL*57"
+msgstr " AL*56"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:57]"
 msgid " T:AL*58"
-msgstr " AL*58"
+msgstr " AL*57"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:58]"
 msgid " T:AL*59"
-msgstr " AL*59"
+msgstr " AL*58"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:59]"
 msgid " T:AL*60"
-msgstr " AL*60"
+msgstr " AL*59"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:60]"
 msgid "AL*61"
-msgstr ""
+msgstr " AL*60"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:61]"
 msgid " T:AL*62"
-msgstr " AL*62"
+msgstr "AL*61"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:62]"
 msgid " T:AL*63"
-msgstr " AL*63"
+msgstr " AL*62"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:63]"
 msgid " T:AL*64"
-msgstr " AL*64"
+msgstr " AL*63"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:64]"
 msgid " T:AL*65"
-msgstr " AL*65"
+msgstr " AL*64"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:65]"
 msgid " T:AL*66"
-msgstr " AL*66"
+msgstr " AL*65"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:66]"
 msgid " T:AL*67"
-msgstr " AL*67"
+msgstr " AL*66"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:67]"
 msgid " T:AL*68"
-msgstr " AL*68"
+msgstr " AL*67"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:68]"
 msgid " T:AL*69"
-msgstr " AL*69"
+msgstr " AL*68"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:69]"
 msgid " T:AL*70"
-msgstr " AL*70"
+msgstr " AL*69"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:70]"
 msgid "AL*71"
-msgstr ""
+msgstr " AL*70"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:71]"
 msgid " T:AL*72"
-msgstr " AL*72"
+msgstr "AL*71"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:72]"
 msgid " T:AL*73"
-msgstr " AL*73"
+msgstr " AL*72"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:73]"
 msgid " T:AL*74"
-msgstr " AL*74"
+msgstr " AL*73"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:74]"
 msgid " T:AL*75"
-msgstr " AL*75"
+msgstr " AL*74"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:75]"
 msgid " T:AL*76"
-msgstr " AL*76"
+msgstr " AL*75"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:76]"
 msgid " T:AL*77"
-msgstr " AL*77"
+msgstr " AL*76"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:77]"
 msgid " T:AL*78"
-msgstr " AL*78"
+msgstr " AL*77"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:78]"
 msgid " T:AL*79"
-msgstr " AL*79"
+msgstr " AL*78"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:79]"
 msgid " T:AL*80"
-msgstr " AL*80"
+msgstr " AL*79"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:80]"
 msgid "AL*81"
-msgstr ""
+msgstr " AL*80"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:81]"
 msgid " T:AL*82"
-msgstr " AL*82"
+msgstr "AL*81"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:82]"
 msgid " T:AL*83"
-msgstr " AL*83"
+msgstr " AL*82"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:83]"
 msgid " T:AL*84"
-msgstr " AL*84"
+msgstr " AL*83"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:84]"
 msgid " T:AL*85"
-msgstr " AL*85"
+msgstr " AL*84"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:85]"
 msgid " T:AL*86"
-msgstr " AL*86"
+msgstr " AL*85"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:86]"
 msgid " T:AL*87"
-msgstr " AL*87"
+msgstr " AL*86"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:87]"
 msgid " T:AL*88"
-msgstr " AL*88"
+msgstr " AL*87"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:88]"
 msgid " T:AL*89"
-msgstr " AL*89"
+msgstr " AL*88"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:89]"
 msgid " T:AL*90"
-msgstr " AL*90"
+msgstr " AL*89"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:90]"
 msgid "AL*91"
-msgstr ""
+msgstr " AL*90"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:91]"
 msgid " T:AL*92"
-msgstr " AL*92"
+msgstr "AL*91"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:92]"
 msgid " T:AL*93"
-msgstr " AL*93"
+msgstr " AL*92"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:93]"
 msgid " T:AL*94"
-msgstr " AL*94"
+msgstr " AL*93"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:94]"
 msgid " T:AL*95"
-msgstr " AL*95"
+msgstr " AL*94"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:95]"
 msgid " T:AL*96"
-msgstr " AL*96"
+msgstr " AL*95"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:96]"
 msgid " T:AL*97"
-msgstr " AL*97"
+msgstr " AL*96"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:97]"
 msgid " T:AL*98"
-msgstr " AL*98"
+msgstr " AL*97"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:98]"
 msgid " T:AL*99"
-msgstr " AL*99"
+msgstr " AL*98"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:99]"
 msgid " T:AL*100"
-msgstr " AL*100"
+msgstr " AL*99"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:100]"
 msgid " T:AL*101"
-msgstr " AL*101"
+msgstr " AL*100"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:101]"
 msgid " T:AL*102"
-msgstr " AL*102"
+msgstr " AL*101"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:102]"
 msgid " T:AL*103"
-msgstr " AL*103"
+msgstr " AL*102"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:103]"
 msgid " T:AL*104"
-msgstr " AL*104"
+msgstr " AL*103"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:104]"
 msgid " T:AL*105"
-msgstr " AL*105"
+msgstr " AL*104"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:105]"
 msgid " T:AL*106"
-msgstr " AL*106"
+msgstr " AL*105"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:106]"
 msgid " T:AL*107"
-msgstr " AL*107"
+msgstr " AL*106"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:107]"
 msgid " T:AL*108"
-msgstr " AL*108"
+msgstr " AL*107"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:108]"
 msgid " T:AL*109"
-msgstr " AL*109"
+msgstr " AL*108"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:109]"
 msgid " T:AL*110"
-msgstr " AL*110"
+msgstr " AL*109"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:110]"
 msgid "AL*111"
-msgstr ""
+msgstr " AL*110"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:111]"
 msgid " T:AL*112"
-msgstr " AL*112"
+msgstr "AL*111"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:112]"
 msgid " T:AL*113"
-msgstr " AL*113"
+msgstr " AL*112"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:113]"
 msgid " T:AL*114"
-msgstr " AL*114"
+msgstr " AL*113"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:114]"
 msgid " T:AL*115"
-msgstr " AL*115"
+msgstr " AL*114"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:115]"
 msgid " T:AL*116"
-msgstr " AL*116"
+msgstr " AL*115"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:116]"
 msgid " T:AL*117"
-msgstr " AL*117"
+msgstr " AL*116"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:117]"
 msgid " T:AL*118"
-msgstr " AL*118"
+msgstr " AL*117"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:118]"
 msgid " T:AL*119"
-msgstr " AL*119"
+msgstr " AL*118"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:119]"
 msgid " T:AL*120"
-msgstr " AL*120"
+msgstr " AL*119"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:120]"
 msgid "AL*121"
-msgstr ""
+msgstr " AL*120"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:121]"
 msgid " T:AL*122"
-msgstr " AL*122"
+msgstr "AL*121"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:122]"
 msgid " T:AL*123"
-msgstr " AL*123"
+msgstr " AL*122"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:123]"
 msgid " T:AL*124"
-msgstr " AL*124"
+msgstr " AL*123"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:124]"
 msgid " T:AL*125"
-msgstr " AL*125"
+msgstr " AL*124"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:125]"
 msgid " T:AL*126"
-msgstr " AL*126"
+msgstr " AL*125"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:126]"
 msgid " T:AL*127"
-msgstr " AL*127"
+msgstr " AL*126"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:127]"
 msgid " T:AL*128"
-msgstr " AL*128"
+msgstr " AL*127"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:128]"
 msgid " T:AL*129"
-msgstr " AL*129"
+msgstr " AL*128"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:129]"
 msgid " T:AL*130"
-msgstr " AL*130"
+msgstr " AL*129"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:130]"
 msgid "AL*131"
-msgstr ""
+msgstr " AL*130"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:131]"
 msgid " T:AL*132"
-msgstr " AL*132"
+msgstr "AL*131"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:132]"
 msgid " T:AL*133"
-msgstr " AL*133"
+msgstr " AL*132"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:133]"
 msgid " T:AL*134"
-msgstr " AL*134"
+msgstr " AL*133"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:134]"
 msgid " T:AL*135"
-msgstr " AL*135"
+msgstr " AL*134"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:135]"
 msgid " T:AL*136"
-msgstr " AL*136"
+msgstr " AL*135"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:136]"
 msgid " T:AL*137"
-msgstr " AL*137"
+msgstr " AL*136"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:137]"
 msgid " T:AL*138"
-msgstr " AL*138"
+msgstr " AL*137"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:138]"
 msgid " T:AL*139"
-msgstr " AL*139"
+msgstr " AL*138"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:139]"
 msgid " T:AL*140"
-msgstr " AL*140"
+msgstr " AL*139"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:140]"
 msgid "AL*141"
-msgstr ""
+msgstr " AL*140"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:141]"
 msgid " T:AL*142"
-msgstr " AL*142"
+msgstr "AL*141"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:142]"
 msgid " T:AL*143"
-msgstr " AL*143"
+msgstr " AL*142"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:143]"
 msgid " T:AL*144"
-msgstr " AL*144"
+msgstr " AL*143"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:144]"
 msgid " T:AL*145"
-msgstr " AL*145"
+msgstr " AL*144"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:145]"
 msgid " T:AL*146"
-msgstr " AL*146"
+msgstr " AL*145"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:146]"
 msgid " T:AL*147"
-msgstr " AL*147"
+msgstr " AL*146"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:147]"
 msgid " T:AL*148"
-msgstr " AL*148"
+msgstr " AL*147"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:148]"
 msgid " T:AL*149"
-msgstr " AL*149"
+msgstr " AL*148"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:149]"
 msgid " T:AL*150"
-msgstr " AL*150"
+msgstr " AL*149"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:150]"
 msgid "AL*151"
-msgstr ""
+msgstr " AL*150"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:151]"
 msgid " T:AL*152"
-msgstr " AL*152"
+msgstr "AL*151"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:152]"
 msgid " T:AL*153"
-msgstr " AL*153"
+msgstr " AL*152"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:153]"
 msgid " T:AL*154"
-msgstr " AL*154"
+msgstr " AL*153"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:154]"
 msgid " T:AL*155"
-msgstr " AL*155"
+msgstr " AL*154"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:155]"
 msgid " T:AL*156"
-msgstr " AL*156"
+msgstr " AL*155"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:156]"
 msgid " T:AL*157"
-msgstr " AL*157"
+msgstr " AL*156"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:157]"
 msgid " T:AL*158"
-msgstr " AL*158"
+msgstr " AL*157"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:158]"
 msgid " T:AL*159"
-msgstr " AL*159"
+msgstr " AL*158"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:159]"
 msgid " T:AL*160"
-msgstr " AL*160"
+msgstr " AL*159"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:160]"
 msgid "AL*161"
-msgstr ""
+msgstr " AL*160"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:161]"
 msgid " T:AL*162"
-msgstr " AL*162"
+msgstr "AL*161"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:162]"
 msgid " T:AL*163"
-msgstr " AL*163"
+msgstr " AL*162"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:163]"
 msgid " T:AL*164"
-msgstr " AL*164"
+msgstr " AL*163"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:164]"
 msgid " T:AL*165"
-msgstr " AL*165"
+msgstr " AL*164"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:165]"
 msgid " T:AL*166"
-msgstr " AL*166"
+msgstr " AL*165"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:166]"
 msgid " T:AL*167"
-msgstr " AL*167"
+msgstr " AL*166"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:167]"
 msgid " T:AL*168"
-msgstr " AL*168"
+msgstr " AL*167"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:168]"
 msgid " T:AL*169"
-msgstr " AL*169"
+msgstr " AL*168"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:169]"
 msgid " T:AL*170"
-msgstr " AL*170"
+msgstr " AL*169"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:170]"
 msgid "AL*171"
-msgstr ""
+msgstr " AL*170"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:171]"
 msgid " T:AL*172"
-msgstr " AL*172"
+msgstr "AL*171"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:172]"
 msgid " T:AL*173"
-msgstr " AL*173"
+msgstr " AL*172"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:173]"
 msgid " T:AL*174"
-msgstr " AL*174"
+msgstr " AL*173"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:174]"
 msgid " T:AL*175"
-msgstr " AL*175"
+msgstr " AL*174"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:175]"
 msgid " T:AL*176"
-msgstr " AL*176"
+msgstr " AL*175"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:176]"
 msgid " T:AL*177"
-msgstr " AL*177"
+msgstr " AL*176"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:177]"
 msgid " T:AL*178"
-msgstr " AL*178"
+msgstr " AL*177"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:178]"
 msgid " T:AL*179"
-msgstr " AL*179"
+msgstr " AL*178"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:179]"
 msgid " T:AL*180"
-msgstr " AL*180"
+msgstr " AL*179"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:180]"
 msgid "AL*181"
-msgstr ""
+msgstr " AL*180"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:181]"
 msgid " T:AL*182"
-msgstr " AL*182"
+msgstr "AL*181"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:182]"
 msgid " T:AL*183"
-msgstr " AL*183"
+msgstr " AL*182"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:183]"
 msgid " T:AL*184"
-msgstr " AL*184"
+msgstr " AL*183"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:184]"
 msgid " T:AL*185"
-msgstr " AL*185"
+msgstr " AL*184"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:185]"
 msgid " T:AL*186"
-msgstr " AL*186"
+msgstr " AL*185"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:186]"
 msgid " T:AL*187"
-msgstr " AL*187"
+msgstr " AL*186"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:187]"
 msgid " T:AL*188"
-msgstr " AL*188"
+msgstr " AL*187"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:188]"
 msgid " T:AL*189"
-msgstr " AL*189"
+msgstr " AL*188"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:189]"
 msgid " T:AL*190"
-msgstr " AL*190"
+msgstr " AL*189"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:190]"
 msgid "AL*191"
-msgstr ""
+msgstr " AL*190"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:191]"
 msgid " T:AL*192"
-msgstr " AL*192"
+msgstr "AL*191"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:192]"
 msgid " T:AL*193"
-msgstr " AL*193"
+msgstr " AL*192"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:193]"
 msgid " T:AL*194"
-msgstr " AL*194"
+msgstr " AL*193"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:194]"
 msgid " T:AL*195"
-msgstr " AL*195"
+msgstr " AL*194"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:195]"
 msgid " T:AL*196"
-msgstr " AL*196"
+msgstr " AL*195"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:196]"
 msgid " T:AL*197"
-msgstr " AL*197"
+msgstr " AL*196"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:197]"
 msgid " T:AL*198"
-msgstr " AL*198"
+msgstr " AL*197"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:198]"
 msgid " T:AL*199"
-msgstr " AL*199"
+msgstr " AL*198"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:199]"
 msgid " T:AL*200"
-msgstr " AL*200"
+msgstr " AL*199"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:200]"
 msgid " T:AL*201"
-msgstr " AL*201"
+msgstr " AL*200"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:201]"
 msgid " T:AL*202"
-msgstr " AL*202"
+msgstr " AL*201"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:202]"
 msgid " T:AL*203"
-msgstr " AL*203"
+msgstr " AL*202"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:203]"
 msgid " T:AL*204"
-msgstr " AL*204"
+msgstr " AL*203"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:204]"
 msgid " T:AL*205"
-msgstr " AL*205"
+msgstr " AL*204"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:205]"
 msgid " T:AL*206"
-msgstr " AL*206"
+msgstr " AL*205"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:206]"
 msgid " T:AL*207"
-msgstr " AL*207"
+msgstr " AL*206"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:207]"
 msgid " T:AL*208"
-msgstr " AL*208"
+msgstr " AL*207"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:208]"
 msgid " T:AL*209"
-msgstr " AL*209"
+msgstr " AL*208"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:209]"
 msgid " T:AL*210"
-msgstr " AL*210"
+msgstr " AL*209"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:210]"
 msgid "AL*211"
-msgstr ""
+msgstr " AL*210"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:211]"
 msgid " T:AL*212"
-msgstr " AL*212"
+msgstr "AL*211"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:212]"
 msgid " T:AL*213"
-msgstr " AL*213"
+msgstr " AL*212"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:213]"
 msgid " T:AL*214"
-msgstr " AL*214"
+msgstr " AL*213"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:214]"
 msgid " T:AL*215"
-msgstr " AL*215"
+msgstr " AL*214"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:215]"
 msgid " T:AL*216"
-msgstr " AL*216"
+msgstr " AL*215"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:216]"
 msgid " T:AL*217"
-msgstr " AL*217"
+msgstr " AL*216"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:217]"
 msgid " T:AL*218"
-msgstr " AL*218"
+msgstr " AL*217"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:218]"
 msgid " T:AL*219"
-msgstr " AL*219"
+msgstr " AL*218"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:219]"
 msgid " T:AL*220"
-msgstr " AL*220"
+msgstr " AL*219"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:220]"
 msgid "AL*221"
-msgstr ""
+msgstr " AL*220"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:221]"
 msgid " T:AL*222"
-msgstr " AL*222"
+msgstr "AL*221"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:222]"
 msgid " T:AL*223"
-msgstr " AL*223"
+msgstr " AL*222"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:223]"
 msgid " T:AL*224"
-msgstr " AL*224"
+msgstr " AL*223"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:224]"
 msgid " T:AL*225"
-msgstr " AL*225"
+msgstr " AL*224"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:225]"
 msgid " T:AL*226"
-msgstr " AL*226"
+msgstr " AL*225"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:226]"
 msgid " T:AL*227"
-msgstr " AL*227"
+msgstr " AL*226"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:227]"
 msgid " T:AL*228"
-msgstr " AL*228"
+msgstr " AL*227"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:228]"
 msgid " T:AL*229"
-msgstr " AL*229"
+msgstr " AL*228"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:229]"
 msgid " T:AL*230"
-msgstr " AL*230"
+msgstr " AL*229"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:230]"
 msgid "AL*231"
-msgstr ""
+msgstr " AL*230"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:231]"
 msgid " T:AL*232"
-msgstr " AL*232"
+msgstr "AL*231"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:232]"
 msgid " T:AL*233"
-msgstr " AL*233"
+msgstr " AL*232"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:233]"
 msgid " T:AL*234"
-msgstr " AL*234"
+msgstr " AL*233"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:234]"
 msgid " T:AL*235"
-msgstr " AL*235"
+msgstr " AL*234"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:235]"
 msgid " T:AL*236"
-msgstr " AL*236"
+msgstr " AL*235"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:236]"
 msgid " T:AL*237"
-msgstr " AL*237"
+msgstr " AL*236"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:237]"
 msgid " T:AL*238"
-msgstr " AL*238"
+msgstr " AL*237"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:238]"
 msgid " T:AL*239"
-msgstr " AL*239"
+msgstr " AL*238"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:239]"
 msgid " T:AL*240"
-msgstr " AL*240"
+msgstr " AL*239"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:240]"
 msgid "AL*241"
-msgstr ""
+msgstr " AL*240"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:241]"
 msgid " T:AL*242"
-msgstr " AL*242"
+msgstr "AL*241"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:242]"
 msgid " T:AL*243"
-msgstr " AL*243"
+msgstr " AL*242"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:243]"
 msgid " T:AL*244"
-msgstr " AL*244"
+msgstr " AL*243"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:244]"
 msgid " T:AL*245"
-msgstr " AL*245"
+msgstr " AL*244"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:245]"
 msgid " T:AL*246"
-msgstr " AL*246"
+msgstr " AL*245"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:246]"
 msgid " T:AL*247"
-msgstr " AL*247"
+msgstr " AL*246"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:247]"
 msgid " T:AL*248"
-msgstr " AL*248"
+msgstr " AL*247"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:248]"
 msgid " T:AL*249"
-msgstr " AL*249"
+msgstr " AL*248"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:249]"
 msgid " T:AL*250"
-msgstr " AL*250"
+msgstr " AL*249"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:250]"
 msgid "AL*251"
-msgstr ""
+msgstr " AL*250"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:251]"
 msgid " T:AL*252"
-msgstr " AL*252"
+msgstr "AL*251"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:252]"
 msgid " T:AL*253"
-msgstr " AL*253"
+msgstr " AL*252"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:253]"
 msgid " T:AL*254"
-msgstr " AL*254"
+msgstr " AL*253"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:254]"
 msgid " T:AL*255"
-msgstr " AL*255"
+msgstr " AL*254"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:255]"
 msgid " T:AL*256"
-msgstr " AL*256"
+msgstr " AL*255"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:256]"
 msgid " T:AL*257"
-msgstr " AL*257"
+msgstr " AL*256"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:257]"
 msgid " T:AL*258"
-msgstr " AL*258"
+msgstr " AL*257"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:258]"
 msgid " T:AL*259"
-msgstr " AL*259"
+msgstr " AL*258"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:259]"
 msgid " T:AL*260"
-msgstr " AL*260"
+msgstr " AL*259"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:260]"
 msgid "AL*261"
-msgstr ""
+msgstr " AL*260"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:261]"
 msgid " T:AL*262"
-msgstr " AL*262"
+msgstr "AL*261"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:262]"
 msgid " T:AL*263"
-msgstr " AL*263"
+msgstr " AL*262"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:263]"
 msgid " T:AL*264"
-msgstr " AL*264"
+msgstr " AL*263"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:264]"
 msgid " T:AL*265"
-msgstr " AL*265"
+msgstr " AL*264"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:265]"
 msgid " T:AL*266"
-msgstr " AL*266"
+msgstr " AL*265"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:266]"
 msgid " T:AL*267"
-msgstr " AL*267"
+msgstr " AL*266"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:267]"
 msgid " T:AL*268"
-msgstr " AL*268"
+msgstr " AL*267"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:268]"
 msgid " T:AL*269"
-msgstr " AL*269"
+msgstr " AL*268"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:269]"
 msgid " T:AL*270"
-msgstr " AL*270"
+msgstr " AL*269"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:270]"
 msgid "AL*271"
-msgstr ""
+msgstr " AL*270"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:271]"
 msgid " T:AL*272"
-msgstr " AL*272"
+msgstr "AL*271"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:272]"
 msgid " T:AL*273"
-msgstr " AL*273"
+msgstr " AL*272"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:273]"
 msgid " T:AL*274"
-msgstr " AL*274"
+msgstr " AL*273"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:274]"
 msgid " T:AL*275"
-msgstr " AL*275"
+msgstr " AL*274"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:275]"
 msgid " T:AL*276"
-msgstr " AL*276"
+msgstr " AL*275"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:276]"
 msgid " T:AL*277"
-msgstr " AL*277"
+msgstr " AL*276"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:277]"
 msgid " T:AL*278"
-msgstr " AL*278"
+msgstr " AL*277"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:278]"
 msgid " T:AL*279"
-msgstr " AL*279"
+msgstr " AL*278"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:279]"
 msgid " T:AL*280"
-msgstr " AL*280"
+msgstr " AL*279"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:280]"
 msgid "AL*281"
-msgstr ""
+msgstr " AL*280"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:281]"
 msgid " T:AL*282"
-msgstr " AL*282"
+msgstr "AL*281"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:282]"
 msgid " T:AL*283"
-msgstr " AL*283"
+msgstr " AL*282"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:283]"
 msgid " T:AL*284"
-msgstr " AL*284"
+msgstr " AL*283"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:284]"
 msgid " T:AL*285"
-msgstr " AL*285"
+msgstr " AL*284"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:285]"
 msgid " T:AL*286"
-msgstr " AL*286"
+msgstr " AL*285"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:286]"
 msgid " T:AL*287"
-msgstr " AL*287"
+msgstr " AL*286"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:287]"
 msgid " T:AL*288"
-msgstr " AL*288"
+msgstr " AL*287"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:288]"
 msgid " T:AL*289"
-msgstr " AL*289"
+msgstr " AL*288"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:289]"
 msgid " T:AL*290"
-msgstr " AL*290"
+msgstr " AL*289"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:290]"
 msgid "AL*291"
-msgstr ""
+msgstr " AL*290"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:291]"
 msgid " T:AL*292"
-msgstr " AL*292"
+msgstr "AL*291"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:292]"
 msgid " T:AL*293"
-msgstr " AL*293"
+msgstr " AL*292"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:293]"
 msgid " T:AL*294"
-msgstr " AL*294"
+msgstr " AL*293"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:294]"
 msgid " T:AL*295"
-msgstr " AL*295"
+msgstr " AL*294"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:295]"
 msgid " T:AL*296"
-msgstr " AL*296"
+msgstr " AL*295"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:296]"
 msgid " T:AL*297"
-msgstr " AL*297"
+msgstr " AL*296"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:297]"
 msgid " T:AL*298"
-msgstr " AL*298"
+msgstr " AL*297"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:298]"
 msgid " T:AL*299"
-msgstr " AL*299"
+msgstr " AL*298"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:299]"
 msgid " T:AL*300"
-msgstr " AL*300"
+msgstr " AL*299"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:300]"
 msgid " T:AL*301"
-msgstr " AL*301"
+msgstr " AL*300"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:301]"
 msgid " T:AL*302"
-msgstr " AL*302"
+msgstr " AL*301"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:302]"
 msgid " T:AL*303"
-msgstr " AL*303"
+msgstr " AL*302"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:303]"
 msgid " T:AL*304"
-msgstr " AL*304"
+msgstr " AL*303"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:304]"
 msgid " T:AL*305"
-msgstr " AL*305"
+msgstr " AL*304"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:305]"
 msgid " T:AL*306"
-msgstr " AL*306"
+msgstr " AL*305"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:306]"
 msgid " T:AL*307"
-msgstr " AL*307"
+msgstr " AL*306"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:307]"
 msgid " T:AL*308"
-msgstr " AL*308"
+msgstr " AL*307"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:308]"
 msgid " T:AL*309"
-msgstr " AL*309"
+msgstr " AL*308"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:309]"
 msgid " T:AL*310"
-msgstr " AL*310"
+msgstr " AL*309"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:310]"
 msgid "AL*311"
-msgstr ""
+msgstr " AL*310"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:311]"
 msgid " T:AL*312"
-msgstr " AL*312"
+msgstr "AL*311"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:312]"
 msgid " T:AL*313"
-msgstr " AL*313"
+msgstr " AL*312"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:313]"
 msgid " T:AL*314"
-msgstr " AL*314"
+msgstr " AL*313"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:314]"
 msgid " T:AL*315"
-msgstr " AL*315"
+msgstr " AL*314"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:315]"
 msgid " T:AL*316"
-msgstr " AL*316"
+msgstr " AL*315"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:316]"
 msgid " T:AL*317"
-msgstr " AL*317"
+msgstr " AL*316"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:317]"
 msgid " T:AL*318"
-msgstr " AL*318"
+msgstr " AL*317"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:318]"
 msgid " T:AL*319"
-msgstr " AL*319"
+msgstr " AL*318"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:319]"
 msgid " T:AL*320"
-msgstr " AL*320"
+msgstr " AL*319"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:320]"
 msgid "AL*321"
-msgstr ""
+msgstr " AL*320"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:321]"
 msgid " T:AL*322"
-msgstr " AL*322"
+msgstr "AL*321"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:322]"
 msgid " T:AL*323"
-msgstr " AL*323"
+msgstr " AL*322"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:323]"
 msgid " T:AL*324"
-msgstr " AL*324"
+msgstr " AL*323"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:324]"
 msgid " T:AL*325"
-msgstr " AL*325"
+msgstr " AL*324"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:325]"
 msgid " T:AL*326"
-msgstr " AL*326"
+msgstr " AL*325"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:326]"
 msgid " T:AL*327"
-msgstr " AL*327"
+msgstr " AL*326"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:327]"
 msgid " T:AL*328"
-msgstr " AL*328"
+msgstr " AL*327"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:328]"
 msgid " T:AL*329"
-msgstr " AL*329"
+msgstr " AL*328"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:329]"
 msgid " T:AL*330"
-msgstr " AL*330"
+msgstr " AL*329"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:330]"
 msgid "AL*331"
-msgstr ""
+msgstr " AL*330"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:331]"
 msgid " T:AL*332"
-msgstr " AL*332"
+msgstr "AL*331"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:332]"
 msgid " T:AL*333"
-msgstr " AL*333"
+msgstr " AL*332"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:333]"
 msgid " T:AL*334"
-msgstr " AL*334"
+msgstr " AL*333"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:334]"
 msgid " T:AL*335"
-msgstr " AL*335"
+msgstr " AL*334"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:335]"
 msgid " T:AL*336"
-msgstr " AL*336"
+msgstr " AL*335"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:336]"
 msgid " T:AL*337"
-msgstr " AL*337"
+msgstr " AL*336"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:337]"
 msgid " T:AL*338"
-msgstr " AL*338"
+msgstr " AL*337"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:338]"
 msgid " T:AL*339"
-msgstr " AL*339"
+msgstr " AL*338"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:339]"
 msgid " T:AL*340"
-msgstr " AL*340"
+msgstr " AL*339"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:340]"
 msgid "AL*341"
-msgstr ""
+msgstr " AL*340"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:341]"
 msgid " T:AL*342"
-msgstr " AL*342"
+msgstr "AL*341"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:342]"
 msgid " T:AL*343"
-msgstr " AL*343"
+msgstr " AL*342"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:343]"
 msgid " T:AL*344"
-msgstr " AL*344"
+msgstr " AL*343"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:344]"
 msgid " T:AL*345"
-msgstr " AL*345"
+msgstr " AL*344"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:345]"
 msgid " T:AL*346"
-msgstr " AL*346"
+msgstr " AL*345"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:346]"
 msgid " T:AL*347"
-msgstr " AL*347"
+msgstr " AL*346"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:347]"
 msgid " T:AL*348"
-msgstr " AL*348"
+msgstr " AL*347"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:348]"
 msgid " T:AL*349"
-msgstr " AL*349"
+msgstr " AL*348"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:349]"
 msgid " T:AL*350"
-msgstr " AL*350"
+msgstr " AL*349"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:350]"
 msgid "AL*351"
-msgstr ""
+msgstr " AL*350"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:351]"
 msgid " T:AL*352"
-msgstr " AL*352"
+msgstr "AL*351"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:352]"
 msgid " T:AL*353"
-msgstr " AL*353"
+msgstr " AL*352"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:353]"
 msgid " T:AL*354"
-msgstr " AL*354"
+msgstr " AL*353"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:354]"
 msgid " T:AL*355"
-msgstr " AL*355"
+msgstr " AL*354"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:355]"
 msgid " T:AL*356"
-msgstr " AL*356"
+msgstr " AL*355"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:356]"
 msgid " T:AL*357"
-msgstr " AL*357"
+msgstr " AL*356"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:357]"
 msgid " T:AL*358"
-msgstr " AL*358"
+msgstr " AL*357"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:358]"
 msgid " T:AL*359"
-msgstr " AL*359"
+msgstr " AL*358"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:359]"
 msgid " T:AL*360"
-msgstr " AL*360"
+msgstr " AL*359"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:360]"
 msgid "AL*361"
-msgstr ""
+msgstr " AL*360"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:361]"
 msgid " T:AL*362"
-msgstr " AL*362"
+msgstr "AL*361"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:362]"
 msgid " T:AL*363"
-msgstr " AL*363"
+msgstr " AL*362"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:363]"
 msgid " T:AL*364"
-msgstr " AL*364"
+msgstr " AL*363"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:364]"
 msgid " T:AL*365"
-msgstr " AL*365"
+msgstr " AL*364"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:365]"
 msgid " T:AL*366"
-msgstr " AL*366"
+msgstr " AL*365"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:366]"
 msgid " T:AL*367"
-msgstr " AL*367"
+msgstr " AL*366"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:367]"
 msgid " T:AL*368"
-msgstr " AL*368"
+msgstr " AL*367"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:368]"
 msgid " T:AL*369"
-msgstr " AL*369"
+msgstr " AL*368"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:369]"
 msgid " T:AL*370"
-msgstr " AL*370"
+msgstr " AL*369"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:370]"
 msgid "AL*371"
-msgstr ""
+msgstr " AL*370"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:371]"
 msgid " T:AL*372"
-msgstr " AL*372"
+msgstr "AL*371"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:372]"
 msgid " T:AL*373"
-msgstr " AL*373"
+msgstr " AL*372"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:373]"
 msgid " T:AL*374"
-msgstr " AL*374"
+msgstr " AL*373"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:374]"
 msgid " T:AL*375"
-msgstr " AL*375"
+msgstr " AL*374"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:375]"
 msgid " T:AL*376"
-msgstr " AL*376"
+msgstr " AL*375"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:376]"
 msgid " T:AL*377"
-msgstr " AL*377"
+msgstr " AL*376"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:377]"
 msgid " T:AL*378"
-msgstr " AL*378"
+msgstr " AL*377"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:378]"
 msgid " T:AL*379"
-msgstr " AL*379"
+msgstr " AL*378"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:379]"
 msgid " T:AL*380"
-msgstr " AL*380"
+msgstr " AL*379"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:380]"
 msgid "AL*381"
-msgstr ""
+msgstr " AL*380"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:381]"
 msgid " T:AL*382"
-msgstr " AL*382"
+msgstr "AL*381"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:382]"
 msgid " T:AL*383"
-msgstr " AL*383"
+msgstr " AL*382"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:383]"
 msgid " T:AL*384"
-msgstr " AL*384"
+msgstr " AL*383"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:384]"
 msgid " T:AL*385"
-msgstr " AL*385"
+msgstr " AL*384"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:385]"
 msgid " T:AL*386"
-msgstr " AL*386"
+msgstr " AL*385"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:386]"
 msgid " T:AL*387"
-msgstr " AL*387"
+msgstr " AL*386"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:387]"
 msgid " T:AL*388"
-msgstr " AL*388"
+msgstr " AL*387"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:388]"
 msgid " T:AL*389"
-msgstr " AL*389"
+msgstr " AL*388"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:389]"
 msgid " T:AL*390"
-msgstr " AL*390"
+msgstr " AL*389"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:390]"
 msgid "AL*391"
-msgstr ""
+msgstr " AL*390"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:391]"
 msgid " T:AL*392"
-msgstr " AL*392"
+msgstr "AL*391"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:392]"
 msgid " T:AL*393"
-msgstr " AL*393"
+msgstr " AL*392"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:393]"
 msgid " T:AL*394"
-msgstr " AL*394"
+msgstr " AL*393"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:394]"
 msgid " T:AL*395"
-msgstr " AL*395"
+msgstr " AL*394"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:395]"
 msgid " T:AL*396"
-msgstr " AL*396"
+msgstr " AL*395"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:396]"
 msgid " T:AL*397"
-msgstr " AL*397"
+msgstr " AL*396"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:397]"
 msgid " T:AL*398"
-msgstr " AL*398"
+msgstr " AL*397"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:398]"
 msgid " T:AL*399"
-msgstr " AL*399"
+msgstr " AL*398"
 
 #: Classes.otsf
 msgctxt "[Class:AlrmNo][Resource:399]"
 msgid " T:AL*400"
-msgstr " AL*400"
+msgstr " AL*399"
+
+#: Classes.otsf
+msgctxt "[Class:AlrmNo][Resource:400]"
+msgid " AL*400"
+msgstr ""
 
 #: Classes.otsf
 msgctxt "[Class:ASCII_Dig_EBM][Resource:0]"
@@ -8088,6 +8098,11 @@ msgid "BREASSAGE"
 msgstr "BRASSAGE"
 
 #: Classes.otsf
+msgctxt "[Class:MODE][Resource:7]"
+msgid "ETALONNAGE"
+msgstr "ETALONNAGE"
+
+#: Classes.otsf
 msgctxt "[Class:Month][Resource:0]"
 msgid ""
 msgstr ""
@@ -11575,7 +11590,7 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_4]"
 msgid "g"
-msgstr ""
+msgstr "g"
 
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_temp_Clone_3_Clone_3][Field:Text_6]"
@@ -12068,6 +12083,21 @@ msgid "%"
 msgstr "%"
 
 #: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_6]"
+msgid "reset KWH"
+msgstr "reset kwh"
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_7]"
+msgid "reset KWH"
+msgstr "kwh total"
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_8]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
 msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_9]"
 msgid ":"
 msgstr ""
@@ -12079,6 +12109,11 @@ msgstr ":"
 
 #: 02_Main.otws
 msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_11]"
+msgid ":"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:Supervision_Vventil_extair1_Clone_2_Clone_2_Clone_2][Field:Text_12]"
 msgid ":"
 msgstr ""
 
@@ -12155,7 +12190,7 @@ msgstr "Extair4500"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2][Field:Text]"
 msgid "SEL regul"
-msgstr ""
+msgstr "Time"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2][Field:Text_2]"
@@ -12180,7 +12215,27 @@ msgstr "Coucher du soleil"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2][Field:Text_6]"
 msgid "4"
-msgstr "5"
+msgstr "7"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_7]"
+msgid "m"
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_8]"
+msgid "m"
+msgstr "m"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_11]"
+msgid "OFFSET"
+msgstr "decalage"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2][Field:Text_12]"
+msgid "OFFSET"
+msgstr "decalage"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2][Field:Text]"
@@ -12253,6 +12308,16 @@ msgid ":"
 msgstr ":"
 
 #: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_4]"
+msgid "LIMminM3H"
+msgstr "LIM min M3H:"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3][Field:Text_5]"
+msgid "M3H"
+msgstr "M3H"
+
+#: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_2_Clone_2][Field:Text]"
 msgid "ADMIN"
 msgstr ""
@@ -12310,7 +12375,7 @@ msgstr "4"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text]"
 msgid "SEL regul"
-msgstr "SEL DESHU"
+msgstr "SEL DESHU HR & HYST"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_2]"
@@ -12320,7 +12385,7 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2][Field:Text_3]"
 msgid "1"
-msgstr "1"
+msgstr "3"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text]"
@@ -12335,7 +12400,7 @@ msgstr "Jour"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_3]"
 msgid "1"
-msgstr "3"
+msgstr "5"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3][Field:Text_4]"
@@ -12690,7 +12755,7 @@ msgstr "Jour"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_3]"
 msgid "1"
-msgstr "4"
+msgstr "6"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_3_Clone_2][Field:Text_4]"
@@ -12740,7 +12805,7 @@ msgstr ":"
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_3]"
 msgid "1"
-msgstr "2"
+msgstr "4"
 
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_5]"
@@ -12825,6 +12890,101 @@ msgstr ""
 #: 02_Main.otws
 msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_2][Field:Text_23]"
 msgid ""
+msgstr ""
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text]"
+msgid "SEL DESHU"
+msgstr "SEL DESHU"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_2]"
+msgid "SP DH"
+msgstr "activ SetPoint DH"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_3]"
+msgid "1"
+msgstr "2"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_4]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_5]"
+msgid "SP Jour HR"
+msgstr "SP Jour DH"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_6]"
+msgid "g/M^3"
+msgstr "g/m^3"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_7]"
+msgid "SP Nuit HR"
+msgstr "SP Nuit DH"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_8]"
+msgid "SP Actu"
+msgstr "SP Actu"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_9]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_10]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_11]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_12]"
+msgid "SP Nuit DH"
+msgstr "conv DH en HR"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_13]"
+msgid "%"
+msgstr "g/m^3"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_14]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_15]"
+msgid "%"
+msgstr "%"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_16]"
+msgid "%"
+msgstr "%"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_17]"
+msgid "SP Nuit DH"
+msgstr "Tserre Actu"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_18]"
+msgid ":"
+msgstr ":"
+
+#: 02_Main.otws
+msgctxt "[Mask:SwInfo_Clone_2_Clone_3_Clone_2_Clone_3][Field:Text_19]"
+msgid "g/m^3"
 msgstr ""
 
 #: 02_Main.otws

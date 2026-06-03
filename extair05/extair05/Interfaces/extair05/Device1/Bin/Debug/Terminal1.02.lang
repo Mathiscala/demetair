@@ -260,16 +260,31 @@ RegistreSp3
 %
 %
 SEL regul
-h
-h
-Lever Du Soleil
-Coucher du soleil
-5
-SEL regul
 Selection du Mode
 1
+LIM min M3H:
+M3H
 SEL DESHU
-1
+2
+SP Jour DH
+SP Nuit DH
+SP Actu
+:
+:
+:
+g/m^3
+%
+activ SetPoint DH
+g/m^3
+conv DH en HR
+:
+%
+:
+Tserre Actu
+:
+Ž
+SEL DESHU HR & HYST
+3
 IF RH<SETP-HYS: STOP
 IF RH>SETP    : RUN
 SP Jour HR
@@ -285,7 +300,7 @@ SP Actu
 %
 %
 FREECOOLING/FREEDESHU
-2
+4
 :
 Ž
 g
@@ -305,7 +320,7 @@ deltaTlimiBaFD
 :
 Ž
 Consigne M3H free
-3
+5
 Jour
 NUIT
 Vent bas FC
@@ -321,7 +336,7 @@ M3H
 M3H
 M3H
 Consigne M3H brassage
-4
+6
 Jour
 Nuit
 Vent Haut
@@ -330,6 +345,16 @@ Vent Haut
 :
 M3H
 M3H
+Time
+h
+h
+Lever Du Soleil
+Coucher du soleil
+7
+decalage
+decalage
+m
+m
 PID Vent Haut
 Kp
 Ti
@@ -365,6 +390,10 @@ Registre ON 1
 Registre ON 2
 Registre ON 3
 %
+reset kwh
+kwh total
+:
+:
 HAUPTSEITE
 /
 /
@@ -865,10 +894,12 @@ Line imp. high EBM 2
 Speed limit exceed EBM 2
 Rotor position sensor calibration error EBM 2
 Calibration of rotor position sensor in progress EBM 2
+Filtre sature
 Start
 Stopp
 AL*01
 AL*02
+ AL*02
  AL*03
  AL*04
  AL*05
@@ -2391,6 +2422,7 @@ FREECOOL
 FREEDESHU
 DESHU
 BRASSAGE
+ETALONNAGE
 Speic. schr:
 Beispiel1:
 Beispiel1:
