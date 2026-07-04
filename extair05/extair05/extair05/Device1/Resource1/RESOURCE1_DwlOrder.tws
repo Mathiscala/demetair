@@ -1,7 +1,7 @@
 ****** __RDCC_MODULE_ID ******
 00000000 :  53 49 4D 55 4C 41 54 4F  -  52 00 00 00 00 00 00 00   * Target Name : SIMULATOR
 00000010 :  0C 00 00 00   * RDCC format version number
-00000014 :  1A CD 47 E4   * Resource check sum
+00000014 :  D8 E4 45 04   * Resource check sum
 00000018 :  AF D9 1D 53   * Module check sum
 0000001C :  00 00 00 00   * Module ID parameter
 00000020 :  88 0E 00 00   * Total size
@@ -9,8 +9,8 @@
 00000028 :  44 00 00 00   * Offset -> resource name
 0000002C :  5F 00 00 00   * Offset -> module name
 00000030 :  90 00 00 00   * Offset -> beginning of the data block
-00000034 :  A4 F7 1E 6A   * Compilation generation date
-00000038 :  D4 00 00 00   * Compilation version number
+00000034 :  43 F4 3B 6A   * Compilation generation date
+00000038 :  D6 00 00 00   * Compilation version number
 0000003C :  00 00 00 00   * User module version number
 00000040 :  75 00 00 00   * Offset -> target auto-validation data
 00000044 :  45 58 54 41 49 52 30 35  -  5C 44 45 56 49 43 45 31 
